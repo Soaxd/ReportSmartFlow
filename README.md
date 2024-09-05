@@ -766,7 +766,13 @@ En el footer deben estar los términos y condiciones, política de privacidad, r
 *Imagen: Components  Diagram*
 
 
+## 4.8. Database Design
+<a name="48"></a>
+### 4.8.1. Database Diagram
+<a name="481"></a>
 
+![diagrama_base_de_datos](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/SmartFlow-DataBase.png)
+*Imagen: Diagrama de la Base de Datos*
 
 
 
