@@ -344,3 +344,72 @@ El producto debe tener una interfaz clara y fácil de usar, con gráficos accesi
 |Voy a adquirir la mayoría de mis clientes a través de campañas de marketing digital dirigidas, colaboraciones con asociaciones industriales y recomendaciones de clientes existentes|Asumimos que los clientes se suscribirán a los planes de SmartFlow debido a los beneficios de monitoreo y control que ofrecen nuestros planes de precios escalonados.|
 
 </br>
+
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+<a name="1223"></a>
+
+|Hypothesis Statement 1|
+|:---|
+|Creemos que ofrecer alertas en SmartFlow atraerá a los usuarios que desean controlar el consumo de recursos en tiempo real|
+|Sabremos que esto es cierto...|
+|Cuando el 60% de los usuarios mencionen la utilidad de las alertas durante los primero 6 meses|
+
+|Hypothesis Statement 2|
+|:---|
+|Creemos que la capacidad de controlar la producción y los turnos asociados a cada máquina será crucial para las empresas que elijan SmartFlow|
+|Sabremos que esto es cierto...|
+|Cuando veamos que el 70% de las empresas reportan mejoras en la eficiencia operativa y utilizan regularmente estas características|
+
+|Hypothesis Statement 3|
+|:---|
+|Creemos que una interfaz intuitiva tanto en la versión web como móvil aumentará la adopción de SmartFlow|
+|Sabremos que esto es cierto...|
+|Cuando veamos que las personas que usan la interfaz se sientan más satisfechas al saber que pueden acceder y gestionar fácilmente sus datos y configuraciones sin dificultades|
+
+#### 1.2.2.4. Lean UX Canvas
+<a name="1224"></a>
+
+
+<img src=https://raw.githubusercontent.com/WiJeGo/MAckdown-prueba/main/imagenes/Lean%20UX%20Canvas.png
+style="display: block; 
+margin-left:auto; 
+margin-right: auto;"/>
+*Imagen: Lean UX Canvas*
+
+
+## 1.3. Segmentos objetivo
+<a name="13"></a>
+
+**Segmento Empresarial**</br>
+
+Por el lado empresarial, se ha considerado como segmento objetivo a los dueños o administradores de empresas como talleres, que buscan controlar su producción y costos mediante la regulación de los recursos que sus maquinarias consumen. Según el Anuario Estadístico de Electricidad 2022, el sector industrial representa el 40% del consumo total de electricidad en el país. Además, el consumo de agua en este sector ha aumentado un 5% anual en los últimos cinco años.
+</br></br>
+
+| Caracteristicas  |Datos |
+|:-------|:----------|
+|Segmento objetivo|Empresarial|
+|Edad |Entre 20 y 60 años|
+|Ubicación|Perú|
+|Sexo|Masculino o Femenino|
+|Formación educativa |Educación secundaria o superior|
+|Poder adquisitivo|Medio a Alto|
+
+</br>
+
+**Segmento Residencial**</br>
+
+Del mismo modo, consideramos como segmento objetivo a personas naturales que desean regular y monitorear el consumo de sus recursos en sus hogares o zonas donde se implemente SmartFlow. El sector residencial representa el 20% del consumo total de electricidad, según el Anuario Estadístico de Electricidad 2022.
+
+</br>
+
+| Caracteristicas  |Datos |
+|:-------|:----------|
+|Segmento objetivo|Residencial|
+|Edad |Entre 18 y 60 años|
+|Ubicación|Perú|
+|Sexo|Masculino o Femenino|
+|Formación educativa |Educación secundaria o superior|
+|Poder adquisitivo|Medio|
+
+</br>
