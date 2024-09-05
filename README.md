@@ -468,6 +468,40 @@ Finalmente, la principal coincidencia encontrada es que tanto los usuarios empre
 
 </br>
 
+### 2.3.3. User Journey Mapping
+<a name="233"></a>
+
+Para el segmento Empresarial, se ha identificado como partida el sobreuso de la maquinaria eléctrica, lo que genera altos costos de producción. En el caso del segmento Residencial, el enfoque se centra en el sobreprecio de los recibos de agua y luz. En ambos casos, la solución radica en la necesidad de un sistema de monitoreo en tiempo real que permita controlar y optimizar el consumo de recursos. 
+
+
+
+* **Segmento Empresarial**
+![jouneymapPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/journey-map-Pedro.png)
+*Imagen: Journey Map Pedro*
+
+</br>
+
+* **Segmento Residencial**
+![jouneymapJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/journey-map-Jesus.png)
+*Imagen: Journey Map Jesus*
+
+
+### 2.3.4. Empathy Mapping
+<a name="234"></a>
+
+En esta sección, se crearon Empathy Maps para cada grupo objetivo, utilizando una plantilla de EXPressia. Esta herramienta incluye todos los componentes necesarios, junto con preguntas específicas que se respondieron en función de lo que se identificó en nuestro análisis del público objetivo.
+
+* **Segmento Empresarial**
+![empathymapPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Empathy-map-Pedro.png)
+*Imagen: Empathy Map Pedro*
+
+</br>
+
+* **Segmento Residencial**
+![empathymapJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Empathy-map-Jesus.png)
+*Imagen: Empathy Map Jesus*
+
+
 ## 3.2. User Stories
 <a name="32"></a>
 
