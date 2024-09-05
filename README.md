@@ -421,6 +421,26 @@ Del mismo modo, consideramos como segmento objetivo a personas naturales que des
 |Formación educativa |Educación secundaria o superior|
 |Poder adquisitivo|Medio|
 
+## 2.3. Needfinding
+<a name="23"></a>
+### 2.3.1. User Personas
+<a name="231"></a>
+
+Para la realizacion de las fichas de User Personas se han considerado los 2 segmentos objetivos: Empresarial y Residencial. Se elaborarán las fichas con la información recopilada de las entrevistas sobre su perfil.
+
+* **Segmento Empresarial**
+
+![userpersonaPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Pedro-Gonzales.png)
+*Imagen: User Persona Dueño Textil*
+
+</br></br>
+
+* **Segmento Residencial**
+
+![userpersonaJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Jes%C3%BAs-Castillo.png)
+*Imagen: User Persona Contador*
+
+</br>
 
 ## 3.2. User Stories
 <a name="32"></a>
