@@ -57,8 +57,7 @@ width=30%"/>
 
 | Versión |   Fecha    |             Autor             |                                                                   Descripción de modificación                                                                   |
 |:-------:|:----------:|:-----------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  TB1  | 08/09/2024 |           Góngora Castillejos, Williams Jesus </br> De La Cruz Moreno, Roy Hernan </br> Nombre </br> Taquiri Calderon, Jhunior Giussepe </br> Silva Tirado, Sebastian Valentino           |                                                      Creación del documento de trabajo en formato markdown, etc...                                                      |
-
+|  TB1  | 05/09/2024 |           Góngora Castillejos, Williams Jesus </br> De La Cruz Moreno, Roy Hernan </br> Nombre </br> Taquiri Calderon, Jhunior Giussepe </br> Silva Tirado, Sebastian Valentino           |                                                      Creación del documento de trabajo en formato markdown, capítulo I, capítulo II, capítulo III, capítulo IV y capítulo V                                                      |
 
 </br>
 </br>
