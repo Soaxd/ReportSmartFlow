@@ -34,6 +34,8 @@ width=30%"/>
 
 <h5 style="text-align: center">AGOSTO, 2024</h5>
 
-
+<h1> General Style Guidelines </h1>
+<p> •	Colores: Se usará una paleta que refuerce la identidad del sitio. Considera colores que transmitan profesionalismo y tecnología utilizando tonos de azul y gris con acentos en naranja o verde </p>
+<img src=https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/paletadeverde.png />
 </br>
 </br>
