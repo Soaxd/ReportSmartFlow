@@ -195,3 +195,17 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 &emsp;7.1. [Anexo N°1: Número de clientes finales por sectores](#anexo1)
 </br></br></br>
 
+## Student Outcome
+El curso contribuye al cumplimiento del Student Outcome ABET:</br> 
+**ABET – EAC - Student Outcome 5**
+
+**Criterio:** La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
+
+</br>
+
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
+|-------------------------|--------------------------|------------------|
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | Gongora Castillejos, Williams <br> **TB1:** <br> - <br> - <br> - <br> Silva Tirado, Sebastian Valentino     <br>    Giussepe Taquiri Calderon| .........|
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | | .........|
+
+</br></br></br></br></br></br>
