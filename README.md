@@ -442,6 +442,32 @@ Para la realizacion de las fichas de User Personas se han considerado los 2 segm
 
 </br>
 
+
+### 2.3.2. User Task Matrix
+<a name="232"></a>
+
+
+| **Tarea** | **Segmento Empresarial**  (Frecuencia) | **Segmento Empresarial** (Importancia) | **Segmento Residencial** (Frecuencia) | **Segmento Residencial** (Importancia) |
+|-----------|--------------------------------------|----------------------------------------|--------------------------------------|----------------------------------------|
+| **Monitoreo en tiempo real del consumo de recursos** | Alta | Alta | Media | Alta |
+| **Configuración y personalización de alertas** | Media | Alta | Baja | Media |
+| **Control de la producción de cada máquina** | Alta | Alta | Muy Baja | Muy Baja |
+| **Gestión de turnos asociados a cada máquina** | Alta | Alta | Muy Baja | Muy Baja |
+| **Visualización y análisis de reportes de consumo** | Media | Alta | Media | Media |
+| **Acceso y gestión a través de la aplicación móvil** | Media | Media | Alta | Alta |
+| **Integración de nuevos dispositivos IoT** | Media | Alta | Baja | Media |
+| **Recepción de notificaciones de consumo anómalo** | Media | Alta | Media | Alta |
+| **Actualización de datos de usuarios y permisos** | Baja | Media | Baja | Baja |
+
+A partir del User Task Matrix, resaltaremos las tareas de mayor trascendencia. Entre ellas está 'monitorear el consumo de recursos' ya que es crucial para detectar anomalias o fallas en el consumo de los recursos. Esta tarea es fundamental para que las empresas reduzcan costos operativos y los usuarios residenciales mantengan un control sobre sus gastos.
+Asimismo, la tarea de 'realizar ajustes en tiempo real' es clave para optimizar el rendimiento de las máquinas y mantener el consumo de recursos dentro de los límites preestablecidos.
+
+Por otro lado, las principales diferencias entre ambos segmentos radican en las necesidades de monitoreo y control. El segmento empresarial se enfoca en optimizar la producción y reducir costos, mientras que el segmento residencial prioriza el control de gastos en el hogar.
+
+Finalmente, la principal coincidencia encontrada es que tanto los usuarios empresariales como residenciales valoran recibir alertas en tiempo real, lo que les permite tomar decisiones informadas sobre el consumo de recursos.
+
+</br>
+
 ## 3.2. User Stories
 <a name="32"></a>
 
