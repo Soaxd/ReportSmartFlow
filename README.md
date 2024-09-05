@@ -530,9 +530,9 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
     <td>   <br>URL del   video en OneDrive:    </td>
   </tr>
   <tr>
-    <td></td>
+    <td> <img src="img/imagen_2024-09-05_173401828.png"> </td>
     <td>&nbsp;&nbsp;&nbsp;<br>Entrevistado N°2: Marcia Rea<br>&nbsp;&nbsp;&nbsp;<br>Sexo: Femenino<br>&nbsp;&nbsp;&nbsp;<br>Edad: 20<br>&nbsp;&nbsp;&nbsp;<br>Domicilio: San Martín de Porres.&nbsp;&nbsp;&nbsp;</td>
-    <td>   <br>Link: </td>
+    <td>   <br>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/ESBuTXMrV5ZDmvxNIRu6JCcBfxgMVepeMCQ0xlXBaMWO3g?e=fn8an4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #2</a></td>
   </tr>
   <tr>
     <td colspan="3">   <br>Resumen   de la entrevista:   </td>
