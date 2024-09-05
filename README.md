@@ -287,3 +287,60 @@ SmartFlow ofrece varios planes de precios para adaptarse a diferentes necesidade
 |¿Podría SmartFlow desarrollar una plataforma que unifique el monitoreo de recursos en diversos contextos?|
 
 </br>
+
+
+#### 1.2.2.2. Lean UX Assumptions
+<a name="1222"></a>
+
+**1. ¿Quién es el usuario?**
+
+Nuestro producto está dirigido a dueños y administradores de empresas con maquinaria eléctrica, así como a personas que desean monitorear el consumo de recursos en sus hogares o en lugares implementados con SmartFlow.
+
+
+**2. ¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+SmartFlow se integra en los procesos de gestión y monitoreo de recursos de las empresas y en la administración de consumo doméstico, proporcionando datos en tiempo real sobre el uso de energía y agua.
+
+
+**3. ¿Qué problemas tiene nuestro producto? ¿Resolver?**
+
+Nuestro producto enfrenta el problema de la falta de integración eficiente entre la recopilación de datos y la visualización del consumo de recursos. Debe resolver este problema proporcionando una plataforma robusta que combine la captura en tiempo real de datos de consumo de energía y agua con herramientas analíticas que permitan a los usuarios identificar y gestionar recursos de manera efectiva y recibir alertas de consumo anormal.
+
+**4. ¿Cuándo y cómo es nuestro producto? ¿Usado?**
+
+Nuestro producto se utiliza continuamente para monitorear y analizar el consumo de recursos en tiempo real. El acceso es a través de interfaces web y móviles por parte de los usuarios para gestionar y ajustar sus recursos.
+
+
+
+**5. ¿Qué características son importantes?**
+
+* Monitoreo en tiempo real: Captura y muestra datos actualizados sobre el consumo de recursos, como electricidad y agua.
+
+* Alertas: Notificaciones automáticas cuando se detectan consumos anómalos o se superan los umbrales predefinidos.
+
+* Control de producción: Capacidad para gestionar y supervisar la producción individual de cada maquinaria, permitiendo ajustes en tiempo real para optimizar el rendimiento.
+
+* Gestión de turnos: Funcionalidad para asignar y controlar los turnos de trabajo de las personas asociadas a cada máquina, facilitando la supervisión y gestión del personal.
+
+* Integración con IoT: Capacidad para conectarse con dispositivos y sensores de maquinaria para una recopilación de datos precisa y continua.
+
+* Interfaz intuitiva: Diseño fácil de usar tanto en la versión web como móvil para facilitar el acceso y la gestión de los datos.
+
+
+
+**6. ¿Cómo debe verse nuestro producto y cómo comportarse?**
+
+El producto debe tener una interfaz clara y fácil de usar, con gráficos accesibles. Debe comportarse de manera rapida y confiable, ofreciendo actualizaciones en tiempo real y notificaciones precisas sobre el consumo de recursos.
+
+</br>
+
+|**Presentación de otros supuestos:**|**Presentación de otros supuestos:**|
+|:--------------:|:------:|
+|Creo que mis clientes necesitan una solución integral que les permita monitorear y controlar el consumo de recursos en tiempo real, así como gestionar la producción y el personal asociado a sus maquinarias de manera eficiente|Haremos dinero a través de suscripciones mensuales, que incluyen un Plan Básico a $99/mes, un Plan Pro a $199/mes, y un Plan Empresarial personalizado, adaptando las funcionalidades y soporte según las necesidades del cliente|
+|Estas necesidades se pueden resolver con un sistema integrado que combine monitoreo en tiempo real, alertas personalizables, control de producción, gestión de turnos, y conectividad IoT para una recopilación precisa de datos|Mi competencia principal en el mercado será otras soluciones de monitoreo de consumo y producción que utilizan tecnologías IoT, así como sistemas de gestión energética existentes|
+|Mis clientes iniciales serán dueños de talleres y pequeñas empresas que utilizan maquinaria eléctrica y buscan optimizar el consumo de recursos y mejorar la eficiencia en su producción|Los venceremos debido a nuestra integración avanzada con IoT, la capacidad de personalización de alertas y gestión de turnos, y una interfaz intuitiva que facilita el acceso y manejo de datos en tiempo real|
+|El valor número uno que un cliente quiere de mi servicio es mejorar la eficiencia en el uso de recursos y la gestión operativa.|Mi mayor riesgo de producto es la falta de compatibilidad con una amplia variedad de dispositivos y sensores|
+|El cliente también puede optar por personalizar alertas, integrar dispositivos adicionales para un monitoreo más amplio, y acceder a reportes detallados para una mejor toma de decisiones|Resolveremos esto a través de una exhaustiva fase de pruebas y certificación con diferentes tipos de dispositivos y sensores, así como el desarrollo de módulos de integración flexibles que permitan la adaptación a diversas tecnologías y estándares del mercado|
+|Voy a adquirir la mayoría de mis clientes a través de campañas de marketing digital dirigidas, colaboraciones con asociaciones industriales y recomendaciones de clientes existentes|Asumimos que los clientes se suscribirán a los planes de SmartFlow debido a los beneficios de monitoreo y control que ofrecen nuestros planes de precios escalonados.|
+
+</br>
