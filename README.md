@@ -414,4 +414,122 @@ Del mismo modo, consideramos como segmento objetivo a personas naturales que des
 |Formación educativa |Educación secundaria o superior|
 |Poder adquisitivo|Medio|
 
+# Capítulo IV: Product Design
+<a name="4"></a>
+## 4.1. Style Guidelines
+<a name="41"></a>
+•	Colores: Se usará una paleta que refuerce la identidad del sitio. Considera colores que transmitan profesionalismo y tecnología utilizando tonos de azul y gris con acentos en naranja o verde
+
+![paletadecolores](https://hackmd.io/_uploads/BkCX1aU2R.jpg)
+
+
+•	Tipografía: Se usarán fuentes legibles, como Roboto o Lato para texto y subtítulos. Para los títulos, una fuente más impactante como Oswald. Asegúrate de que el contraste con el fondo sea suficiente para buena legibilidad.
+
+![fuentedetexto](https://hackmd.io/_uploads/Sy_FD382C.jpg)
+
+•	Espaciado: Se utiliza suficiente espacio en blanco para evitar la sobrecarga visual.
+
+•	Botones: Los botones se caracterizan con colores sólidos y un tamaño adecuado. Añadiremos efectos de hover que cambien ligeramente el color o el tamaño.
+
+•	Imágenes: Se usan imagenes en alta resolución que representen el contenido y mensaje de la página. 
+
+•	Simplicidad: Un diseño simple crea una experiencia de usuario intuitiva y evita el uso excesivo de elementos que puedan hacer perder el foco de atención al usuario
+
+### 4.1.1. General Style Guidelines
+<a name="411"></a>
+
+### 4.1.2. Web Style Guidelines
+<a name="412"></a>
+
+•	Diseño Responsivo: Nos aseguraremos que la página se vea bien en diferentes dispositivos (escritorio, tabletas, móviles). Utilizando diversas técnicas de CSS
+
+•	Navegación Clara: La estructura de navegación debe ser simple y accesible. Los menús deben estar claramente etiquetados, y los enlaces importantes deben estar visibles sin necesidad de hacer scroll.
+
+•	Consistencia Visual: Mantendremos una coherencia en los estilos de botones, formularios y links en toda la página. Usaremos el mismo esquema de colores y tipografías en todo el sitio.
+
+•	Performance: Optimizaremos los recursos (imágenes, scripts) para tiempos de carga rápidos.
+
+## 4.2. Information Architecture
+<a name="42"></a>
+### 4.2.1. Organization Systems
+<a name="421"></a>
+
+Utilizaremos diferentes tamaños de fuente y colores para establecer una clara jerarquía de información. Los títulos deben ser fácilmente diferenciables de los subtítulos y del cuerpo del texto. Haremos una estructuración de contenido para dividirlo en secciones lógicas utilizando encabezados para garantizar la información.
+
+### 4.2.2. Labeling Systems
+<a name="422"></a>
+
+|Solicitar Demo |Es un botón donde los usuarios podrán contactarnos para solicitar una demostración personalizada |
+|----|---------------|
+|Características |Es un botón que lleva a los usuarios a visualizar las características principales de nuestra aplicación |
+|Beneficios |Es un botón que lleva a los usuarios a visualizar los beneficios de nuestra aplicación |
+|Testimonios |Es un botón que lleva a los usuarios a visualizar los testimonios de las personas que utilizan nuestra aplicación |
+|Planes |Es un botón que lleva a los usuarios a visualizar los planes disponibles de la aplicación |
+|Iniciar sesión |Es un botón para iniciar sesión en la cuenta de usuario |
+|Resumen |Es un botón que lleva al usuario a visualizar el resumen de todo  |
+|Cosumo |Es un botón que lleva al usuario a visualizar un análisis mas detallado del consumo de recursos |
+|Costos |Es un botón que lleva al usuario a visualizar un análisis mas detallado de los costos y tendencias |
+
+
+### 4.2.3. SEO Tags and Meta Tags
+<a name="423"></a>
+
+Los SEO tags y Meta tags son importantes porque juegan un papel fundamental en la optimización de motores de búsqueda (SEO) y en la mejora de la visibilidad y el ranking de una página web en los resultados de búsqueda:
+
+Landing Page: 
+
+Title: SmartFlow
+
+Description: Monitorea y optimiza el consumo eléctrico y de agua de tu hogar y maquinaria.
+
+Keywords: Consumo eléctrico, Agua, Energía, Hogar, Maquinaria, Optimización, Ahorro, Sostenibilidad, Monitorización, Eficiencia, Medio ambiente.
+
+### 4.2.4. Searching Systems
+<a name="424"></a>
+Barra de Búsqueda Global:
+
+- Ubicación: En el encabezado o en el menú de navegación principal, visible en todas las páginas.
+- Funcionalidad: La barra de búsqueda debe permitir a los usuarios buscar contenido por palabras clave, ya sea en proyectos, publicaciones del blog, equipo, o cualquier otra sección del sitio.
+- Autocompletado: Incluir sugerencias de búsqueda en tiempo real mientras los usuarios escriben, facilitando la navegación hacia los resultados más relevantes.
+- Filtros de Búsqueda: Implementar opciones de filtro que permitan a los usuarios acotar los resultados por categorías como "Proyectos", "Blog", "Equipo", etc.
+- Paginación de Resultados: Mostrar los resultados de búsqueda paginados para mejorar la usabilidad y la velocidad de carga.
+### 4.2.5. Navigation Systems
+<a name="425"></a>
+
+-	Menus de Navegacion Principal:
+En la parte superior de la página ubicado para un acceso rápido ‘Caracteristicas’, ‘Beneficios’, ‘Testimonios’, ‘Planes’ y el botón de ‘Iniciar Sesion’.
+-	Beadcrumbs:
+Los usuarios deben saber en donde están y retroceder fácilmente a paginas anteriores. Ejemplo: Inicio > Proyectos > Proyecto Específico.
+-	Footer Navigation
+En el footer deben estar los términos y condiciones, política de privacidad, redes sociales de la página y la información de contacto para fácil acceso.
+
+
+## 4.3. Landing Page UI Design
+<a name="43"></a>
+
+### 4.3.1. Landing Page Wireframe
+<a name="431"></a>
+![landingpagewireframe](https://hackmd.io/_uploads/S1ui62LhR.jpg)
+### 4.3.2. Landing Page Mock-up
+<a name="432"></a>
+![landingpagemockup](https://hackmd.io/_uploads/HkPp63L20.jpg)
+
+## 4.4. Web Applications UX/UI Design
+<a name="44"></a>
+### 4.4.1. Web Applications Wireframes
+<a name="441"></a>
+![webapplicationwireframe](https://hackmd.io/_uploads/BkK102L20.jpg)
+
+### 4.4.2. Web Applications Wireflow Diagrams
+<a name="442"></a>
+![webapplicationwireframediagram](https://hackmd.io/_uploads/Skk-C3UnR.jpg)
+
+### 4.4.3. Web Applications Mock-ups
+<a name="443"></a>
+![webapplicationwireframemockup](https://hackmd.io/_uploads/r1Gz0hL30.jpg)
+
+### 4.4.4. Web Applications User Flow Diagrams
+<a name="444"></a>
+![webapplicationuserflowdiagram](https://hackmd.io/_uploads/r1kUkpI2C.jpg)
+
 </br>
