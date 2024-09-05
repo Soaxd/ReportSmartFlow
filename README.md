@@ -1069,5 +1069,97 @@ El diagrama de clases que has compartido muestra la estructura y las relaciones 
 ![diagrama_base_de_datos](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/SmartFlow-DataBase.png)
 *Imagen: Diagrama de la Base de Datos*
 
+# Capítulo V: Product Implementation, Validation & Deployment
+<a name="5"></a>
+## 5.1. Software Configuration Management
+Esta sección establece las decisiones y convenciones que garantizarán la consistencia, calidad y estabilidad del software durante todo su ciclo de vida. Las prácticas incluyen la gestión del código fuente, la configuración del entorno de desarrollo, el control de versiones y el despliegue del software. Estas decisiones permitirán que el equipo de desarrollo colabore eficazmente y que los productos se mantengan escalables y fáciles de mantener.
+<a name="51"></a>
+### 5.1.1. Software Development Environment Configuration
+<a name="511"></a>
+
+El equipo emplea diversas herramientas para colaborar durante todas las fases del ciclo de vida del producto digital: desde la planificación de tareas hasta el desarrollo, pruebas y despliegue.
+
+**Herramientas utilizadas:**
+
+**WhatsApp:** Aplicación de mensajería instantánea, disponible para Android e iOS. Es parte de Meta y cuenta con una versión web. [https://www.whatsapp.com/].
+
+**Google Meet:** Aplicación de videollamadas que permite la creación de salas y está disponible para Android. [https://meet.google.com/].
+
+#### Project Management
+
+**Trello:** Se utilizará para gestionar el Product Backlog, planificar los sprints y organizar las tareas. Trello permite a los miembros del equipo visualizar el progreso, gestionar prioridades y facilitar la colaboración mediante tableros y listas.  
+*Beneficio:* Facilita la visibilidad del estado de cada tarea, mejora la planificación y permite una mayor agilidad en la ejecución de los sprints.
+
+#### Requirements Management
+
+- **Miro:** Ayudará a administrar ideas, gestionar User Stories y planificar requisitos. Es una herramienta visual colaborativa que permite crear diagramas y mapas conceptuales.  
+  *Beneficio:* Mejora la claridad y alineación entre los stakeholders, permite la rápida iteración y evaluación de ideas, y ayuda a consolidar los requisitos del producto.
+
+#### Product UX/UI Design
+
+- **UXPressia:** Herramienta utilizada para crear Journey Maps, Impact Maps, User Persona y Empathy Maps.  
+  *Beneficio:* Facilita la investigación de usuarios y el diseño centrado en el cliente, asegurando que se aborden las necesidades y expectativas del usuario final en cada etapa del proyecto.
+- **Figma:** Se emplea para la creación y diseño de la interfaz de usuario (UI) de la página de aterrizaje (Landing Page).  
+  *Beneficio:* Figma permite una colaboración fluida entre diseñadores y desarrolladores, con actualizaciones en tiempo real. Facilita la creación de prototipos y el diseño UI responsivo.
+
+#### Software Development
+
+- **WebStorm:** Un IDE especializado en el desarrollo de aplicaciones web con tecnologías como JavaScript, HTML, CSS y Vue.js.  
+  *Beneficio:* WebStorm ofrece características avanzadas como el autocompletado de código, depuración en tiempo real e integración con herramientas de control de versiones como Git, mejorando la productividad del equipo de frontend.
+- **Rider:** IDE para desarrollo en C# y tecnologías de .NET.  
+  *Beneficio:* Rider es una herramienta completa para el desarrollo backend, con soporte robusto para C#, integraciones avanzadas con bases de datos y Docker, y herramientas de refactorización para escribir código más limpio y eficiente.
+- **Vue.js:** Framework de JavaScript que se utilizará para la construcción de interfaces de usuario interactivas y responsivas, especialmente en aplicaciones de una sola página (SPA).  
+  *Beneficio:* Vue.js permite una estructura modular y escalable para la creación de componentes reutilizables, lo que reduce la complejidad del código, mejora el rendimiento de la aplicación y facilita el mantenimiento.
+- **GitHub:** Plataforma para la gestión del código fuente, donde se integrará el código a través del control de versiones. Permite la colaboración en equipo y un flujo de trabajo ordenado mediante pull requests, revisiones de código, y la implementación de integraciones continuas.  
+  *Beneficio:* GitHub asegura la trazabilidad de los cambios en el código, ofrece control sobre versiones estables y facilita la colaboración entre desarrolladores.
+
+#### Software Testing
+
+- **HackMD:** Herramienta colaborativa para documentar y gestionar los procesos de pruebas y calidad de software.  
+  *Beneficio:* Proporciona una plataforma para la creación de documentación técnica y pruebas en equipo, asegurando que las pruebas de software estén documentadas de forma clara y accesible.
+
+### 5.1.2. Source Code Management
+
+El equipo adoptará guías de estilo y convenciones para asegurar que el código sea limpio, legible y mantenible. Estas convenciones abarcan diversos lenguajes y tecnologías, cada una con recomendaciones específicas para mantener la calidad y coherencia en el código.
+
+#### HTML/CSS
+
+- **Guía de estilo:** Se basará en la Google HTML/CSS Style Guide. Esta guía proporciona directrices sobre la estructura y formato del HTML y CSS, incluyendo la indentación, el uso de comentarios y la organización del código para mejorar la legibilidad y el mantenimiento.
+- **Nomenclatura:** Se utilizará la metodología BEM (Block Element Modifier). BEM es una metodología que ayuda a crear una estructura modular y reutilizable en CSS, facilitando la comprensión y mantenimiento del código. Consiste en una convención de nombres para clases que mejora la claridad y la organización del CSS.
+
+#### JavaScript
+
+- **Framework:** Vue.js será utilizado para desarrollar componentes reutilizables y gestionar la interfaz de usuario. Vue.js es un framework progresivo de JavaScript para construir interfaces de usuario interactivas. Más información y documentación en Vue.js.
+- **Guía de estilo:** Se seguirá la Google JavaScript Style Guide y la Vue.js Style Guide. La guía de estilo de Google ofrece reglas detalladas para escribir código JavaScript claro y consistente, mientras que la guía de estilo de Vue.js proporciona recomendaciones específicas para el desarrollo con este framework, asegurando la coherencia en la estructura y formato del código.
+
+#### C#
+
+- **Guía de estilo:** Se adoptarán las Microsoft C# Coding Conventions. Estas convenciones están diseñadas para mejorar la legibilidad y la consistencia en el código C#, cubriendo aspectos como el formato del código, la nomenclatura y las prácticas recomendadas para escribir código limpio y mantenible en aplicaciones backend.
+
+#### Gherkin
+
+- **Guía de estilo:** Se aplicarán las Gherkin Conventions for Readable Specifications. Gherkin es un lenguaje de especificación utilizado para escribir pruebas automatizadas de comportamiento (BDD). Esta guía proporciona recomendaciones para escribir características y escenarios de manera clara y comprensible, facilitando la colaboración entre desarrolladores y no desarrolladores.
+
+### 5.1.4. Software Deployment Configuration
+<a name="514"></a>
+
+
+
+La configuración del despliegue garantizará que las aplicaciones se ejecuten de manera eficiente y sin errores en los entornos de producción. Se implementarán las siguientes prácticas y herramientas para asegurar un proceso de despliegue ágil, fiable y automatizado:
+
+- **Landing Page:** 
+  - **Plataforma de Despliegue:** La página de aterrizaje será desplegada en **GitHub**, aprovechando su integración directa con el control de versiones de GitHub. Esto permite que el contenido sea publicado y actualizado automáticamente en el dominio asociado.
+  - **Flujo de Trabajo CI/CD:** Se implementará un flujo de trabajo de **Integración y Despliegue Continuos (CI/CD)**. Cada vez que se realice un `push` en la rama principal (`main` o `master`), GitHub Actions se encargará de construir y desplegar la página automáticamente. Esta integración continua asegura que los cambios en el código se reflejen de inmediato en el entorno de producción sin intervención manual.
+   
+
+**Integrantes del equipo:**
+
+| **Correo Electrónico**          | **Nombre Completo**              |
+|---------------------------------|----------------------------------|
+| U202116246@upc.edu.pe           | Guerrero Vasquez, Jhon Danny      |
+| u20221c576@upc.edu.pe           | Taquiri Calderón, Jhunior Giussepe |
+| u202218634@upc.edu.pe           | De La Cruz Moreno, Roy Hernan     |
+| U20221C186@upc.edu.pe           | Gongora Castillejos, Williams Jesus |
+| U20211G296@upc.edu.pe           | Silva Tirado, Sebastian Valentino |
 
 
