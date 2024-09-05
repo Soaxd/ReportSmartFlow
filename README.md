@@ -39,3 +39,50 @@ width=30%"/>
 <img src=https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/paletadeverde.png />
 </br>
 </br>
+
+
+</br>
+</br>
+
+## Team members:
+| Nombre |Código|
+|:-------:|:----------:|
+|Góngora Castillejos, Williams Jesus |U20221C186|
+|Taquir Calderon , Jhunior Giussepe |U20221C576|
+|De La Cruz Moreno, Roy Hernan |U202218634|
+|Guerrero Vasquez, Jhon Danny |U202116246|
+|Silva Tirado, Sebastian Valentino |U20211G296|
+
+</br>
+</br>
+
+
+## Registro de versiones del informe
+
+
+| Versión |   Fecha    |             Autor             |                                                                   Descripción de modificación                                                                   |
+|:-------:|:----------:|:-----------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  TB1  | 08/09/2024 |           Góngora Castillejos, Williams Jesus </br> De La Cruz Moreno, Roy Hernan </br> Nombre </br> Taquiri Calderon, Jhunior Giussepe </br> Silva Tirado, Sebastian Valentino           |                                                      Creación del documento de trabajo en formato markdown, etc...                                                      |
+
+
+</br>
+</br>
+
+
+## Project Report Collaboration Insights
+
+Enlace de la organización para el reporte del proyecto: 
+
+**TB1**
+
+Para el desarrollo del informe correspondiente a la entrega TB1, se estableció la implementación de secciones de la siguiente manera para cada integrante del equipo:
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Roy De La Cruz Moreno|Diseño de mockups y wireframes,Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines, Product Backlog|
+|Williams Gongora|Capitulo I, Antecedentes y problemática 5W y 2H, Segmentos Objetivos,, Needfinding, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, Database Design, Database Diagram,User Stories,Landing Page|
+|Giussepe Taquiri Calderon|User Stories , Impact Mapping,  Product Backlog Domain-Driven Software Architecture, Product Implementation, Validation & Deployment.|
+|---| ------------|
+|Sebastian Silva||
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
