@@ -256,3 +256,34 @@ SmartFlow ofrece varios planes de precios para adaptarse a diferentes necesidade
   Asimismo, la extensión del mercado ha sido confirmada por los datos del Anuario Estadístico de Electricidad 2022, elaborado por el Ministerio de Energía y Minas. Este informe proporciona una visión detallada sobre el consumo de electricidad en diversos sectores, destacando los sectores Comercial y Servicios, y Residencial, que son dos de los segmentos a los que dirigimos nuestra propuesta. (Revisar [Anexo N°1: Número de clientes finales por sectores](#anexo1))
 
 
+### 1.2.2. Lean UX Process
+<a name="122"></a>
+#### 1.2.2.1. Lean UX Problem Statements
+<a name="1221"></a>
+
+</br>
+
+|Problem Statement 1|
+|:----|
+|SmartFlow busca ayudar a talleres a optimizar el consumo de electricidad y agua|
+| Hemos observado que los talleres carecen de herramientas para monitorear estos recursos, resultando en altos costos|
+|¿Podría SmartFlow ofrecer una solución eficiente para el monitoreo de recursos en talleres?|
+
+</br>
+
+|Problem Statement 2|
+|:----|
+|SmartFlow tiene como objetivo permitir a los hogares controlar el consumo de electricidad y agua|
+|Hemos observado que los hogares a menudo no tienen visibilidad ni control sobre estos consumos, lo que genera costos inesperados|
+|¿Podría SmartFlow proporcionar una solución accesible para monitorear el consumo de recursos en el hogar?|
+
+</br>
+
+
+|Problem Statement 3|
+|:----|
+|SmartFlow busca integrar el monitoreo de recursos en una plataforma única|
+|Hemos observado la falta de una plataforma unificada para gestionar el consumo de electricidad y agua en diferentes entornos|
+|¿Podría SmartFlow desarrollar una plataforma que unifique el monitoreo de recursos en diversos contextos?|
+
+</br>
