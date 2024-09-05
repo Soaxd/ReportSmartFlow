@@ -628,18 +628,37 @@ En el footer deben estar los términos y condiciones, política de privacidad, r
 ### 4.4.1. Web Applications Wireframes
 <a name="441"></a>
 ![webapplicationwireframe](https://hackmd.io/_uploads/BkK102L20.jpg)
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new1.jpeg" />
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new2.jpeg" />
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new3.jpeg" />
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 <a name="442"></a>
 ![webapplicationwireframediagram](https://hackmd.io/_uploads/Skk-C3UnR.jpg)
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new4.jpeg" />
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new5.jpeg" />
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new6.jpeg" />
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new7.jpeg" />
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new8.jpeg" />
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new9.jpeg" />
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new10.jpeg" />
 
 ### 4.4.3. Web Applications Mock-ups
 <a name="443"></a>
 ![webapplicationwireframemockup](https://hackmd.io/_uploads/r1Gz0hL30.jpg)
-
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new11.jpeg" />
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new12.jpeg" />
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new13.jpeg" />
 ### 4.4.4. Web Applications User Flow Diagrams
 <a name="444"></a>
 ![webapplicationuserflowdiagram](https://hackmd.io/_uploads/r1kUkpI2C.jpg)
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new14.jpeg" />
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new15.jpeg" />
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new16.jpeg" />
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new17.jpeg" />
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new18.jpeg" />
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new19.jpeg" />
+<img src="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/img/new20.jpeg" />
 
 </br>
 
