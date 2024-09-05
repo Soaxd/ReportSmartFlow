@@ -511,7 +511,7 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
     <td>&nbsp;&nbsp;&nbsp;<br>URL del&nbsp;&nbsp;&nbsp;video en OneDrive: &nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
+<td> <img src="img/imagen_2024-09-05_173358537.png"> </td>
     <td>&nbsp;&nbsp;&nbsp;<br>Entrevistado N°1: Elmer Riva <br>&nbsp;&nbsp;&nbsp;<br>Sexo: Masculino<br>&nbsp;&nbsp;&nbsp;<br>Edad: 20 <br>&nbsp;&nbsp;&nbsp;<br>Domicilio: Santa Anita.&nbsp;&nbsp;&nbsp;</td>
     <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EfgoJ7b-bclOi4HDrdycPuYBtt6lOeN2MSGVaRh7fdxoNw?e=kJyBKT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
   </tr>
@@ -549,7 +549,7 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
     <td>   <br>URL del   video en OneDrive:    </td>
   </tr>
   <tr>
-    <td></td>
+    <td> <img src="img/imagen_2024-09-05_173405879.png"> </td>
     <td>&nbsp;&nbsp;&nbsp;<br>Entrevistado N°3: Camila Sánchez.<br>&nbsp;&nbsp;&nbsp;<br>Sexo: Femenino<br>&nbsp;&nbsp;&nbsp;<br>Edad: 19<br>&nbsp;&nbsp;&nbsp;<br>Domicilio: Surco.&nbsp;&nbsp;&nbsp;</td>
     <td>   <br>Link:    <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/ERor2IHdwLhDsqJ0rjvowCsBpDfPqNe7CXGz4dQmkDfgbw?e=MUcOgZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
   </tr>
@@ -575,7 +575,7 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
     <td>&nbsp;&nbsp;&nbsp;<br>URL del&nbsp;&nbsp;&nbsp;video en OneDrive: &nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
+    <td> <img src="img/imagen_2024-09-05_173409906.png"> </td>
     <td>&nbsp;&nbsp;&nbsp;<br>Entrevistado N°1: Diego Bastidas<br>&nbsp;&nbsp;&nbsp;<br>Sexo: Masculino<br>&nbsp;&nbsp;&nbsp;<br>Edad: 22<br>&nbsp;&nbsp;&nbsp;<br>Domicilio: Comas&nbsp;&nbsp;&nbsp;</td>
     <td>   <br>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EdxZ3_6YQTBHiLLzCBCzNGkBQgGC8qWgt3L_pj8SX2HcfQ?e=cp9ew0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
   </tr>
@@ -594,7 +594,7 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
     <td>   <br>URL del   video en OneDrive:    </td>
   </tr>
   <tr>
-    <td></td>
+    <td> <img src="img/imagen_2024-09-05_173413695.png"> </td>
     <td>&nbsp;&nbsp;&nbsp;<br>Entrevistado N°2: Estrella Del Pilar<br>&nbsp;&nbsp;&nbsp;<br>Sexo: Femenino<br>&nbsp;&nbsp;&nbsp;<br>Edad: 20<br>&nbsp;&nbsp;&nbsp;<br>Domicilio: Rimac.&nbsp;&nbsp;&nbsp;</td>
     <td>   <br>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EZLqZT5DUtRCuX9g1U2pZKoBdUzhjjrdYYATc1-lZhOOZw?e=Wytcf0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #2</a></td>
   </tr>
@@ -613,7 +613,7 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
     <td>&nbsp;&nbsp;&nbsp;<br>URL del&nbsp;&nbsp;&nbsp;video en OneDrive: &nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td><br><br></td>
+    <td> <img src="img/imagen_2024-09-05_173417297.png"> </td><br></td>
     <td>&nbsp;&nbsp;&nbsp;<br>Entrevistado N°3: Marcelo Ávalos.<br>&nbsp;&nbsp;&nbsp;<br>Sexo: Masculino<br>&nbsp;&nbsp;&nbsp;<br>Edad: 20<br>&nbsp;&nbsp;&nbsp;<br>Domicilio: San Luis.&nbsp;&nbsp;&nbsp;</td>
     <td>   <br>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EY8Cumm_Z5hHh3eJsxeHedMBvabRN4WS65oSLKV5lnycWw?e=soS8Ig&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
   </tr>
