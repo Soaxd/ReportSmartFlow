@@ -208,4 +208,21 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta | Gongora Castillejos, Williams <br> **TB1:** <br> - <br> - <br> - <br> Silva Tirado, Sebastian Valentino     <br>    Giussepe Taquiri Calderon| .........|
 | Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | | .........|
 
-</br></br></br></br></br></br>
+</br></br></br>
+
+# Capítulo I: Introducción
+<a name="1"></a>
+
+
+## 1.1. Startup Profile
+<a name="11"></a>
+
+
+### 1.1.1. Descripción de la Startup
+<a name="111"></a>
+
+En nuestro Startup, nos dedicamos a crear soluciones que permiten el control y monitoreo en tiempo real del consumo de recursos como luz y agua mediante nuestra aplicación SmartFlow. Nos enfocamos en ofrecer herramientas tecnológicas accesibles para que tanto empresas como individuos optimicen sus recursos, reduzcan costos y promuevan la sostenibilidad en sus actividades diarias.
+
+**Misión:** Brindar tecnologías avanzadas que permitan a empresas y personas monitorear y controlar sus recursos de manera eficiente, reduciendo costos y operando de forma sostenible.
+
+**Visión:** Ser la plataforma líder a nivel global en la optimización del consumo de recursos, impulsando una gestión eficiente y sostenible en todos los sectores.
