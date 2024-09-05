@@ -65,7 +65,7 @@ width=30%"/>
 
 ## Project Report Collaboration Insights
 
-Enlace de la organización para el reporte del proyecto: 
+Enlace de la organización para el reporte del proyecto: https://github.com/SmartFlow-UPC 
 
 **TB1**
 
@@ -77,7 +77,7 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 |Williams Gongora|Capitulo I, Antecedentes y problemática 5W y 2H, Segmentos Objetivos,, Needfinding, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, Database Design, Database Diagram,User Stories,Landing Page|
 |Giussepe Taquiri Calderon|User Stories , Impact Mapping,  Product Backlog Domain-Driven Software Architecture, Product Implementation, Validation & Deployment.|
 |---| ------------|
-|Sebastian Silva||
+|Sebastian Silva|Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, Entrevistas, Diseño de entrevistas, Registro de entrevistas, Análisis de entrevistas, As-is Scenario Mapping, Ubiquitous Language, To-Be Scenario Mapping, Class Diagrams, Class Dictionary |
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 
@@ -96,7 +96,7 @@ Los integrantes son:
 * Roy Hernan (Przemekuwu)
 * Giussepe Taquiri(GiussepeTC)
 *
-* Sebastian Silva
+* Sebastian Silva (SebasSilvaT)
 
 
 **main:** es la rama principal del proyecto y se actualiza con cada entregable.
@@ -198,8 +198,9 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
    &emsp;&emsp;5.2.1.6. [Services Documentation Evidence for Sprint Review](#5216) <br>
    &emsp;&emsp;5.2.1.7. [Software Deployment Evidence for Sprint Review](#5217) <br>
    &emsp;&emsp;5.2.1.8. [Team Collaboration Insights during Sprint](#5218) 
-6. [**Bibliografía**](#bibliografia)
-7. [**Anexo**](#Anexo)</br>
+6. [**Conclusiones**](#conclusiones)
+7. [**Bibliografía**](#bibliografia)
+8. [**Anexo**](#Anexo)</br>
 &emsp;7.1. [Anexo N°1: Número de clientes finales por sectores](#anexo1)
 </br></br></br>
 
@@ -213,8 +214,8 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
 |-------------------------|--------------------------|------------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | Gongora Castillejos, Williams <br> **TB1:** <br> - <br> - <br> - <br> Silva Tirado, Sebastian Valentino     <br>    Giussepe Taquiri Calderon| .........|
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | | .........|
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | Williams Gongora: <br> TB1: <br> Roy Hernan: <br> TB1: <br> Giussepe Taquiri: <br> TB1: <br> Sebastian Silva: <br> TB1: En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco. <br> ---: <br> TB1:| Se logró un excelente primer avance del trabajo, cumpliendo con todos los aspectos del proyecto, lo que nos permitió obtener un resultado de alta calidad. El documento generado será útil para nuestro desarrollo profesional futuro en la planificación, ejecución y lanzamiento de proyectos en producción.|
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | Williams Gongora: <br> TB1: <br> Roy Hernan: <br> TB1: <br> Giussepe Taquiri: <br> TB1: <br> Sebastian Silva: <br> TB1: En la primera etapa, me encargué de recopilar los antecedentes y las problemáticas relevantes para nuestro proyecto, proporcionando así una base sólida para su sustento, también en la comunicación escrita por medio del informe. <br> ---: <br> TB1: | Como equipo, completamos este primer entregable creando una landing page que comunica de manera efectiva. Esto nos permitirá entregar un trabajo integral en el futuro, a pesar del reto que supusieron los plazos ajustados para la entrega del proyecto.|
 
 </br></br></br>
 
