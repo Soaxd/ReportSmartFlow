@@ -85,6 +85,8 @@ El proceso de colaboración en el informe se realizó mediante commits constante
 
 ## **Github Collaboration Insights**
 
+Todas las ramas se crearon siguiendo la metodología GitFlow, que garantiza una organización estructurada y eficiente del código. GitFlow facilita la colaboración en proyectos al establecer un flujo de trabajo estandarizado para el desarrollo, con ramas específicas para nuevas funcionalidades, corrección de errores y preparación de lanzamientos, asegurando un control de versiones más ordenado y predecible.
+
 GitHub también proporciona una visualización detallada del historial de las ramas principales, destacando los procesos de merge realizados. 
 
 
@@ -98,7 +100,12 @@ Los integrantes son:
 * Sebastian Silva
 
 
-**main:** Representada por el color negro, es la rama principal del proyecto y se actualiza con cada entregable.
+**main:** es la rama principal del proyecto y se actualiza con cada entregable.
+
+**develop:**  es la rama principal para el desarrollo continuo del proyecto.
+
+**feature**: contiene los cambios constantes realizados por los artefactos relacionados con el sprint 1 del informe.
+
 
 
 **(imagen cuando commiteamos)**
