@@ -226,3 +226,33 @@ En nuestro Startup, nos dedicamos a crear soluciones que permiten el control y m
 **Misión:** Brindar tecnologías avanzadas que permitan a empresas y personas monitorear y controlar sus recursos de manera eficiente, reduciendo costos y operando de forma sostenible.
 
 **Visión:** Ser la plataforma líder a nivel global en la optimización del consumo de recursos, impulsando una gestión eficiente y sostenible en todos los sectores.
+
+## 1.2. Solution Profile
+<a name="12"></a>
+### 1.2.1. Antecedentes y problemática
+<a name="121"></a>
+
+* **What (Qué):**
+SmartFlow se enfoca en desarrollar un sistema que permita monitorear y controlar en tiempo real el uso de recursos como electricidad y agua. Este sistema está diseñado tanto para particulares como para empresas, con el objetivo de optimizar la utilización de estos recursos, disminuir costos y fomentar la sostenibilidad.
+
+* **Where (Dónde):**
+La problemática se manifiesta principalmente en entornos industriales, como talleres y fábricas, donde las maquinarias consumen grandes cantidades de recursos como luz y agua. Además, SmartFlow es aplicable en hogares y pequeñas empresas que buscan una gestión más eficiente de sus recursos para reducir gastos.
+
+* **When (Cuándo):**
+La necesidad de un sistema como SmartFlow es continua, debido al creciente énfasis en aumentar la producción y la presión por disminuir los costos operativos en los últimos años(McKinsey Company, 2022). La demanda de soluciones para el monitoreo y control se ha intensificado a medida que empresas y usuarios buscan operar de manera más eficiente y sostenible(Squair, 2023).
+
+* **Who (Quién):**
+Los más afectados por esta situación son tanto los usuarios que carecen de herramientas efectivas para controlar su consumo de recursos en tiempo real, como las empresas que enfrentan desafíos para gestionar adecuadamente el uso de recursos y la producción en sus operaciones.
+
+* **Why (Por qué):**
+La principal razón de la necesidad de este proyecto radica en la falta de un sistema que sea eficiente y accesible para medir y gestionar el consumo de recursos en tiempo real. La mala gestión de estos recursos resulta en altos costos operativos y un uso ineficiente, afectando la competitividad y sostenibilidad tanto de empresas como de hogares.
+
+* **How (Cómo):**
+SmartFlow ofrece una solución que utiliza dispositivos IoT instalados en las entradas de electricidad y agua de las máquinas o sistemas de consumo. Estos dispositivos recogen datos en tiempo real, permitiendo a los usuarios monitorear, gestionar y optimizar su consumo mediante una aplicación web y móvil. Además, la plataforma emite alertas sobre irregularidades y permite supervisar el desempeño de cada máquina y operador en el contexto empresarial.
+
+* **How Much (Cuánto):**
+SmartFlow ofrece varios planes de precios para adaptarse a diferentes necesidades: el Plan Básico a $99/mes, el Plan Pro a $199/mes, y un Plan Empresarial personalizado. Estos planes varían en la cantidad de dispositivos monitoreados y en las funcionalidades disponibles, como informes y soporte técnico.
+
+  Asimismo, la extensión del mercado ha sido confirmada por los datos del Anuario Estadístico de Electricidad 2022, elaborado por el Ministerio de Energía y Minas. Este informe proporciona una visión detallada sobre el consumo de electricidad en diversos sectores, destacando los sectores Comercial y Servicios, y Residencial, que son dos de los segmentos a los que dirigimos nuestra propuesta. (Revisar [Anexo N°1: Número de clientes finales por sectores](#anexo1))
+
+
