@@ -421,6 +421,228 @@ Del mismo modo, consideramos como segmento objetivo a personas naturales que des
 |Formación educativa |Educación secundaria o superior|
 |Poder adquisitivo|Medio|
 
+# Capítulo II: Requirements Elicitation & Analysis
+<a name="2"></a>
+## 2.1. Competidores
+<a name="21"></a>
+| Competidor| Descripción| Características| Logo
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------|
+| **1. Smart Meters**     | Un dispositivo que se conecta al panel eléctrico y ofrece un análisis detallado del consumo de energía en el hogar, identificando los dispositivos que consumen más energía. | Canal de distribución principal: Web<br>Identifica y analiza el consumo eléctrico del hogar.                            |![image](https://hackmd.io/_uploads/SkbKt3m30.png)|
+| **2. Prodsmart**        | Un software que ayuda a monitorear la producción en tiempo real, incluyendo el seguimiento de productos fabricados, el tiempo de producción, y la eficiencia general. | Canal de distribución principal: Web<br>Enfocado más a la producción en tiempo real.                                     |![imagen_2024-09-02_171713174](https://hackmd.io/_uploads/r1-uY2Q3R.png)|
+| **3. Fishbowl Manufacturing** | Un sistema de gestión que incluye módulos para rastrear la producción, inventario y ventas en talleres y fábricas.                                                   | Canal de distribución principal: Web<br>Enfocado en el conteo y eficiencia de la producción, inventario, y ventas.      |![image](https://hackmd.io/_uploads/rJatK2Q3A.png)|
+
+Nota. Fuente propia.
+
+### 2.1.1. Análisis competitivo
+<a name="211"></a>
+
+<table><tr><th colspan="5" valign="top">Competitive Analysis Landscape</th></tr>
+<tr><td colspan="5" valign="top">¿Por qué realizar este análisis? Lo llevamos a cabo con el objetivo de entender mejor a la competencia, lo que nos permitirá ajustar la estrategia de negocio y competir de manera más efectiva.</td></tr>
+<tr><td colspan="5" valign="top">¿Quiénes son los principales competidores de Smart Business en el mercado de la producción y regulación de consumo de agua y luz, y qué ofrecen en términos de características, precios, marketing y distribución?</td></tr>
+<tr><td colspan="2" valign="top"></td><td valign="top"><p>Smart Meters</p><p>  </p></td><td valign="top"><p>Prodsmart</p><p>   </p></td><td valign="top"><p>Fishbowl Manufacturing</p><p>  </p></td></tr>
+<tr><td rowspan="2" valign="top">Perfil</td><td valign="top">Overview</td><td valign="top">Dispositivos avanzados que miden el consumo de electricidad y agua en tiempo real, proporcionando datos detallados sobre el uso de recursos.</td><td valign="top">Software de gestión de producción en tiempo real para fábricas y talleres, que ayuda a optimizar la eficiencia y la productividad.</td><td valign="top">Sistema de gestión de inventario y fabricación que ofrece soluciones para la gestión de producción, inventario, y pedidos.</td></tr>
+<tr><td valign="top">Ventaja Competitiva ¿Qué valor ofrece a los clientes?</td><td valign="top">Ofrecen una visibilidad detallada y en tiempo real del consumo de recursos, lo que permite a los clientes reducir costos y mejorar la eficiencia energética.</td><td valign="top">Permite a los talleres y fábricas digitalizar su producción sin necesidad de hardware costoso, con un enfoque en la facilidad de uso y la accesibilidad.</td><td valign="top">Integración completa de gestión de inventario con capacidades de fabricación, lo que permite a las empresas manejar todas las operaciones desde una sola plataforma.</td></tr>
+<tr><td rowspan="2" valign="top">Perfil de marketing</td><td valign="top">Mercado objetivo</td><td valign="top">Hogares, pequeñas y grandes empresas, industrias que buscan reducir costos de energía y agua.</td><td valign="top">Pequeñas y medianas fábricas y talleres que buscan digitalizar y optimizar su producción.</td><td valign="top">Pequeñas y medianas empresas de manufactura que necesitan una solución integrada para gestionar inventarios y procesos de producción.</td></tr>
+<tr><td valign="top">Estrategias de marketing</td><td valign="top">Enfocados en la sostenibilidad y la reducción de costos, con campañas que resaltan el ahorro de energía y agua.</td><td valign="top">Marketing dirigido a fábricas y talleres con énfasis en la facilidad de digitalización y el aumento de la productividad.</td><td valign="top">Se centra en la eficiencia y la capacidad de integración, destacando la versatilidad del software en la gestión de inventarios y producción.</td></tr>
+<tr><td rowspan="3" valign="top">Perfil de producto</td><td valign="top">Productos o servicios</td><td valign="top">Medidores inteligentes de electricidad y agua, aplicaciones de monitoreo, servicios de análisis de datos.</td><td valign="top">Software para gestión de producción en tiempo real, con funciones como seguimiento de órdenes, reportes de productividad y gestión de inventario.</td><td valign="top">Software de gestión de inventario, producción, órdenes de compra, y ventas, con módulos adicionales para integración con otros sistemas.</td></tr>
+<tr><td valign="top">Precios y costos</td><td valign="top">Los precios varían según el dispositivo y el nivel de análisis de datos, con costos iniciales de instalación y posibles tarifas de suscripción para servicios avanzados.</td><td valign="top">Modelo de suscripción mensual basado en la cantidad de usuarios y las características del software, con costos accesibles para pequeñas y medianas empresas.</td><td valign="top"><p>Precios basados en licencias de software, con tarifas adicionales por módulos y soporte, generalmente más costoso debido a la integración de múltiples funciones.</p><p></p></td></tr>
+<tr><td valign="top">Canales de distribución (web y/o móvil)</td><td valign="top">Aplicaciones móviles y web que permiten a los usuarios monitorear el consumo en tiempo real desde cualquier lugar.</td><td valign="top">Plataforma basada en la nube accesible a través de dispositivos móviles y web, lo que facilita el acceso desde cualquier ubicación.</td><td valign="top">Software instalado localmente o en la nube, con acceso a través de aplicaciones web y opciones limitadas para dispositivos móviles.</td></tr>
+<tr><td rowspan="4" valign="top">Análisis SWOT</td><td valign="top">Fortalezas</td><td valign="top">Precisión en la medición y ahorro de costos a través de la eficiencia energética.</td><td valign="top">Facilidad de uso y accesibilidad, lo que permite a pequeñas y medianas empresas digitalizar su producción sin grandes inversiones.</td><td valign="top">Integración total de gestión de inventario y producción en una sola plataforma.</td></tr>
+<tr><td valign="top">Debilidades</td><td valign="top">Dependencia de la infraestructura existente y posibles altos costos iniciales de instalación.</td><td valign="top">Funcionalidades limitadas para grandes fábricas con procesos muy complejos.</td><td valign="top">Puede ser costoso para pequeñas empresas y su implementación puede requerir un tiempo significativo.</td></tr>
+<tr><td valign="top">Oportunidades</td><td valign="top">Creciente demanda de soluciones sostenibles y eficientes en energía debido a preocupaciones ambientales.</td><td valign="top">Expansión en mercados emergentes donde la digitalización de la manufactura aún está en sus primeras etapas.</td><td valign="top">Expansión a sectores industriales más grandes y desarrollo de nuevas integraciones con tecnologías emergentes.</td></tr>
+<tr><td valign="top">Amenazas</td><td valign="top"><p>Regulaciones gubernamentales y competencia de otros dispositivos de medición de energía.</p><p></p></td><td valign="top">Competencia de soluciones más avanzadas y empresas que desarrollan software propietario.</td><td valign="top">Competencia de software más especializado o empresas que prefieren soluciones desarrolladas internamente.</td></tr>
+</table>
+
+Nota. Fuente propia.
+### 2.1.2. Estrategias y tácticas frente a competidores
+<a name="212"></a>
+-	Desarrollar tecnología de sensores de consumo avanzado y notificaciones altamente personalizables para destacar entre la competencia.
+-	Ofrecer dispositivos de regulación de consumo a precios atractivos para atraer a usuarios en busca de soluciones asequibles.
+-	Colaborar con fabricantes de tuberías y electricidad, y minoristas para incluir "Smart Bussines" como característica estándar en agua y luz o como un complemento recomendado.
+-	Implementar estrategias de marketing en plataformas de redes sociales, foros de producción y dueños o encargados para llegar a la audiencia objetivo.
+-	Establecer un programa de recompensas que incentive a los usuarios a referir a otros, ofreciendo descuentos o beneficios adicionales.
+
+## 2.2. Entrevistas
+<a name="22"></a>
+Una entrevista es un proceso de comunicación en el que una persona (entrevistador) realiza preguntas y otra persona (entrevistado) responde, con el objetivo de obtener información relevante sobre un tema específico. En este ámbito sería conocer la opinión y necesidades respecto a las preguntas que se le haría para llegar a comprender a nuestro público. 
+Para Smart Business, es muy importante la información de cada entrevista que se realizará y de esa forma nuestra StartUp pueda lograr el éxito. Finalmente, realizaremos en total 3 entrevistas, 3 por el segmento a dueños de hogar que poseen consumo de agua y luz, y al segmento de dueños de taller y/o fábricas. Un integrante del grupo realizó las entrevistas de manera virtual por diversas plataformas.
+### 2.2.1. Diseño de entrevistas
+<a name="221"></a>
+A fin de obtener información valiosa sobre las necesidades, deseos y desafíos de nuestro público objetivo, hemos planteado una serie de preguntas.
+
+**Preguntas para el Segmento #1**: Dueños de hogar que poseen consumo de agua y luz.
+1.	¿Qué tan consciente eres del consumo de agua y electricidad en tu hogar?
+2.	¿Utilizas algún dispositivo o aplicación actualmente para monitorear tu consumo de energía o agua?
+3.	¿Con qué frecuencia revisas tus facturas de agua y luz? ¿Qué información te parece más relevante en ellas?
+4.	¿Qué medidas has tomado para reducir tu consumo de agua y electricidad en los últimos años?
+5.	¿Qué tan fácil o difícil te resulta entender tu consumo energético o de agua a partir de las herramientas disponibles?
+6.	¿Estarías dispuesto a invertir en un dispositivo que te ayude a reducir tus gastos en agua y electricidad? ¿Por qué?
+7.	¿Qué características considerarías imprescindibles en un dispositivo para monitorear el consumo de agua y electricidad?
+8.	¿Qué tipo de alertas o notificaciones te gustaría recibir respecto a tu consumo de agua y electricidad?
+9.	¿Cómo prefieres acceder a la información sobre tu consumo (aplicación móvil, web, correos electrónicos)?
+10.	¿Qué aspectos de tu consumo de agua y electricidad te generan mayor preocupación o interés?
+
+ 
+**Preguntas para el Segmento #2**: Dueños de talleres y/o fábricas.
+1.	¿Cómo monitoreas actualmente la productividad en tu taller o fábrica?
+2.	¿Utilizas algún software o herramienta específica para medir cuántos productos se fabrican y venden diaria, semanal o mensualmente?
+3.	¿Qué desafíos enfrentas al intentar medir la productividad de tu equipo o maquinaria?
+4.	¿Qué información consideras más crítica para mejorar la eficiencia en tu taller o fábrica?
+5.	¿Cómo gestionas los datos de producción y ventas actualmente? ¿Hay algún aspecto que te gustaría mejorar?
+6.	¿Estarías interesado en una solución que te proporcione datos en tiempo real sobre la productividad de tu taller o fábrica?
+7.	¿Qué factores influyen en tu decisión de invertir en nuevas herramientas o tecnologías para tu negocio?
+8.	¿Qué características o funcionalidades serían imprescindibles en una herramienta diseñada para monitorear la productividad de tu negocio?
+9.	¿Cómo preferirías recibir informes sobre la productividad de tu taller o fábrica (por ejemplo, aplicaciones móviles, correos electrónicos, plataformas web)?
+
+### 2.2.2. Registro de entrevistas
+<a name="222"></a>
+
+<table><thead>
+  <tr>
+    <th colspan="3">   <br>Segmento objetivo: Dueños de hogar que poseen consumo de agua y luz.   </th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="3">   <br>Entrevista 1:   </td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Screenshot:&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Datos personales del entrevistado   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>URL del&nbsp;&nbsp;&nbsp;video en OneDrive: &nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Entrevistado N°1: Elmer Riva <br>&nbsp;&nbsp;&nbsp;<br>Sexo: Masculino<br>&nbsp;&nbsp;&nbsp;<br>Edad: 20 <br>&nbsp;&nbsp;&nbsp;<br>Domicilio: Santa Anita.&nbsp;&nbsp;&nbsp;</td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EfgoJ7b-bclOi4HDrdycPuYBtt6lOeN2MSGVaRh7fdxoNw?e=kJyBKT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;&nbsp;&nbsp;<br>Resumen&nbsp;&nbsp;&nbsp;de la entrevista:&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3">El joven Elmer de vez en cuando se fija en ahorrar la luz el agua, cuando llega su <br>boleta no suele llegar muy alto el consumo, pero sí en meses festivos como <br>navidad, quisiera mejor ese consumo y ahorrar, hace pequeñas acciones <br>como cerrar el grifo de noche y desenchufar aparatos eléctricos.   </td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Entrevista 2:    </td>
+  </tr>
+  <tr>
+    <td>   <br>Screenshot:   </td>
+    <td>   <br>Datos personales del entrevistado   </td>
+    <td>   <br>URL del   video en OneDrive:    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Entrevistado N°2: Marcia Rea<br>&nbsp;&nbsp;&nbsp;<br>Sexo: Femenino<br>&nbsp;&nbsp;&nbsp;<br>Edad: 20<br>&nbsp;&nbsp;&nbsp;<br>Domicilio: San Martín de Porres.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Link: </td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Resumen   de la entrevista:   </td>
+  </tr>
+  <tr>
+    <td colspan="3">Marcia Rea es consciente de su consumo de energía y agua,   y trata de ahorrar <br>siempre que puede. Aunque sus facturas suelen ser   moderadas, nota un aumento <br>durante las festividades como Navidad. Para   mejorar su consumo, Marcia toma <br>pequeñas medidas como apagar las luces cuando   no las necesita y desenchufar <br>los electrodomésticos que no está utilizando.   </td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Entrevista 3:    </td>
+  </tr>
+  <tr>
+    <td>   <br>Screenshot:   </td>
+    <td>   <br>Datos personales del entrevistado   </td>
+    <td>   <br>URL del   video en OneDrive:    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Entrevistado N°3: Camila Sánchez.<br>&nbsp;&nbsp;&nbsp;<br>Sexo: Femenino<br>&nbsp;&nbsp;&nbsp;<br>Edad: 19<br>&nbsp;&nbsp;&nbsp;<br>Domicilio: Surco.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Link:    <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/ERor2IHdwLhDsqJ0rjvowCsBpDfPqNe7CXGz4dQmkDfgbw?e=MUcOgZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Resumen   de la entrevista:   </td>
+  </tr>
+  <tr>
+    <td colspan="3">Camila presta atención al uso de luz y agua en su hogar,   intentando ahorrar <br>siempre que le es posible. Aunque sus facturas   generalmente no son altas, <br>observa un incremento durante las celebraciones   como la Navidad. <br>Para reducir su consumo, realiza pequeñas acciones como   cerrar los grifos <br>cuando no los necesita y desconectar los aparatos   eléctricos antes de dormir.   </td>
+  </tr>
+</tbody></table>
+
+<table><thead>
+  <tr>
+    <th colspan="3">   <br>Segmento objetivo: Dueños de hogar que poseen consumo de agua y luz.   </th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="3">   <br>Entrevista 1:   </td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Screenshot:&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Datos personales del entrevistado   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>URL del&nbsp;&nbsp;&nbsp;video en OneDrive: &nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Entrevistado N°1: Diego Bastidas<br>&nbsp;&nbsp;&nbsp;<br>Sexo: Masculino<br>&nbsp;&nbsp;&nbsp;<br>Edad: 22<br>&nbsp;&nbsp;&nbsp;<br>Domicilio: Comas&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EdxZ3_6YQTBHiLLzCBCzNGkBQgGC8qWgt3L_pj8SX2HcfQ?e=cp9ew0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;&nbsp;&nbsp;<br>Resumen&nbsp;&nbsp;&nbsp;de la entrevista:&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3">El joven Diego por emprendimiento de su madre tiene conocimientos de la <br>logística y distribución del taller. Por ello sabe que es muy eficiente cuando <br>calculan fechas de entrega y están pendiente a la producción diaria, sin atrasos, <br>le gustaría poder promediar y hacer más eficiente el trabajo.</td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Entrevista 2:    </td>
+  </tr>
+  <tr>
+    <td>   <br>Screenshot:   </td>
+    <td>   <br>Datos personales del entrevistado   </td>
+    <td>   <br>URL del   video en OneDrive:    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Entrevistado N°2: Estrella Del Pilar<br>&nbsp;&nbsp;&nbsp;<br>Sexo: Femenino<br>&nbsp;&nbsp;&nbsp;<br>Edad: 20<br>&nbsp;&nbsp;&nbsp;<br>Domicilio: Rimac.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EZLqZT5DUtRCuX9g1U2pZKoBdUzhjjrdYYATc1-lZhOOZw?e=Wytcf0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #2</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Resumen   de la entrevista:   </td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Estrella, gracias al negocio familiar de su padre, tiene   experiencia en la logística y <br>distribución dentro del taller. Sabe que el   equipo es muy eficiente al calcular las <br>fechas de entrega y al monitorear la   producción diaria sin retrasos. <br>Le gustaría mejorar aún más el proceso   optimizando los tiempos y asegurando <br>una mayor eficiencia en el trabajo.   </td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Entrevista 3:    </td>
+  </tr>
+  <tr>
+    <td>   <br>Screenshot:   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Datos&nbsp;&nbsp;&nbsp;personales del entrevistado&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>URL del&nbsp;&nbsp;&nbsp;video en OneDrive: &nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td><br><br></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Entrevistado N°3: Marcelo Ávalos.<br>&nbsp;&nbsp;&nbsp;<br>Sexo: Masculino<br>&nbsp;&nbsp;&nbsp;<br>Edad: 20<br>&nbsp;&nbsp;&nbsp;<br>Domicilio: San Luis.&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EY8Cumm_Z5hHh3eJsxeHedMBvabRN4WS65oSLKV5lnycWw?e=soS8Ig&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Resumen   de la entrevista:   </td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Marcelo ha aprendido sobre logística y distribución a   través del emprendimiento <br>de su madre. Conoce bien la eficiencia del taller,   especialmente cuando se trata <br>de calcular las fechas de entrega y supervisar   la producción diaria sin demoras. <br>Le gustaría poder optimizar los procesos   para mejorar la eficiencia general del trabajo.   </td>
+  </tr>
+</tbody></table>
+
+### 2.2.3. Análisis de entrevistas
+<a name="223"></a>
+**Segmento Objetivo 1**: Dueños de hogar que poseen consumo de agua y luz.	
+
+•	El joven Elmer no suele mucho preocuparse por el consumo de agua y luz, sin embargo, si sabe que debe ahorrar poco a poco para que no venga elevado el costo mensual de ambos servicios, le gustaría la ayuda de una app.
+
+•	Marcia suele ser consciente del consumo de agua y luz en su hogar, aunque no siempre toma medidas para reducirlo. A pesar de esto, sabe que debe empezar a ahorrar más para evitar facturas elevadas cada mes. Le gustaría contar con una aplicación que le facilite el control de estos consumos.
+
+•	Camila no presta mucha atención al uso de agua y electricidad en su casa, pero es consciente de que debe empezar a ahorrar para evitar gastos excesivos. Le interesaría utilizar una aplicación que le ayude a gestionar mejor el consumo de estos servicios.
+
+**Segmento Objetivo 2**: Dueños de talleres y/o fábricas
+
+•	El joven Diego no suele usar muchos aplicativos para su gestión en el taller, más de apuntar en cuaderno, le gustaría poder organizarse mejor y mejore la producitvidad y ahorrar costo y tiempo.
+
+•	Estrella no acostumbra utilizar muchas aplicaciones para la gestión de su trabajo, ya que suele llevar el control en un cuaderno. Sin embargo, le gustaría organizarse de manera más eficiente para mejorar la productividad, ahorrar costos y optimizar el tiempo.
+
+•	Marcelo normalmente gestiona las actividades del taller de forma manual, usando un cuaderno para anotar los detalles. Aunque no usa muchas aplicaciones, le gustaría encontrar una manera de organizarse mejor, aumentar la productividad y reducir costos y tiempo.
+
 ## 2.3. Needfinding
 <a name="23"></a>
 ### 2.3.1. User Personas
@@ -501,6 +723,54 @@ En esta sección, se crearon Empathy Maps para cada grupo objetivo, utilizando u
 ![empathymapJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Empathy-map-Jesus.png)
 *Imagen: Empathy Map Jesus*
 
+### 2.3.5. As-is Scenario Mapping
+<a name="235"></a>
+Segmento #1:
+![imagen_2024-09-04_182647440](https://hackmd.io/_uploads/H1-ahvL3A.png)
+
+Segmento #2:
+![imagen_2024-09-04_182707013](https://hackmd.io/_uploads/HyECnwU20.png)
+Enlace: https://lucid.app/lucidchart/d11b2911-6e98-41c0-871a-e96ff07b56f1/edit?viewport_loc=1001%2C501%2C1686%2C710%2C0_0&invitationId=inv_f3ba22ea-bb52-495b-885a-76616d79a2f9 
+
+## 2.4. Ubiquitous Language
+<a name="24"></a>
+Lenguaje común que se utiliza entre todos los miembros de un equipo de desarrollo y los interesados del proyecto, para asegurar que todos entiendan y hablen el mismo idioma.
+
+**Para el Segmento de Consumo de Agua y Electricidad**
+1.	Medidor Inteligente: Un dispositivo que monitorea y registra el consumo de agua y electricidad en tiempo real.
+2.	Consumo en Tiempo Real: Información actualizada al instante sobre el uso de agua y electricidad.
+3.	Notificación de Consumo Alto: Alertas enviadas al usuario cuando el consumo de agua o electricidad excede un umbral predefinido.
+4.	Patrones de Consumo: Análisis de cómo se distribuye el uso de agua y electricidad a lo largo del tiempo.
+5.	Optimización de Recursos: Estrategias para reducir el uso de agua y electricidad sin sacrificar la comodidad o la productividad.
+6.	Panel de Control: Interfaz visual donde los usuarios pueden ver y gestionar su consumo de recursos.
+7.	Reporte de Eficiencia: Informe periódico que muestra cómo se está utilizando el agua y la electricidad, con recomendaciones para mejorar la eficiencia.
+8.	Análisis de Ahorro: Cálculo de los ahorros potenciales que se pueden lograr al implementar medidas de reducción de consumo.
+9.	Perfiles de Consumo: Diferentes escenarios de uso basados en hábitos diarios, horarios, y necesidades específicas del hogar.
+10.	Configuración de Alertas: Personalización de las notificaciones que recibe el usuario sobre su consumo de recursos.
+ 
+
+**Para el Segmento de Productividad en Talleres y Fábricas**
+1.	Medidor de Productividad: Herramienta o software que calcula la cantidad de productos fabricados y vendidos en un período específico.
+2.	Eficiencia Operativa: Medida de cómo de bien se están utilizando los recursos del taller o fábrica para maximizar la producción.
+3.	Informe de Producción: Documento o reporte que detalla el número de productos fabricados, tiempos de producción, y eficiencia.
+4.	Tasa de Producción: Velocidad a la que se fabrican productos en el taller o fábrica.
+5.	Ciclo de Producción: El tiempo completo que toma desde el inicio de la fabricación hasta la finalización de un producto.
+6.	Capacidad de Producción: La cantidad máxima de productos que se pueden fabricar en un taller o fábrica durante un período de tiempo determinado.
+7.	Optimización de Procesos: Mejoras implementadas en los procesos de producción para aumentar la eficiencia y reducir costos.
+8.	Registro de Ventas: Historial de todos los productos vendidos, incluyendo cantidad, fechas, y clientes.
+9.	Control de Calidad: Procedimientos que aseguran que los productos fabricados cumplan con los estándares de calidad antes de ser vendidos.
+10.	Panel de Productividad: Interfaz que muestra en tiempo real las métricas clave de producción y ventas del taller o fábrica.
+
+# Capítulo III: Requirements Specification
+<a name="3"></a>
+## 3.1. To-Be Scenario Mapping
+<a name="31"></a>
+Segmento #1:
+![imagen_2024-09-04_182740448](https://hackmd.io/_uploads/Sk8l6vUh0.png)
+
+Segmento #2:
+![imagen_2024-09-04_182746538](https://hackmd.io/_uploads/ryhlpwU30.png)
+Enlace: https://lucid.app/lucidchart/d11b2911-6e98-41c0-871a-e96ff07b56f1/edit?viewport_loc=1001%2C501%2C1686%2C710%2C0_0&invitationId=inv_f3ba22ea-bb52-495b-885a-76616d79a2f9 
 
 ## 3.2. User Stories
 <a name="32"></a>
@@ -765,6 +1035,31 @@ En el footer deben estar los términos y condiciones, política de privacidad, r
 ![component](https://hackmd.io/_uploads/ryiyAgr3R.png)
 *Imagen: Components  Diagram*
 
+### 4.7.1. Class Diagrams
+<a name="471"></a>
+![imagen_2024-09-04_182825548](https://hackmd.io/_uploads/B1X76vInC.png)
+*Imagen: Diagrama de clases*
+### 4.7.2. Class Dictionary
+<a name="472"></a>
+El diagrama de clases que has compartido muestra la estructura y las relaciones entre varias clases en tu proyecto. A continuación, las clases según el diagrama:
+
+<table><tr><th rowspan="2" valign="top">Usuario</th><th valign="top"><p>- usuarioID: int: Identificador único del usuario.</p><p>- nombre: String: Nombre del usuario.</p><p>- email: String: Dirección de correo electrónico del usuario.</p><p>- contraseña: String: Contraseña del usuario.</p><p>- tipoUsuario: String: Tipo de usuario (Admin, Técnico, Cliente).</p><p></p></th></tr>
+<tr><td valign="top"><p>- ingresarUsuario(): void: Método para ingresar el nombre del usuario.</p><p>- ingresarEmail(): void: Método para ingresar el correo electrónico del usuario.</p><p>- ingresarContraseña(): string: Método para ingresar la contraseña del usuario.</p><p></p></td></tr>
+<tr><td rowspan="2" valign="top">Medidor</td><td valign="top"><p>- medidorID: int: Identificador único del medidor.</p><p>- tipoMedidor: String: Tipo de medidor (Agua, Electricidad).</p><p>- ubicación: String: Ubicación del medidor.</p><p>- estado: String: Estado del medidor (Activo, Inactivo).</p></td></tr>
+<tr><td valign="top"><p>- ingresarMedidorID(): void: Método para ingresar el identificador del medidor.</p><p>- ingresarUbicación(): void: Método para ingresar la ubicación del medidor.</p></td></tr>
+<tr><td rowspan="2" valign="top">Consumo</td><td valign="top"><p>- consumoID: int: Identificador único del registro de consumo.</p><p>- medidorID: int: Identificador del medidor asociado.</p><p>- fecha: Date: Fecha del registro de consumo.</p><p>- cantidad: float: Cantidad de consumo registrado (en m³ para agua o kWh para electricidad).</p></td></tr>
+<tr><td valign="top">- ingresarCantidad(): void: Método para ingresar la cantidad consumida.</td></tr>
+<tr><td rowspan="2" valign="top">Taller</td><td valign="top"><p>- fabricaID: int: Identificador único de la fábrica o taller.</p><p>- nombre: String: Nombre de la fábrica o taller.</p><p>- ubicación: String: Ubicación de la fábrica o taller.</p><p>- tipo: String: Tipo (Fábrica, Taller).</p><p>- capacidadProducción: int: Capacidad de producción de la fábrica o taller.</p></td></tr>
+<tr><td valign="top"><p>- nombre(): void: Método para establecer el nombre de la fábrica o taller.</p><p>- ubicación(): void: Método para establecer la ubicación de la fábrica o taller.</p></td></tr>
+<tr><td rowspan="2" valign="top">Produccion</td><td valign="top"><p>- producciónID: int: Identificador único del registro de producción.</p><p>- fabricaID: int: Identificador de la fábrica o taller asociado.</p><p>- productoID: int: Identificador del producto producido.</p><p>- fecha: Date: Fecha del registro de producción.</p><p>- cantidadProducida: int: Cantidad de productos producidos.</p></td></tr>
+<tr><td valign="top">- cantidadProducida(): void: Método para establecer la cantidad producida.</td></tr>
+<tr><td rowspan="2" valign="top">Producto</td><td valign="top"><p>- productoID: int: Identificador único del producto.</p><p>- nombre: String: Nombre del producto.</p><p>- tipo: String: Tipo de producto.</p><p>- costoProducción: float: Costo de producción del producto.</p></td></tr>
+<tr><td valign="top">- nombre(): void: Método para establecer el nombre del producto.</td></tr>
+<tr><td rowspan="2" valign="top">Reporte</td><td valign="top"><p>- reporteID: int: Identificador único del reporte.</p><p>- usuarioID: int: Identificador del usuario que genera el reporte.</p><p>- tipoReporte: String: Tipo de reporte (Consumo, Producción).</p><p>- fechaGeneración: Date: Fecha de generación del reporte.</p></td></tr>
+<tr><td valign="top"></td></tr>
+<tr><td rowspan="2" valign="top">Configuración (Singleton)</td><td valign="top"><p>- getBaseDatosURL(): Retorna la URL de la base de datos.</p><p>- getApiKey(): Retorna la clave API.</p><p>- getIntervaloLecturaMedidores(): Retorna el intervalo de lectura de los medidores.</p><p>- getUnidadMedidaConsumo(): Retorna la unidad de medida de consumo.</p><p>- getFormatoReporte(): Retorna el formato del reporte.</p></td></tr>
+<tr><td valign="top"><p>- setBaseDatosURL(String): Establece la URL de la base de datos.</p><p>- setApiKey(String): Establece la clave API.</p><p>- setIntervaloLecturaMedidores(int): Establece el intervalo de lectura de los medidores.</p><p>- setUnidadMedidaConsumo(String): Establece la unidad de medida de consumo.</p><p>- setFormatoReporte(String): Establece el formato del reporte.</p></td></tr>
+</table>
 
 ## 4.8. Database Design
 <a name="48"></a>
