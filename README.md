@@ -1295,3 +1295,51 @@ Description: Programar la redirección automática del usuario al dashboard pers
   </tr>
 </table>
 
+
+
+
+
+# 6. Bibliografía
+<a name="bibliografia"></a>
+
+Comisión Nacional de Energía de Chile. (2022). Anuario CNE 2022. Centro de Información Energética.
+</br>
+ https://www.cne.cl/nuestros-servicios/reportes/informacion-y-estadisticas/
+
+</br>
+
+
+Ibáñez, P., González Rugamas, R., Kohli, S., & Kuehl, E. (2022).     Cómo hacer frente a los aumentos de precios en un mercado inflacionario. McKinsey. 
+</br>
+https://www.mckinsey.com/capabilities/operations/our-insights/how-to-deal-with-price-increases-in-this-inflationary-market/es-es 
+
+</br>
+
+
+Instituto Nacional de Estadística de España. (2022). Nota de Prensa: Encuesta de Consumos Energéticos. Año 2022. Instituto Nacional de Estadística.
+</br>
+ https://ine.es/dyngs/Prensa/es/ECE2022.htm 
+
+</br>
+
+
+Ministerio de Energía y Minas del Perú. (2022). Anuario Estadístico de Electricidad 2022. Plataforma del Estado Peruano.
+</br>
+ https://cdn.www.gob.pe/uploads/document/file/5277829/4742711-anuario-estadistico-2022.pdf?v=1697225335 
+
+</br>
+
+Thiengo, D. (2023). Eficiência energética: Vantagens, aplicação e avaliação - Guia completo. Squairio.
+</br>
+ https://blog.squair.io/es/sabes-cu%C3%A1les-los-principales-objetivos-de-la-eficiencia-energ%C3%A9tica-c%C3%B3mo-evaluar-y-aplicar 
+
+</br>
+
+# 7. Anexo
+<a name="Anexo"></a>
+## Anexo N°1: Número de clientes finales por sectores
+<a name="anexo1"></a>
+
+![jouneymapPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/ANEXO1.png)
+*Imagen :Número de clientes finales por sectores*
+Recuperado de: https://cdn.www.gob.pe/uploads/document/file/5277829/4742711-anuario-estadistico-2022.pdf?v=1697225335
