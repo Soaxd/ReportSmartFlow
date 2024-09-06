@@ -1371,7 +1371,44 @@ Repositorio de Pruebas de Aceptación:
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 <a name="5215"></a>
+En esta parte se presentará el progreso alcanzado durante el primer sprint, enfocado en la implementación de la Landing Page estática. Para ilustrar este avance, se ha creado el siguiente video, que incluye una explicación y capturas que evidencian el desarrollo de la página web.
 
+URL del video: [Video Landing Page](https://drive.google.com/file/d/1x7sWsRh-ie01PDHmFpaDi13PdFOh3OCm/view?usp=sharing)
+
+* Implementamos la seccion principal
+
+![Hero seccion](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/principal.png)
+
+* Implementación del formulario de contacto
+
+![formulario de contacto](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Contactos.png)
+
+* Implementación de la sección de testimonios
+
+![sección de testimonios](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/testimonios.png)
+
+* Implementación de la lista de características del producto
+
+![características](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/caracteristicas.png)
+
+
+* Implementación de la lista de beneficios del producto
+
+![beneficios](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/beneficios.png)
+
+* Ver diferentes planes de precios
+
+![planes de precios](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/planes.png)
+
+* Implementamos el inicio de sesion
+
+![incio-sesion](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/iniciar-sesion.png)
+
+* Acceder al dashboard después de iniciar sesión
+
+![dashboard](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/dashboard.png)
+
+</br></br>
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 <a name="5216"></a>
 
