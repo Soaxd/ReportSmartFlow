@@ -95,7 +95,7 @@ Los integrantes son:
 (**Especifiquen los usuarios**)
 * Roy Hernan (Przemekuwu)
 * Giussepe Taquiri(GiussepeTC)
-*
+* Jhon Vasquez (Feli386)
 * Sebastian Silva (SebasSilvaT)
 
 
