@@ -1330,6 +1330,28 @@ Description: Programar la redirección automática del usuario al dashboard pers
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 <a name="5213"></a>
+Se realizaron los avances con los commits correspondiente en el repositorio de la siguiente forma.
+
+Repositorio Landing Page: https://github.com/SmartFlow-UPC/smartflow.github.io.git
+
+|Repository|Branch|Commit Id|Commit Message|Commited on (Date)|
+|--|--|--|--|--|
+|SmartFlow-UPC/smartflow.github.io|feature|b46f1c8|feat: Agregamos la estructura de la pagina|05/09/2024|
+|SmartFlow-UPC/smartflow.github.io|feature|bb782f4|feat: footer, header y formulario de contacto agregado|05/09/2024|
+|SmartFlow-UPC/smartflow.github.io|develop|301f66f|Merge pull request #1 from SmartFlow-UPC/feature|05/09/2024|
+|SmartFlow-UPC/smartflow.github.io|feature|89fd1db|feat: seccion testimonios agregada|05/09/2024|
+|SmartFlow-UPC/smartflow.github.io|feature|7ed540e|feat: seccion principal creada|05/09/2024|
+|SmartFlow-UPC/smartflow.github.io|develop|5b42be5|Merge pull request #2 from SmartFlow-UPC/feature|05/09/2024|
+|SmartFlow-UPC/smartflow.github.io|feature|df3dee1|feat: Seccion caracteristicas agregada|05/09/2024|
+|SmartFlow-UPC/smartflow.github.io|feature|44984f1|feat: seccion beneficios agregada|05/09/2024|
+|SmartFlow-UPC/smartflow.github.io|develop|e86c5ce|Merge pull request #3 from SmartFlow-UPC/feature|05/09/2024|
+|SmartFlow-UPC/smartflow.github.io|feature|758d79f|feat: seccion de suscripciones agregada|05/09/2024|
+|SmartFlow-UPC/smartflow.github.io|feature|17c5b55|feat: Implementamos el diseño y las animaciones|05/09/2024|
+|SmartFlow-UPC/smartflow.github.io|develop|5595c88|Merge pull request #4 from SmartFlow-UPC/feature|05/09/2024|
+|SmartFlow-UPC/smartflow.github.io|feature|d6b7268|feat: Dashboard y Incio de Sesion agregado|05/09/2024|
+|SmartFlow-UPC/smartflow.github.io|develop|d6ef831|Merge pull request #5 from SmartFlow-UPC/feature|05/09/2024|
+|SmartFlow-UPC/smartflow.github.io|main|3990238|Merge pull request #6 from SmartFlow-UPC/develop|05/09/2024|
+
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 <a name="5214"></a>
