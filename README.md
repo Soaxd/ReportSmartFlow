@@ -1415,6 +1415,20 @@ Durante este primer sprint, nos enfocamos únicamente en la creación de la Land
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 <a name="5217"></a>
+Al finalizar el trabajo con todas las historias de usuario, realizamos el despliegue de la Landing Page utilizando GitHub Pages.
+
+URL de despliegue de la Landing Page: https://smartflow-upc.github.io/smartflow.github.io/
+
+* Para realizar el despliegue, accedimos a la configuración del repositorio y navegamos a la sección de Pages. Posteriormente, seleccionamos la rama main desde la cual se llevará a cabo el deployment.
+
+![paso1-githubpage](https://raw.githubusercontent.com/SmartFlow-UPC/ReportSmartFlow/main/img/Paso1-page.png)
+
+
+* Finalmente, solo queda esperar a que GitHub genere la página y proporcione el enlace correspondiente.
+
+![paso2-githubpage](https://raw.githubusercontent.com/SmartFlow-UPC/ReportSmartFlow/main/img/Paso2-page.png)
+
+![paso3-githubpage](https://raw.githubusercontent.com/SmartFlow-UPC/ReportSmartFlow/main/img/Paso3-page.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 <a name="5218"></a>
