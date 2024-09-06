@@ -1411,6 +1411,7 @@ URL del video: [Video Landing Page](https://drive.google.com/file/d/1x7sWsRh-ie0
 </br></br>
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 <a name="5216"></a>
+Durante este primer sprint, nos enfocamos únicamente en la creación de la Landing Page estática, por lo que no se trabajó con servicios web. Como resultado, en esta ocasión no se elaboró la documentación correspondiente al uso de servicios web.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 <a name="5217"></a>
