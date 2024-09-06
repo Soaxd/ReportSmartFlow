@@ -1035,6 +1035,16 @@ En el footer deben estar los términos y condiciones, política de privacidad, r
 
 ## 4.5. Web Applications Prototyping.
 <a name="45"></a>
+Para desarrollar los prototipos de la interfaz de usuario tanto para Desktop como para Mobile Web Browser, se tomaron en cuenta varios criterios esenciales:
+
+1. **Claridad y Facilidad de Uso**: El objetivo principal fue asegurar que la navegación en la aplicación fuera simple e intuitiva, permitiendo a los usuarios comprender fácilmente las funcionalidades, tales como el registro de actividades y la generación de reportes estadísticos.
+
+2. **Diseño Adaptativo**: Se hizo hincapié en que la aplicación fuera compatible con una amplia variedad de tamaños de pantalla, garantizando que los usuarios puedan utilizarla sin restricciones, sin importar el dispositivo desde el que accedan.
+
+3. **Prioridad en la Información Clave**: El diseño se centró en mostrar únicamente la información más relevante para los usuarios del público objetivo, evitando la saturación visual y manteniendo una interfaz ordenada.
+
+<img src="img/Prototype1.png"> <br>
+Link para el flujo: https://www.figma.com/design/8mXQy6OqvddLIzoc5O7Q17/Untitled?node-id=0-1&t=vHvU8eHRh77h9R7x-1 <br>
 
 ## 4.6. Domain-Driven Software Architecture
 <a name="46"></a>
