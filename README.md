@@ -1432,6 +1432,16 @@ URL de despliegue de la Landing Page: https://smartflow-upc.github.io/smartflow.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 <a name="5218"></a>
+La asignación de tareas para la implementación se dividió por secciones, donde cada miembro del equipo fue responsable de desarrollar una parte de la landing page:
+
+
+* Taquir Calderon , Jhunior Giussepe: Implementación de la sección de testimonios , footer
+* De La Cruz Moreno, Roy Hernan: Implementación de la lista de características del producto, inicio sesion
+* Silva Tirado, Sebastian Valentino: Implementación de la lista de beneficios del producto, header
+* Guerrero Vasquez, Jhon Danny: Implementación de la sección de diferentes planes de precios, seccion principal
+* Gongora Castillejos, Williams Jesus: Animaciones Interactivas, Acceso al dashboard después de iniciar sesión, Implementacion del formulario contacto, Subir a Github con commits en cada rama
+
+![Team Collaboration graphs](https://raw.githubusercontent.com/SmartFlow-UPC/ReportSmartFlow/main/img/TeamCollaboration.png)
 
 # 6. Conclusiones
 <a name="conclusiones"></a>
