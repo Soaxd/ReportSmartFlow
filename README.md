@@ -198,10 +198,10 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
    &emsp;&emsp;5.2.1.6. [Services Documentation Evidence for Sprint Review](#5216) <br>
    &emsp;&emsp;5.2.1.7. [Software Deployment Evidence for Sprint Review](#5217) <br>
    &emsp;&emsp;5.2.1.8. [Team Collaboration Insights during Sprint](#5218) 
-6. [**Conclusiones**](#conclusiones)
+6. [**Conclusiones**](#conclusiones) 
 7. [**Bibliografía**](#bibliografia)
 8. [**Anexo**](#Anexo)</br>
-&emsp;7.1. [Anexo N°1: Número de clientes finales por sectores](#anexo1)
+&emsp;8.1. [Anexo N°1: Número de clientes finales por sectores](#anexo1)
 </br></br></br>
 
 ## Student Outcome
@@ -226,6 +226,7 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 ## 1.1. Startup Profile
 <a name="11"></a>
 
+Esta sección incluye la descripción del startup y los perfiles de los integrantes del equipo.
 
 ### 1.1.1. Descripción de la Startup
 <a name="111"></a>
@@ -896,6 +897,10 @@ Enlace: https://lucid.app/lucidchart/d11b2911-6e98-41c0-871a-e96ff07b56f1/edit?v
 <a name="4"></a>
 ## 4.1. Style Guidelines
 <a name="41"></a>
+
+### 4.1.1. General Style Guidelines
+<a name="411"></a>
+
 •	Colores: Se usará una paleta que refuerce la identidad del sitio. Considera colores que transmitan profesionalismo y tecnología utilizando tonos de azul y gris con acentos en naranja o verde
 
 ![paletadecolores](https://hackmd.io/_uploads/BkCX1aU2R.jpg)
@@ -912,9 +917,6 @@ Enlace: https://lucid.app/lucidchart/d11b2911-6e98-41c0-871a-e96ff07b56f1/edit?v
 •	Imágenes: Se usan imagenes en alta resolución que representen el contenido y mensaje de la página. 
 
 •	Simplicidad: Un diseño simple crea una experiencia de usuario intuitiva y evita el uso excesivo de elementos que puedan hacer perder el foco de atención al usuario
-
-### 4.1.1. General Style Guidelines
-<a name="411"></a>
 
 ### 4.1.2. Web Style Guidelines
 <a name="412"></a>
@@ -1031,6 +1033,8 @@ En el footer deben estar los términos y condiciones, política de privacidad, r
 
 </br>
 
+## 4.5. Web Applications Prototyping.
+<a name="45"></a>
 
 ## 4.6. Domain-Driven Software Architecture
 <a name="46"></a>
@@ -1046,6 +1050,9 @@ En el footer deben estar los términos y condiciones, política de privacidad, r
 <a name="463"></a>
 ![component](https://hackmd.io/_uploads/ryiyAgr3R.png)
 *Imagen: Components  Diagram*
+</br>
+## 4.7. Software Object-Oriented Design
+<a name="47"></a>
 
 ### 4.7.1. Class Diagrams
 <a name="471"></a>
@@ -1131,6 +1138,7 @@ El equipo emplea diversas herramientas para colaborar durante todas las fases de
   *Beneficio:* Proporciona una plataforma para la creación de documentación técnica y pruebas en equipo, asegurando que las pruebas de software estén documentadas de forma clara y accesible.
 
 ### 5.1.2. Source Code Management
+<a name="512"></a>
 
 El equipo adoptará guías de estilo y convenciones para asegurar que el código sea limpio, legible y mantenible. Estas convenciones abarcan diversos lenguajes y tecnologías, cada una con recomendaciones específicas para mantener la calidad y coherencia en el código.
 
@@ -1151,6 +1159,9 @@ El equipo adoptará guías de estilo y convenciones para asegurar que el código
 #### Gherkin
 
 - **Guía de estilo:** Se aplicarán las Gherkin Conventions for Readable Specifications. Gherkin es un lenguaje de especificación utilizado para escribir pruebas automatizadas de comportamiento (BDD). Esta guía proporciona recomendaciones para escribir características y escenarios de manera clara y comprensible, facilitando la colaboración entre desarrolladores y no desarrolladores.
+
+### 5.1.3. Source Code Style Guide & Conventions.
+<a name="513"></a>
 
 ### 5.1.4. Software Deployment Configuration
 <a name="514"></a>
@@ -1307,13 +1318,48 @@ Description: Programar la redirección automática del usuario al dashboard pers
   </tr>
 </table>
 
+#### 5.2.1.3. Development Evidence for Sprint Review
+<a name="5213"></a>
 
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+<a name="5214"></a>
 
+#### 5.2.1.5. Execution Evidence for Sprint Review
+<a name="5215"></a>
 
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+<a name="5216"></a>
 
-# 6. Bibliografía
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+<a name="5217"></a>
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+<a name="5218"></a>
+
+# 6. Conclusiones
+<a name="conclusiones"></a>
+En este primer entregable de la startup enfocada en el ahorro de luz y agua, así como en la mejora de la producción en un taller, es fundamental establecer una comunicación efectiva. Una comunicación clara entre desarrolladores y colaboradores no solo mejora la calidad del trabajo, sino que también facilita la resolución rápida de problemas.
+
+1. Asegurarse de que el código esté completamente documentado, con pautas y estándares claros, es esencial para que los nuevos participantes en el proyecto puedan integrarse fácilmente y contribuir de manera efectiva.
+
+2. Además, la interfaz modular y escalable del sistema ofrece flexibilidad tanto en la velocidad de desarrollo como en la calidad, permitiendo que el proyecto crezca de manera eficiente sin perder estabilidad.
+
+3. La accesibilidad y usabilidad del proyecto son claves para su éxito, ya que está diseñado para generar valor tangible y ofrecer resultados medibles, como la reducción de costos de servicios y la mejora en la productividad del taller.
+
+4. El proyecto se apoya en tecnologías y herramientas de uso común en la comunidad de código abierto, asegurando una integración fluida y una adopción generalizada.
+
+5. El mantener un diseño y una interfaz de usuario consistentes a lo largo de todo el desarrollo es crucial para mejorar la experiencia del usuario y fortalecer la identidad del producto.
+
+6. El desarrollo del frontend debe incluir pruebas exhaustivas para identificar y corregir errores antes de que estos impacten a los usuarios finales, garantizando una experiencia de uso sin contratiempos.
+
+7. El rendimiento del frontend es clave para asegurar tiempos de carga rápidos y una navegación fluida, lo que es especialmente relevante para aplicaciones de mayor escala como esta.
+
+8. Es importante mantener actualizadas las dependencias del proyecto, ya que esto previene problemas de seguridad y asegura que el código siga las mejores prácticas del desarrollo moderno.
+
+9. Por último, fomentar la participación de la comunidad y mantenerla involucrada es esencial para asegurar un flujo constante de ideas, mejoras y nuevas características que mantengan el proyecto en evolución constante.
+
+# 7. Bibliografía
 <a name="bibliografia"></a>
-
 Comisión Nacional de Energía de Chile. (2022). Anuario CNE 2022. Centro de Información Energética.
 </br>
  https://www.cne.cl/nuestros-servicios/reportes/informacion-y-estadisticas/
@@ -1344,14 +1390,13 @@ Ministerio de Energía y Minas del Perú. (2022). Anuario Estadístico de Electr
 Thiengo, D. (2023). Eficiência energética: Vantagens, aplicação e avaliação - Guia completo. Squairio.
 </br>
  https://blog.squair.io/es/sabes-cu%C3%A1les-los-principales-objetivos-de-la-eficiencia-energ%C3%A9tica-c%C3%B3mo-evaluar-y-aplicar 
-
 </br>
 
-# 7. Anexo
+# 8. Anexo
 <a name="Anexo"></a>
 ## Anexo N°1: Número de clientes finales por sectores
 <a name="anexo1"></a>
 
 ![jouneymapPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/ANEXO1.png)
-*Imagen :Número de clientes finales por sectores*
+<br>*Imagen :Número de clientes finales por sectores*
 Recuperado de: https://cdn.www.gob.pe/uploads/document/file/5277829/4742711-anuario-estadistico-2022.pdf?v=1697225335
