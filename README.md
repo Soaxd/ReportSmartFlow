@@ -1355,6 +1355,19 @@ Repositorio Landing Page: https://github.com/SmartFlow-UPC/smartflow.github.io.g
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 <a name="5214"></a>
+Se llevaron a cabo las pruebas de aceptación para las historias de usuario implementadas, empleando el lenguaje Gherkin en archivos feature. Estas pruebas fueron documentadas y almacenadas en el repositorio.
+
+Repositorio de Pruebas de Aceptación:
+
+|Repository|Branch|Commit Id|Commit Message|Commited on (Date)|
+|--|--|--|--|--|
+|SmartFlow-UPC/Acceptance-Test|main|e2cf52b|feat: added feature file for US21|05/09/2024|
+|SmartFlow-UPC/Acceptance-Test|main|87193ca|feat: added feature file for US22|05/09/2024|
+|SmartFlow-UPC/Acceptance-Test|main|4383634|feat: added feature file for US23 TS03|05/09/2024|
+|SmartFlow-UPC/Acceptance-Test|main|e37fe96|feat: added feature file for US23 TS04|05/09/2024|
+|SmartFlow-UPC/Acceptance-Test|main|444dc46|feat: added feature file for US24|05/09/2024|
+|SmartFlow-UPC/Acceptance-Test|main|f3484b9|feat: added feature file for US25|05/09/2024|
+|SmartFlow-UPC/Acceptance-Test|main|4ce40a5|feat: added feature file for US26|05/09/2024|
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 <a name="5215"></a>
