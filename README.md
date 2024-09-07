@@ -75,7 +75,7 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 |-|-|
 |Roy De La Cruz Moreno|Diseño de mockups y wireframes,Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines, Product Backlog|
 |Williams Gongora|Capitulo I, Antecedentes y problemática 5W y 2H, Segmentos Objetivos,, Needfinding, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, Database Design, Database Diagram,User Stories, Landing Page, Bibliografía, Sprint Planning 1, Sprint Backlog 1|
-|Giussepe Taquiri Calderon|User Stories , Impact Mapping,  Product Backlog Domain-Driven Software Architecture, Product Implementation, Validation & Deployment.|
+|Giussepe Taquiri Calderon|Capitulo III, User Stories , Impact Mapping,  Product Backlog Domain-Driven Software Architecture, Product Implementation, Validation & Deployment.|
 |Jhon Vasquez|Capitulo v, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint|
 |Sebastian Silva|Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, Entrevistas, Diseño de entrevistas, Registro de entrevistas, Análisis de entrevistas, As-is Scenario Mapping, Ubiquitous Language, To-Be Scenario Mapping, Class Diagrams, Class Dictionary |
 
