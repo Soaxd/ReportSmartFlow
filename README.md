@@ -1143,7 +1143,19 @@ El equipo emplea diversas herramientas para colaborar durante todas las fases de
   *Beneficio:* Proporciona una plataforma para la creación de documentación técnica y pruebas en equipo, asegurando que las pruebas de software estén documentadas de forma clara y accesible.
 
 ### 5.1.2. Source Code Management
-<a name="512"></a>
+
+El equipo opta por usar GitHub como el repositorio principal para el desarrollo de proyectos. GitHub, que emplea el sistema de control de versiones Git, facilita la colaboración entre los diferentes miembros del equipo y permite que varios trabajen simultáneamente.
+
+El repositorio del proyecto contará con dos ramas principales para gestionar e implementar versiones. La rama "main" será la principal donde se reflejarán los cambios finales, mientras que la rama "gh-pages" se usará para la implementación a través de GitHub Pages, lo que permitirá que la página web esté accesible y pública.
+
+En la rama "main" se organizarán las carpetas que contendrán los estilos CSS, las páginas HTML, la validación en JavaScript, y el desarrollo de la landing page. También se creará un repositorio adicional para los criterios de aceptación, incluyendo los Epics y los archivos ".feature" para su análisis.
+
+Los cambios realizados se podrán visualizar en la aplicación web a través de WebStorm, y los proyectos colaborativos estarán reflejados en los repositorios de GitHub como fuente principal de desarrollo.
+
+Enlace al repositorio Gihub: https://github.com/SmartFlow-UPC <br>
+Enlace al landing page: https://smartflow-upc.github.io/smartflow.github.io/
+
+### 5.1.3. Source Code Style Guide & Conventions.
 
 El equipo adoptará guías de estilo y convenciones para asegurar que el código sea limpio, legible y mantenible. Estas convenciones abarcan diversos lenguajes y tecnologías, cada una con recomendaciones específicas para mantener la calidad y coherencia en el código.
 
@@ -1164,9 +1176,6 @@ El equipo adoptará guías de estilo y convenciones para asegurar que el código
 #### Gherkin
 
 - **Guía de estilo:** Se aplicarán las Gherkin Conventions for Readable Specifications. Gherkin es un lenguaje de especificación utilizado para escribir pruebas automatizadas de comportamiento (BDD). Esta guía proporciona recomendaciones para escribir características y escenarios de manera clara y comprensible, facilitando la colaboración entre desarrolladores y no desarrolladores.
-
-### 5.1.3. Source Code Style Guide & Conventions.
-<a name="513"></a>
 
 ### 5.1.4. Software Deployment Configuration
 <a name="514"></a>
