@@ -92,7 +92,6 @@ GitHub también proporciona una visualización detallada del historial de las ra
 Los integrantes son:
 
 * Williams Gongora (WiJeGo)
-(**Especifiquen los usuarios**)
 * Roy Hernan (Przemekuwu)
 * Giussepe Taquiri(GiussepeTC)
 * Jhon Vasquez (Feli386)
@@ -105,16 +104,12 @@ Los integrantes son:
 
 **feature**: contiene los cambios constantes realizados por los artefactos relacionados con el sprint 1 del informe.
 
-
-
-**(imagen cuando commiteamos)**
-
 Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo.
 
 **TB1**
 
-**(imagen de la colaboracion de cada integrante)**
-**(imagen del grafico en conjunto)**
+<img src="img/Commit1.png">
+<img src="img/Commit2.png">
 
 ## Contenido
 
@@ -1507,3 +1502,11 @@ Thiengo, D. (2023). Eficiência energética: Vantagens, aplicação e avaliaçã
 ![jouneymapPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/ANEXO1.png)
 <br>*Imagen :Número de clientes finales por sectores*
 Recuperado de: https://cdn.www.gob.pe/uploads/document/file/5277829/4742711-anuario-estadistico-2022.pdf?v=1697225335
+
+| Descripcion | Enlace |
+|-------------|--------|
+|Url Del Repositorio| https://github.com/SmartFlow-UPC |
+|Enlace para acceder a la landing page: |  https://smartflow-upc.github.io/smartflow.github.io/|
+|Video Exposicion TB1: | |
+|Diapositivas TB1: | https://www.canva.com/design/DAGP6trFurc/pn4cYCiEMuXqh1UNgfjkiQ/edit?utm_content=DAGP6trFurc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton | 
+|Url Figma NutriMove| https://www.figma.com/design/8mXQy6OqvddLIzoc5O7Q17/Untitled?node-id=0-1&t=2hhP7dX3Dbz8CFci-1| 
