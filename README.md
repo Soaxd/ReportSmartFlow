@@ -1507,6 +1507,6 @@ Recuperado de: https://cdn.www.gob.pe/uploads/document/file/5277829/4742711-anua
 |-------------|--------|
 |Url Del Repositorio| https://github.com/SmartFlow-UPC |
 |Enlace para acceder a la landing page: |  https://smartflow-upc.github.io/smartflow.github.io/|
-|Video Exposicion TB1: | |
+|Video Exposicion TB1: | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/ETieMcfZbv5FncVLgWw-XvIBIBc4Vzx-DZGmO_KETFp6Ag?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mV5xjK|
 |Diapositivas TB1: | https://www.canva.com/design/DAGP6trFurc/pn4cYCiEMuXqh1UNgfjkiQ/edit?utm_content=DAGP6trFurc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton | 
 |Url Figma NutriMove| https://www.figma.com/design/8mXQy6OqvddLIzoc5O7Q17/Untitled?node-id=0-1&t=2hhP7dX3Dbz8CFci-1| 
