@@ -478,7 +478,7 @@ Para Smart Business, es muy importante la información de cada entrevista que se
 <a name="221"></a>
 A fin de obtener información valiosa sobre las necesidades, deseos y desafíos de nuestro público objetivo, hemos planteado una serie de preguntas.
 
-**Preguntas para el Segmento #1**: Dueños de hogar que poseen consumo de agua y luz.
+**Preguntas para el Segmento hogares #1**: Monitoreo de agua y luz .
 1.	¿Qué tan consciente eres del consumo de agua y electricidad en tu hogar?
 2.	¿Utilizas algún dispositivo o aplicación actualmente para monitorear tu consumo de energía o agua?
 3.	¿Con qué frecuencia revisas tus facturas de agua y luz? ¿Qué información te parece más relevante en ellas?
@@ -491,7 +491,7 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 10.	¿Qué aspectos de tu consumo de agua y electricidad te generan mayor preocupación o interés?
 
  
-**Preguntas para el Segmento #2**: Dueños de talleres y/o fábricas.
+**Preguntas para el Segmento negocios #2**: Monitoreo materiales, productividad.
 1.	¿Cómo monitoreas actualmente la productividad en tu taller o fábrica?
 2.	¿Utilizas algún software o herramienta específica para medir cuántos productos se fabrican y venden diaria, semanal o mensualmente?
 3.	¿Qué desafíos enfrentas al intentar medir la productividad de tu equipo o maquinaria?
@@ -507,7 +507,7 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 <table><thead>
   <tr>
-    <th colspan="3">   <br>Segmento objetivo: Dueños de hogar que poseen consumo de agua y luz.   </th>
+    <th colspan="3">   <br>Segmento objetivo hogares: Monitoreo de agua y luz .   </th>
   </tr></thead>
 <tbody>
   <tr>
@@ -571,7 +571,7 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 <table><thead>
   <tr>
-    <th colspan="3">   <br>Segmento objetivo: Dueños de hogar que poseen consumo de agua y luz.   </th>
+    <th colspan="3">   <br>Segmento objetivo negocios: Monitoreo materiales, productividad.   </th>
   </tr></thead>
 <tbody>
   <tr>
