@@ -444,22 +444,115 @@ Nota. Fuente propia.
 ### 2.1.1. Análisis competitivo
 <a name="211"></a>
 
-<table><tr><th colspan="5" valign="top">Competitive Analysis Landscape</th></tr>
-<tr><td colspan="5" valign="top">¿Por qué realizar este análisis? Lo llevamos a cabo con el objetivo de entender mejor a la competencia, lo que nos permitirá ajustar la estrategia de negocio y competir de manera más efectiva.</td></tr>
-<tr><td colspan="5" valign="top">¿Quiénes son los principales competidores de Smart Business en el mercado de la producción y regulación de consumo de agua y luz, y qué ofrecen en términos de características, precios, marketing y distribución?</td></tr>
-<tr><td colspan="2" valign="top"></td><td valign="top"><p>Smart Meters</p><p>  </p></td><td valign="top"><p>Prodsmart</p><p>   </p></td><td valign="top"><p>Fishbowl Manufacturing</p><p>  </p></td></tr>
-<tr><td rowspan="2" valign="top">Perfil</td><td valign="top">Overview</td><td valign="top">Dispositivos avanzados que miden el consumo de electricidad y agua en tiempo real, proporcionando datos detallados sobre el uso de recursos.</td><td valign="top">Software de gestión de producción en tiempo real para fábricas y talleres, que ayuda a optimizar la eficiencia y la productividad.</td><td valign="top">Sistema de gestión de inventario y fabricación que ofrece soluciones para la gestión de producción, inventario, y pedidos.</td></tr>
-<tr><td valign="top">Ventaja Competitiva ¿Qué valor ofrece a los clientes?</td><td valign="top">Ofrecen una visibilidad detallada y en tiempo real del consumo de recursos, lo que permite a los clientes reducir costos y mejorar la eficiencia energética.</td><td valign="top">Permite a los talleres y fábricas digitalizar su producción sin necesidad de hardware costoso, con un enfoque en la facilidad de uso y la accesibilidad.</td><td valign="top">Integración completa de gestión de inventario con capacidades de fabricación, lo que permite a las empresas manejar todas las operaciones desde una sola plataforma.</td></tr>
-<tr><td rowspan="2" valign="top">Perfil de marketing</td><td valign="top">Mercado objetivo</td><td valign="top">Hogares, pequeñas y grandes empresas, industrias que buscan reducir costos de energía y agua.</td><td valign="top">Pequeñas y medianas fábricas y talleres que buscan digitalizar y optimizar su producción.</td><td valign="top">Pequeñas y medianas empresas de manufactura que necesitan una solución integrada para gestionar inventarios y procesos de producción.</td></tr>
-<tr><td valign="top">Estrategias de marketing</td><td valign="top">Enfocados en la sostenibilidad y la reducción de costos, con campañas que resaltan el ahorro de energía y agua.</td><td valign="top">Marketing dirigido a fábricas y talleres con énfasis en la facilidad de digitalización y el aumento de la productividad.</td><td valign="top">Se centra en la eficiencia y la capacidad de integración, destacando la versatilidad del software en la gestión de inventarios y producción.</td></tr>
-<tr><td rowspan="3" valign="top">Perfil de producto</td><td valign="top">Productos o servicios</td><td valign="top">Medidores inteligentes de electricidad y agua, aplicaciones de monitoreo, servicios de análisis de datos.</td><td valign="top">Software para gestión de producción en tiempo real, con funciones como seguimiento de órdenes, reportes de productividad y gestión de inventario.</td><td valign="top">Software de gestión de inventario, producción, órdenes de compra, y ventas, con módulos adicionales para integración con otros sistemas.</td></tr>
-<tr><td valign="top">Precios y costos</td><td valign="top">Los precios varían según el dispositivo y el nivel de análisis de datos, con costos iniciales de instalación y posibles tarifas de suscripción para servicios avanzados.</td><td valign="top">Modelo de suscripción mensual basado en la cantidad de usuarios y las características del software, con costos accesibles para pequeñas y medianas empresas.</td><td valign="top"><p>Precios basados en licencias de software, con tarifas adicionales por módulos y soporte, generalmente más costoso debido a la integración de múltiples funciones.</p><p></p></td></tr>
-<tr><td valign="top">Canales de distribución (web y/o móvil)</td><td valign="top">Aplicaciones móviles y web que permiten a los usuarios monitorear el consumo en tiempo real desde cualquier lugar.</td><td valign="top">Plataforma basada en la nube accesible a través de dispositivos móviles y web, lo que facilita el acceso desde cualquier ubicación.</td><td valign="top">Software instalado localmente o en la nube, con acceso a través de aplicaciones web y opciones limitadas para dispositivos móviles.</td></tr>
-<tr><td rowspan="4" valign="top">Análisis SWOT</td><td valign="top">Fortalezas</td><td valign="top">Precisión en la medición y ahorro de costos a través de la eficiencia energética.</td><td valign="top">Facilidad de uso y accesibilidad, lo que permite a pequeñas y medianas empresas digitalizar su producción sin grandes inversiones.</td><td valign="top">Integración total de gestión de inventario y producción en una sola plataforma.</td></tr>
-<tr><td valign="top">Debilidades</td><td valign="top">Dependencia de la infraestructura existente y posibles altos costos iniciales de instalación.</td><td valign="top">Funcionalidades limitadas para grandes fábricas con procesos muy complejos.</td><td valign="top">Puede ser costoso para pequeñas empresas y su implementación puede requerir un tiempo significativo.</td></tr>
-<tr><td valign="top">Oportunidades</td><td valign="top">Creciente demanda de soluciones sostenibles y eficientes en energía debido a preocupaciones ambientales.</td><td valign="top">Expansión en mercados emergentes donde la digitalización de la manufactura aún está en sus primeras etapas.</td><td valign="top">Expansión a sectores industriales más grandes y desarrollo de nuevas integraciones con tecnologías emergentes.</td></tr>
-<tr><td valign="top">Amenazas</td><td valign="top"><p>Regulaciones gubernamentales y competencia de otros dispositivos de medición de energía.</p><p></p></td><td valign="top">Competencia de soluciones más avanzadas y empresas que desarrollan software propietario.</td><td valign="top">Competencia de software más especializado o empresas que prefieren soluciones desarrolladas internamente.</td></tr>
-</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky" colspan="6">Competitive Analysis Landscape</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" colspan="6">¿Por qué realizar este análisis? Lo llevamos a cabo con el objetivo de entender mejor a la competencia, lo que nos permitirá ajustar la estrategia de negocio y competir de manera más efectiva.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6">¿Quiénes son los principales competidores de Smart Business en el mercado de la producción y regulación de consumo de agua y luz, y qué ofrecen en términos de características, precios, marketing y distribución?</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2"></td>
+    <td class="tg-0lax">SmartFlow</td>
+    <td class="tg-0pky">Smart Meters<br>  </td>
+    <td class="tg-0pky">Prodsmart<br>   </td>
+    <td class="tg-0pky">Fishbowl Manufacturing<br>  </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="2">Perfil</td>
+    <td class="tg-0pky">Overview</td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>SmartFlow ofrece&nbsp;&nbsp;&nbsp;soluciones tecnológicas para el control y monitoreo en tiempo real del&nbsp;&nbsp;&nbsp;consumo de recursos como luz y agua, ayudando a empresas e individuos a&nbsp;&nbsp;&nbsp;optimizar su consumo y promover la sostenibilidad.&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">Dispositivos avanzados que miden el consumo de electricidad y agua en tiempo real, proporcionando datos detallados sobre el uso de recursos.</td>
+    <td class="tg-0pky">Software de gestión de producción en tiempo real para fábricas y talleres, que ayuda a optimizar la eficiencia y la productividad.</td>
+    <td class="tg-0pky">Sistema de gestión de inventario y fabricación que ofrece soluciones para la gestión de producción, inventario, y pedidos.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ventaja Competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>El valor principal para&nbsp;&nbsp;&nbsp;los clientes es la accesibilidad de tecnologías avanzadas que permiten&nbsp;&nbsp;&nbsp;monitorear y reducir costos de recursos en tiempo real, además de fomentar&nbsp;&nbsp;&nbsp;prácticas sostenibles en el uso de luz y agua.&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">Ofrecen una visibilidad detallada y en tiempo real del consumo de recursos, lo que permite a los clientes reducir costos y mejorar la eficiencia energética.</td>
+    <td class="tg-0pky">Permite a los talleres y fábricas digitalizar su producción sin necesidad de hardware costoso, con un enfoque en la facilidad de uso y la accesibilidad.</td>
+    <td class="tg-0pky">Integración completa de gestión de inventario con capacidades de fabricación, lo que permite a las empresas manejar todas las operaciones desde una sola plataforma.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="2">Perfil de marketing</td>
+    <td class="tg-0pky">Mercado objetivo</td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Empresas y hogares&nbsp;&nbsp;&nbsp;interesados en la optimización de recursos, reducción de costos y&nbsp;&nbsp;&nbsp;sostenibilidad. Enfocado a sectores que buscan soluciones eficientes y&nbsp;&nbsp;&nbsp;tecnológicas en su gestión de consumo.&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">Hogares, pequeñas y grandes empresas, industrias que buscan reducir costos de energía y agua.</td>
+    <td class="tg-0pky">Pequeñas y medianas fábricas y talleres que buscan digitalizar y optimizar su producción.</td>
+    <td class="tg-0pky">Pequeñas y medianas empresas de manufactura que necesitan una solución integrada para gestionar inventarios y procesos de producción.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Estrategias de marketing</td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Marketing digital a través&nbsp;&nbsp;&nbsp;de redes sociales y Google Ads.<br>&nbsp;&nbsp;&nbsp;<br>Alianzas con empresas que&nbsp;&nbsp;&nbsp;promuevan la sostenibilidad.<br>&nbsp;&nbsp;&nbsp;<br>Campañas enfocadas en la&nbsp;&nbsp;&nbsp;reducción de costos y responsabilidad ambiental.&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">Enfocados en la sostenibilidad y la reducción de costos, con campañas que resaltan el ahorro de energía y agua.</td>
+    <td class="tg-0pky">Marketing dirigido a fábricas y talleres con énfasis en la facilidad de digitalización y el aumento de la productividad.</td>
+    <td class="tg-0pky">Se centra en la eficiencia y la capacidad de integración, destacando la versatilidad del software en la gestión de inventarios y producción.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="3">Perfil de producto</td>
+    <td class="tg-0pky">Productos o servicios</td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Aplicación móvil y web que&nbsp;&nbsp;&nbsp;permite el monitoreo en tiempo real de recursos (agua, luz) con alertas&nbsp;&nbsp;&nbsp;personalizadas, estadísticas de consumo y recomendaciones de ahorro.&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">Medidores inteligentes de electricidad y agua, aplicaciones de monitoreo, servicios de análisis de datos.</td>
+    <td class="tg-0pky">Software para gestión de producción en tiempo real, con funciones como seguimiento de órdenes, reportes de productividad y gestión de inventario.</td>
+    <td class="tg-0pky">Software de gestión de inventario, producción, órdenes de compra, y ventas, con módulos adicionales para integración con otros sistemas.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Precios y costos</td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Modelo de suscripción&nbsp;&nbsp;&nbsp;mensual o anual para empresas y usuarios individuales, con diferentes niveles&nbsp;&nbsp;&nbsp;de servicios según el tamaño del consumo o las necesidades de monitoreo.&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">Los precios varían según el dispositivo y el nivel de análisis de datos, con costos iniciales de instalación y posibles tarifas de suscripción para servicios avanzados.</td>
+    <td class="tg-0pky">Modelo de suscripción mensual basado en la cantidad de usuarios y las características del software, con costos accesibles para pequeñas y medianas empresas.</td>
+    <td class="tg-0pky">Precios basados en licencias de software, con tarifas adicionales por módulos y soporte, generalmente más costoso debido a la integración de múltiples funciones.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Canales de distribución (web y/o móvil)</td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>La plataforma está&nbsp;&nbsp;&nbsp;disponible tanto en web como en aplicaciones móviles, accesibles a través de&nbsp;&nbsp;&nbsp;dispositivos inteligentes.&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">Aplicaciones móviles y web que permiten a los usuarios monitorear el consumo en tiempo real desde cualquier lugar.</td>
+    <td class="tg-0pky">Plataforma basada en la nube accesible a través de dispositivos móviles y web, lo que facilita el acceso desde cualquier ubicación.</td>
+    <td class="tg-0pky">Software instalado localmente o en la nube, con acceso a través de aplicaciones web y opciones limitadas para dispositivos móviles.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="4">Análisis SWOT</td>
+    <td class="tg-0pky">Fortalezas</td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Tecnología avanzada y&nbsp;&nbsp;&nbsp;fácil de usar.<br>&nbsp;&nbsp;&nbsp;<br>Enfoque en sostenibilidad&nbsp;&nbsp;&nbsp;y eficiencia.<br>&nbsp;&nbsp;&nbsp;<br>Ahorro de costos para los&nbsp;&nbsp;&nbsp;usuarios.&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">Precisión en la medición y ahorro de costos a través de la eficiencia energética.</td>
+    <td class="tg-0pky">Facilidad de uso y accesibilidad, lo que permite a pequeñas y medianas empresas digitalizar su producción sin grandes inversiones.</td>
+    <td class="tg-0pky">Integración total de gestión de inventario y producción en una sola plataforma.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Debilidades</td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Dependencia del acceso a&nbsp;&nbsp;&nbsp;internet para un monitoreo constante.<br>&nbsp;&nbsp;&nbsp;<br>Competencia en el mercado&nbsp;&nbsp;&nbsp;de gestión de recursos.&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">Dependencia de la infraestructura existente y posibles altos costos iniciales de instalación.</td>
+    <td class="tg-0pky">Funcionalidades limitadas para grandes fábricas con procesos muy complejos.</td>
+    <td class="tg-0pky">Puede ser costoso para pequeñas empresas y su implementación puede requerir un tiempo significativo.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Oportunidades</td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Creciente interés global&nbsp;&nbsp;&nbsp;en la sostenibilidad y eficiencia energética.<br>&nbsp;&nbsp;&nbsp;<br>Expansión a nuevos&nbsp;&nbsp;&nbsp;mercados con normativas medioambientales más estrictas.&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">Creciente demanda de soluciones sostenibles y eficientes en energía debido a preocupaciones ambientales.</td>
+    <td class="tg-0pky">Expansión en mercados emergentes donde la digitalización de la manufactura aún está en sus primeras etapas.</td>
+    <td class="tg-0pky">Expansión a sectores industriales más grandes y desarrollo de nuevas integraciones con tecnologías emergentes.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Amenazas</td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Avances tecnológicos de la competencia.<br>&nbsp;&nbsp;&nbsp;<br>Cambios regulatorios que&nbsp;&nbsp;&nbsp;afecten el mercado de gestión de recursos.&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">Regulaciones gubernamentales y competencia de otros dispositivos de medición de energía.<br></td>
+    <td class="tg-0pky">Competencia de soluciones más avanzadas y empresas que desarrollan software propietario.</td>
+    <td class="tg-0pky">Competencia de software más especializado o empresas que prefieren soluciones desarrolladas internamente.</td>
+  </tr>
+</tbody></table>
 
 Nota. Fuente propia.
 ### 2.1.2. Estrategias y tácticas frente a competidores
