@@ -125,6 +125,8 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 
 **TP1**
 
+<img src="img/report2.png">
+
 ## Contenido
 
 1. [**Capítulo I: Introducción.**](#1) <br>
@@ -1682,14 +1684,13 @@ Link del Trello: https://trello.com/invite/b/66f5e3b9e4dc493068873700/ATTI790174
 Durante el sprint 2, se logró completar el desarrollo de la implementación de la landing page, que incluye diversas secciones en las que el usuario puede acceder a información relevante sobre el producto y la startup. Paralelamente, se avanzó parcialmente en el desarrollo de la aplicación web, permitiendo a los usuarios interactuar con algunas de sus funcionalidades. A continuación, se presentan algunas evidencias.
 
 * US001
-
+<img src="img/captura2webapp.png" /><br>
 * US005
-
+<img src="img/captura3webapp.png" /><br>
 * US006
-
+<img src="img/captura4webapp.png" /><br>
 * US014
-
-* US018
+<img src="img/captura5webapp.png" /><br>
 
 <div id='5.2.2.6.'><h5> 5.2.2.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
@@ -1733,7 +1734,15 @@ Capturas de pantalla landing page:
 
 Web Application:
 
+<img src="img/captura1webapp.png" /><br>
 
+<img src="img/captura2webapp.png" /><br>
+
+<img src="img/captura3webapp.png" /><br>
+
+<img src="img/captura4webapp.png" /><br>
+
+<img src="img/captura5webapp.png" /><br>
 
 <div id='5.2.2.8.'><h5> 5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
 
@@ -1743,6 +1752,8 @@ Web Application:
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">De La Cruz Moreno, Roy Hernan</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Implementación, Sprint Backlog 2, Software Deployment Evidence for Sprint Review</td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Guerrero Vasquez, Jhon Danny</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Implementación, Development Evidence for Sprint Review, Team Collaboration Insights during Sprint</td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Silva Tirado, Sebastian Valentino</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Implementación, Testing Suite Evidence for Sprint Review, Team Collaboration Insights during Sprint</td></tr></tbody></table>
+
+<img src="img/webapp2.png" /><br>
 
 # 6. Conclusiones
 <a name="conclusiones"></a>
