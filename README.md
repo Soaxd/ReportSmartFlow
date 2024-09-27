@@ -1172,15 +1172,19 @@ Link para el flujo: https://www.figma.com/design/8mXQy6OqvddLIzoc5O7Q17/Untitled
 <a name="46"></a>
 ### 4.6.1. Software Architecture Context Diagram
 <a name="461"></a>
-![SystemContext-001](https://hackmd.io/_uploads/rJlRpeBh0.png)
+
+![structurizr-86973-SystemLandscape-001](https://hackmd.io/_uploads/Byedk07AC.png)
+
 *Imagen:  Context Diagram*
 ### 4.6.2. Software Architecture Container Diagrams
 <a name="462"></a>
-![Container-001 (3)](https://hackmd.io/_uploads/BJCRpgSnC.png)
+![structurizr-86973-Container-001](https://hackmd.io/_uploads/r1zt1RXCC.png)
+
 *Imagen:  Container Diagram*
 ### 4.6.3. Software Architecture Components Diagrams
 <a name="463"></a>
-![component](https://hackmd.io/_uploads/ryiyAgr3R.png)
+![structurizr-86973-Component-001](https://hackmd.io/_uploads/BynKJC7RC.png)
+
 *Imagen: Components  Diagram*
 </br>
 ## 4.7. Software Object-Oriented Design
