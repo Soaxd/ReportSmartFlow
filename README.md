@@ -54,13 +54,18 @@ width=30%"/>
 
 ## Registro de versiones del informe
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Versión</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Fecha</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Autor</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Descripción de modificación</th></tr></thead>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
+<tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Versión</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Fecha</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Autor</span></th>
+<th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Descripción de modificación</span></th></tr>
+</thead>
 <tbody>
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">05/09/2024</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Góngora Castillejos, Williams Jesus <br> De La Cruz Moreno, Roy Hernan <br>Guerrero Vasquez, Jhon Danny,<br> Taquiri Calderon, Jhunior Giussepe <br> Silva Tirado, Sebastian Valentino</td>
 <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Creación del documento de trabajo en formato markdown, capítulo I, capítulo II, capítulo III, capítulo IV y capítulo V</td></tr>
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TP1</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">25/09/2024</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Góngora Castillejos, Williams Jesus <br> De La Cruz Moreno, Roy Hernan <br>Guerrero Vasquez, Jhon Danny,<br> Taquiri Calderon, Jhunior Giussepe <br> Silva Tirado, Sebastian Valentino</td>
 <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Actualización del Landing Page y capítulo V.</td></tr>
-</tbody></table>                                                
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB2</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">31/10/2024</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Góngora Castillejos, Williams Jesus <br> De La Cruz Moreno, Roy Hernan <br>Guerrero Vasquez, Jhon Danny,<br> Taquiri Calderon, Jhunior Giussepe <br> Silva Tirado, Sebastian Valentino</td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Actualización del Web App y capítulo V.</td></tr>
+</tbody></table>                                             
 
 </br>
 </br>
@@ -91,6 +96,18 @@ Para la actualización del informe a la entrega TP1, se repartió de manera equi
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Williams Gongora</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sprint Backlog 2 y Services Documentation Evidence for Sprint Review.</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Giussepe Taquiri Calderon</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Development Evidence for Sprint Review.</td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Jhon Vasquez</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Testing Suite Evidence for Sprint Review.</td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sebastian Silva</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Execution Evidence for Sprint Review y Software Deployment Evidence for Sprint Review.</td></tr></tbody></table>
+
+**TB2**
+
+Para la actualización del informe a la entrega TB2, se repartió de manera equitativa de la siguiente manera para cada inegrante del equipo:
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Integrante</span></th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Tareas Asignadas</span></th></tr></thead>
+<tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Roy De La Cruz Moreno</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sprint Planning 3 - Development Evidence for Sprint Review - Team Collaboration Insights during Sprint.</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Williams Gongora</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sprint Planning 3 - Testing Suite Evidence for Sprint Review - Diseño de Entrevistas</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Giussepe Taquiri Calderon</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sprint Backlog 3 - Execution Evidence for Sprint Review - Registro de Entrevistas</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Jhon Vasquez</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sprint Backlog 3 - Services Documentation Evidence for Sprint Review - Evaluaciones según heurísticas</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sebastian Silva</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Development Evidence for Sprint Review - Software Deployment Evidence for Sprint Review. - Video About-the-Product.</td></tr></tbody></table>
+
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 
@@ -126,6 +143,28 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 **TP1**
 
 <img src="img/report2.png">
+
+**TB2**
+
+## Student Outcome
+El curso contribuye al cumplimiento del Student Outcome ABET:</br> 
+**ABET – EAC - Student Outcome 5**
+
+**Criterio:** La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
+
+</br>
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Criterio específico</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Acciones realizadas</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Conclusiones</span></th></tr></thead>
+<tbody>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Williams Gongora: <br> TB1: En el primer entregable me encargue de toda la parte de recopilacion de informacion sobre la problematica, para establecer los fundamentos y limites que iba a seguir el sistema. Asimismo, logre establecer los aspectos tanto emocionales como fisicos que el usuario iba a establecer con nuestra solucion <br> <br>Roy Hernan: <br> TB1:En el primer entregable me encargue de realizar todo lo relacionado con el Product Desing, definir la arquitectura, diseñar la UI de la landing page como de las aplicaciones web, creando wirerframes, mock-ups y prototipos. Trabajé de manera colaborativa con mi equipo, integrando sus ideas y garantizando que el diseño final reflejara las necesidades del usuario y del equipo. <br> <br>Giussepe Taquiri: <br> TB1: En esta primera entrega, me encargué de desarrollar la arquitectura basada en dominios (Domain-Driven Software Architecture) y de definir las User Stories alineadas con los objetivos del proyecto. Trabajé en estrecha colaboración con el equipo para asegurar que todas las ideas se integraran eficazmente, utilizando Trello para gestionar las tareas y Structurizr para modelar la arquitectura. <br> <br>Sebastian Silva: <br> TB1: En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco. <br> <br>Jhon Vasquez <br> TB1: En la primera parte me encargue de obtener el Landin Page para nuestro proyecto que despues se decidió usar una mejor plantilla para mejorar su presentación, también en tener las historias de usuario en Gerkin : <br><br>Williams Gongora: <br>TP1: Mostré un dominio significativo en sus presentaciones orales, empleando un lenguaje técnico cuando se dirigía a sus compañeros y simplificando conceptos para un público más general. Utilizó recursos multimedia para mejorar su exposición.<br><br>Roy Hernan: <br>TP1: Distinguí por su habilidad para conectar con la audiencia a través de un lenguaje claro y un enfoque estructurado. Adaptó su tono y profundidad de los temas según las necesidades del público, logrando un alto grado de interacción.<br><br>Giussepe Taquiri: <br>TP1: Mostré habilidades sólidas al adaptar su lenguaje y tono al tipo de audiencia durante las presentaciones grupales, empleando ejemplos claros y relevantes para cada contexto. Además, utilizó herramientas visuales efectivas para transmitir sus ideas.<br><br>Sebastian Silva: <br>TP1: Me preparé para organizar, dirigir y desarrollar parte del Web App instruyendo.<br><br>Jhon Vasquez <br>TP1: Destaqué por la claridad y precisión en sus exposiciones, logrando captar la atención de audiencias técnicas y no técnicas. Fue capaz de responder preguntas y clarificar dudas de manera adecuada durante las sesiones de feedback.<br><br>Williams Gongora: <br>TB2: <br><br>Roy Hernan: <br>TB2:<br><br>Giussepe Taquiri: <br>TB2: <br><br>Sebastian Silva: <br>TB2: Me preparé en repartir y debatir puntos clave para el trabajo como las nuevas pestañas del Web Aplication y back-end.<br><br>Jhon Vasquez <br>TB2:</td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1: Se logró un excelente primer avance del trabajo, cumpliendo con todos los aspectos del proyecto, lo que nos permitió obtener un resultado de alta calidad. El documento generado será útil para nuestro desarrollo profesional futuro en la planificación, ejecución y lanzamiento de proyectos en producción.<br><br>TP1: Se consiguió un excelente avance en el segundo entregable, cumpliendo con todos los aspectos del proyecto al crear una web app conectada a una fake api, lo que nos permitió obtener un resultado de alta calidad. esta entrega será de gran utilidad para nuestro desarrollo profesional futuro en la planificación, ejecución y lanzamiento de aplicaciones en producción.<br><br>TB2: Se logró mejorar el Web Aplication con un gran avance y primera versión del back-end.</td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Williams Gongora: <br> TB1: En la primera parte, me encargue de rapartir los puntos que se tenian que ir avanzando por cada uno de los integrantes. Por mi lado, empreze con todo el capitulo 1 y estableci el Needfinding de nuestra propuesta con el usuario. Por ultimo, estableci el Sprint Backlog para la utilizacion del Github <br> Roy Hernan: <br> TB1:En la primera etapa me encargue de integrar todas las ideas de mis compañeros y asi garantizar que el diseño final refleje las necesidades del usuario y del equipo, Además, me aseguré de cumplir con los plazos y los objetivos establecidos, lo que demuestra mi capacidad para funcionar eficazmente en un equipo <br> Giussepe Taquiri: <br> TB1: Gestioné la configuración del software, estableciendo el entorno de desarrollo y el control de versiones con GitHub, y definí guías de estilo para asegurar un código de calidad. Fomenté un entorno colaborativo e inclusivo, promoviendo la cooperación y la alineación de metas para cumplir objetivos de manera efectiva. <br> Sebastian Silva: <br> TB1: En la primera etapa, me encargué de recopilar los antecedentes y las problemáticas relevantes para nuestro proyecto, proporcionando así una base sólida para su sustento, también en la comunicación escrita por medio del informe. <br> Jhon Vasquez: <br> TB1: En el primer entragable me encargue de hacer las historias de usuarios usando Gerkin, tambíen del Landing Page de lo cuál se dió por usar una plantilla por mejor presentación. También me preocupé por el canva del informe.<br><br>Williams Gongora: <br> TP1: Redacté el plan de pruebas de la Web App y un informe general de los resultados de las pruebas. Utilizó un lenguaje preciso y técnico para el equipo de desarrollo, mientras que los reportes entregados a los stakeholders fueron más concisos y comprensibles.<br> Roy Hernan: <br>TP1: Fuí responsable de crear el informe final del Sprint #2 y redactar la documentación de la API, empleando un lenguaje técnico adecuado para los desarrolladores. También escribió resúmenes ejecutivos accesibles para los stakeholders no técnicos.<br> Giussepe Taquiri: <br>TP1: Me encargué de escribir las guías de usuario para la Web App, dirigiéndose a usuarios finales con instrucciones simples y precisas. Además, redactó tickets detallados para los desarrolladores con especificaciones técnicas en términos más especializados.<br> Sebastian Silva: <br>TP1: Elaboré de manera efectiva la comunicación del proyecto ya sea en el informe y aplicación, con anticipación y orden.<br> Jhon Vasquez <br>TP1: Redacté la documentación técnica de la Web App, utilizando un lenguaje claro y detallado para los desarrolladores, y un tono más accesible en los informes dirigidos a los stakeholders. Además, realizó reportes claros sobre los avances del proyecto en el Sprint #2.<br><br>Williams Gongora: <br>TB2: <br><br>Roy Hernan: <br>TB2:<br><br>Giussepe Taquiri: <br>TB2: <br><br>Sebastian Silva: <br>TB2: Creé y actualicé el web aplication de nuestro proyecto y los contenidos para esta versión del informe, igual repartiendo con mis compañeros.<br><br>Jhon Vasquez <br>TB2:</td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1: Como equipo, completamos este primer entregable creando una landing page que comunica de manera efectiva. Esto nos permitirá entregar un trabajo integral en el futuro, a pesar del reto que supusieron los plazos ajustados para la entrega del proyecto.<br><br>TP1: Como equipo, logramos completar el segundo entregable al desarrollar una web app que se conecta a una fake api, demostrando su funcionalidad básica. esto nos permite avanzar hacia una solución más completa en el futuro, a pesar del desafío que representaron los plazos ajustados para este proyecto.<br><br>TB2: Concluimos que logramos todas las competencias de este entregable en mejorar nuestro Web App y primera versión del back-end.</td></tr>
+</tbody></table>
+
+</br></br>
 
 ## Contenido
 
@@ -218,31 +257,20 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
    &emsp;&emsp;5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.)<br>
    &emsp;&emsp;5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
    &emsp;&emsp;5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>
+   &emsp;&emsp;5.2.3. [Sprint 3.](#5.2.3.)<br>
+   &emsp;&emsp;5.2.3.1. [Sprint Planning 3.](#5.2.3.1.)<br>
+   &emsp;&emsp;5.2.3.2. [Sprint Backlog 3.](#5.2.3.2.)<br>
+   &emsp;&emsp;5.2.3.3. [Development Evidence for Sprint Review.](#5.2.3.3.)<br>
+   &emsp;&emsp;5.2.3.4. [Testing Suite Evidence for Sprint Review.](#5.2.3.4.)<br>
+   &emsp;&emsp;5.2.3.5. [Execution Evidence for Sprint Review.](#5.2.3.5.)<br>
+   &emsp;&emsp;5.2.3.6. [Services Documentation Evidence for Sprint Review.](#5.2.3.6.)<br>
+   &emsp;&emsp;5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.)<br>
+   &emsp;&emsp;5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.)<br>
    
 7. [**Conclusiones**](#conclusiones) 
 8. [**Bibliografía**](#bibliografia)
 9. [**Anexo**](#Anexo)</br>
 &emsp;8.1. [Anexo N°1: Número de clientes finales por sectores](#anexo1)
-</br></br></br>
-
-## Student Outcome
-El curso contribuye al cumplimiento del Student Outcome ABET:</br> 
-**ABET – EAC - Student Outcome 5**
-
-**Criterio:** La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
-
-</br>
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Criterio específico</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Acciones realizadas</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Conclusiones</span></th></tr></thead>
-<tbody>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Williams Gongora: <br> TB1: En el primer entregable me encargue de toda la parte de recopilacion de informacion sobre la problematica, para establecer los fundamentos y limites que iba a seguir el sistema. Asimismo, logre establecer los aspectos tanto emocionales como fisicos que el usuario iba a establecer con nuestra solucion <br> Roy Hernan: <br> TB1:En el primer entregable me encargue de realizar todo lo relacionado con el Product Desing, definir la arquitectura, diseñar la UI de la landing page como de las aplicaciones web, creando wirerframes, mock-ups y prototipos. Trabajé de manera colaborativa con mi equipo, integrando sus ideas y garantizando que el diseño final reflejara las necesidades del usuario y del equipo. <br> Giussepe Taquiri: <br> TB1: En esta primera entrega, me encargué de desarrollar la arquitectura basada en dominios (Domain-Driven Software Architecture) y de definir las User Stories alineadas con los objetivos del proyecto. Trabajé en estrecha colaboración con el equipo para asegurar que todas las ideas se integraran eficazmente, utilizando Trello para gestionar las tareas y Structurizr para modelar la arquitectura. <br> Sebastian Silva: <br> TB1: En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco. <br> Jhon Vasquez <br> Tb1: En la primera parte me encargue de obtener el Landin Page para nuestro proyecto que despues se decidió usar una mejor plantilla para mejorar su presentación, también en tener las historias de usuario en Gerkin : <br><br>Williams Gongora: <br> TP1: Mostré un dominio significativo en sus presentaciones orales, empleando un lenguaje técnico cuando se dirigía a sus compañeros y simplificando conceptos para un público más general. Utilizó recursos multimedia para mejorar su exposición.<br> Roy Hernan: <br>TP1: Distinguí por su habilidad para conectar con la audiencia a través de un lenguaje claro y un enfoque estructurado. Adaptó su tono y profundidad de los temas según las necesidades del público, logrando un alto grado de interacción.<br> Giussepe Taquiri: <br>TP1: Mostré habilidades sólidas al adaptar su lenguaje y tono al tipo de audiencia durante las presentaciones grupales, empleando ejemplos claros y relevantes para cada contexto. Además, utilizó herramientas visuales efectivas para transmitir sus ideas.<br> Sebastian Silva: <br>TP1: Me preparé para organizar, dirigir y desarrollar parte del Web App instruyendo.<br>Jhon Vasquez <br>TP1: Destaqué por la claridad y precisión en sus exposiciones, logrando captar la atención de audiencias técnicas y no técnicas. Fue capaz de responder preguntas y clarificar dudas de manera adecuada durante las sesiones de feedback.</td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1: Se logró un excelente primer avance del trabajo, cumpliendo con todos los aspectos del proyecto, lo que nos permitió obtener un resultado de alta calidad. El documento generado será útil para nuestro desarrollo profesional futuro en la planificación, ejecución y lanzamiento de proyectos en producción.<br><br>TP1: Se consiguió un excelente avance en el segundo entregable, cumpliendo con todos los aspectos del proyecto al crear una web app conectada a una fake api, lo que nos permitió obtener un resultado de alta calidad. esta entrega será de gran utilidad para nuestro desarrollo profesional futuro en la planificación, ejecución y lanzamiento de aplicaciones en producción.</td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Williams Gongora: <br> TB1: En la primera parte, me encargue de rapartir los puntos que se tenian que ir avanzando por cada uno de los integrantes. Por mi lado, empreze con todo el capitulo 1 y estableci el Needfinding de nuestra propuesta con el usuario. Por ultimo, estableci el Sprint Backlog para la utilizacion del Github <br> Roy Hernan: <br> TB1:En la primera etapa me encargue de integrar todas las ideas de mis compañeros y asi garantizar que el diseño final refleje las necesidades del usuario y del equipo, Además, me aseguré de cumplir con los plazos y los objetivos establecidos, lo que demuestra mi capacidad para funcionar eficazmente en un equipo <br> Giussepe Taquiri: <br> TB1: Gestioné la configuración del software, estableciendo el entorno de desarrollo y el control de versiones con GitHub, y definí guías de estilo para asegurar un código de calidad. Fomenté un entorno colaborativo e inclusivo, promoviendo la cooperación y la alineación de metas para cumplir objetivos de manera efectiva. <br> Sebastian Silva: <br> TB1: En la primera etapa, me encargué de recopilar los antecedentes y las problemáticas relevantes para nuestro proyecto, proporcionando así una base sólida para su sustento, también en la comunicación escrita por medio del informe. <br> Jhon Vasquez: <br> TB1: En el primer entragable me encargue de hacer las historias de usuarios usando Gerkin, tambíen del Landing Page de lo cuál se dió por usar una plantilla por mejor presentación. También me preocupé por el canva del informe.<br><br>Williams Gongora: <br> TP1: Redacté el plan de pruebas de la Web App y un informe general de los resultados de las pruebas. Utilizó un lenguaje preciso y técnico para el equipo de desarrollo, mientras que los reportes entregados a los stakeholders fueron más concisos y comprensibles.<br> Roy Hernan: <br>TP1: Fuí responsable de crear el informe final del Sprint #2 y redactar la documentación de la API, empleando un lenguaje técnico adecuado para los desarrolladores. También escribió resúmenes ejecutivos accesibles para los stakeholders no técnicos.<br> Giussepe Taquiri: <br>TP1: Me encargué de escribir las guías de usuario para la Web App, dirigiéndose a usuarios finales con instrucciones simples y precisas. Además, redactó tickets detallados para los desarrolladores con especificaciones técnicas en términos más especializados.<br> Sebastian Silva: <br>TP1: Elaboré de manera efectiva la comunicación del proyecto ya sea en el informe y aplicación, con anticipación y orden.<br> Jhon Vasquez <br>TP1: Redacté la documentación técnica de la Web App, utilizando un lenguaje claro y detallado para los desarrolladores, y un tono más accesible en los informes dirigidos a los stakeholders. Además, realizó reportes claros sobre los avances del proyecto en el Sprint #2.</td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1: Como equipo, completamos este primer entregable creando una landing page que comunica de manera efectiva. Esto nos permitirá entregar un trabajo integral en el futuro, a pesar del reto que supusieron los plazos ajustados para la entrega del proyecto.<br><br>TP1: Como equipo, logramos completar el segundo entregable al desarrollar una web app que se conecta a una fake api, demostrando su funcionalidad básica. esto nos permite avanzar hacia una solución más completa en el futuro, a pesar del desafío que representaron los plazos ajustados para este proyecto.</td></tr>
-</tbody></table>
-
 </br></br></br>
 
 # Capítulo I: Introducción
@@ -1788,6 +1816,683 @@ Web Application:
 
 <img src="img/webapp2.png" /><br>
 
+<div id='5.2.3.'><h4> 5.2.3. Sprint #3.</h4></div>
+<div id='5.2.3.1.'><h5> 5.2.3.1. Sprint Planning 3.</h5></div>
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky">Sprint #</th>
+    <th class="tg-0pky">Date</th>
+    <th class="tg-0pky">Time</th>
+    <th class="tg-0pky">Location</th>
+    <th class="tg-0pky">Prepared By</th>
+    <th class="tg-0pky">Attendees</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky">22/09/2024</td>
+    <td class="tg-0pky">12:00 p.m.</td>
+    <td class="tg-0pky">Coordinación por WhatsApp</td>
+    <td class="tg-0pky">XXX</td>
+    <td class="tg-0pky"> XXX </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="4">Sprint 2 Goal</td>
+    <td class="tg-mq6t">Sprint 2 Velocity    </td>
+    <td class="tg-mq6t">Sum of Story Points   </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="4"><br>Actualizar el landing page y mostrando el API Fake siendo funcional y llamativa.</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
+
+<div id='5.2.3.2.'><h5> 5.2.3.2.Sprint Backlog 3.</h5></div>
+
+En el segundo sprint backlog, como equipo continuamos trabajando en la landing page, actualizándola a una versión con Frontend Web Applications integrada con un API falso. Para garantizar una distribución equitativa de las tareas, utilizamos el sprint board, dividiendo las user stories y asignándolas a los miembros del equipo.
+
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br># Sprint&nbsp;&nbsp;&nbsp;</th>
+    <th colspan="7">Sprint 1</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>User Story&nbsp;&nbsp;&nbsp;</td>
+    <td colspan="6">Work Item/Task</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Id&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Title&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Id&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Title&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Estimación (Hours)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Assigned to&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Status (In&nbsp;&nbsp;&nbsp;-process / To - review / Done)&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>HUXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UTXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>HUXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UTXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>HUXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UTXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>HUXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UTXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sebastian Silva &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>HUXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UTXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  
+</tbody></table>
+
+<div id='5.2.3.3.'><h5> 5.2.3.3.Development Evidence for Sprint Review.</h5></div>
+
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td rowspan="10"><a href="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/README.md" target="_blank" rel="noopener noreferrer">https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/README.md</a></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>SmartFlow-UPC
+/
+ReportSmartFlow&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“---”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>05/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>SmartFlow-UPC
+/
+ReportSmartFlow&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"---"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>23/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>SmartFlow-UPC
+/
+ReportSmartFlow&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>---&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>SmartFlow-UPC
+/
+ReportSmartFlow&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>SmartFlow-UPC
+/
+ReportSmartFlow&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>SmartFlow-UPC
+/
+ReportSmartFlow&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>SmartFlow-UPC
+/
+ReportSmartFlow&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>SmartFlow-UPC
+/
+ReportSmartFlow&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>SmartFlow-UPC
+/
+ReportSmartFlow&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>SmartFlow-UPC
+/
+ReportSmartFlow;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody></table>
+
+<div id='5.2.3.4.'><h5> 5.2.3.4.Testing Suite Evidence for Sprint Review.</h5></div>
+   
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Committed on (Date)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>   <br><a href="https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/README.md" target="_blank" rel="noopener noreferrer">https://github.com/SmartFlow-UPC/ReportSmartFlow/blob/main/README.md</a><br>   <br>    </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>SmartFlow-UPC
+/
+smartflow.github.io&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>chore: uploaded acceptance test for user stories
+    <td>&nbsp;&nbsp;&nbsp;<br>XXX <br>&nbsp;&nbsp;&nbsp;<br> 
+    <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody></table>
+
+
+<div id='5.2.3.5.'><h5> 5.2.3.5.Execution Evidence for Sprint Review.</h5></div>
+
+Durante el sprint 2, se logró completar el desarrollo de la implementación de la landing page, que incluye diversas secciones en las que el usuario puede acceder a información relevante sobre el producto y la startup. Paralelamente, se avanzó parcialmente en el desarrollo de la aplicación web, permitiendo a los usuarios interactuar con algunas de sus funcionalidades. A continuación, se presentan algunas evidencias.
+
+* USXX
+
+* USXX
+
+* USXX
+
+* USXX
+
+<div id='5.2.3.6.'><h5> 5.2.3.6.Services Documentation Evidence for Sprint Review.</h5></div>
+
+En el sprint 2, se planificó enfocarse exclusivamente en la landing page y el front-end. Para evitar limitaciones al probar las funcionalidades sin un back-end disponible.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky" colspan="2">Endpoint </th>
+    <th class="tg-0pky" colspan="4">Details</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" colspan="2"></td>
+    <td class="tg-0pky" colspan="4"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2"></td>
+    <td class="tg-0pky" colspan="4"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2"></td>
+    <td class="tg-0pky" colspan="4"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2"></td>
+    <td class="tg-0pky" colspan="4"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Repository</td>
+    <td class="tg-0pky">Branch</td>
+    <td class="tg-0pky">Commit Id</td>
+    <td class="tg-0pky">Commit message</td>
+    <td class="tg-0pky">Commit message body</td>
+    <td class="tg-0pky">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody></table>
+
+<div id='5.2.3.7.'><h5> 5.2.3.7.Software Deployment Evidence for Sprint Review.</h5></div>
+
+En la entrega del segundo sprint, se implementó la landing page completamente funcional, cumpliendo con las user stories asociadas a este entregable. Asimismo, se lanzó una versión parcial de la aplicación web.
+
+Landing page:
+
+Capturas de pantalla landing page:
+
+
+
+Web Application:
+
+
+
+<div id='5.2.3.8.'><h5> 5.2.3.8.Team Collaboration Insights during Sprint.</h5></div>
+
+| Alumno  | Actividad |
+| -------- | -------- |
+|  | XXX|
+|  | XXX|
+|  | XXX|
+| Silva Tirado, Sebastian Valentino | XXX|
+|  | XXX|
+
+<div id='5.3.'><h3> 5.3. Validation Interviews.</h3></div>
+
+En la sección "Validation Interviews" de nuestro proyecto, nos concentramos en mejorar la página web diseñada para los usuarios estén más comprometidos con su físico y salud. Esta fase esencial del proyecto involucra un diálogo activo con nuestros principales usuarios: dieta balancada y ejercicios. Mediante entrevistas estructuradas, buscamos captar sus opiniones y sugerencias. Esto asegura que la web no solo cumpla con los requisitos técnicos, sino que también se alinee con las dinámicas operativas y las expectativas del personal de planta. A continuación, se detallan los objetivos de usuario necesarios para realizar las entrevistas:
+
+<div id='5.3.1.'><h4> 5.3.1. Diseño de Entrevistas.</h4></div>
+
+En esta sección se especifican los objetivos de usuario que guiarán nuestras entrevistas, los cuales son fundamentales para asegurar que la app de dietas y ejercicios responda a las necesidades reales de sus usuarios. A continuación, se presentan los user goals:
+
+**User Goal: Iniciar sesión**  
+**User persona:** Usuarios generales.  
+**Explicación del flujo:** El usuario accederá a la aplicación e introducirá su correo electrónico y contraseña en el formulario de inicio de sesión. Si las credenciales son correctas, será redirigido al dashboard principal. Si no lo son, se le pedirá que reintroduzca los datos.
+
+**User Goal: Navegar por el dashboard**  
+**User persona:** Usuarios generales.  
+**Explicación del flujo:** Después de iniciar sesión, el usuario llegará al dashboard, donde podrá acceder a diferentes secciones, como actividades físicas, plan de dieta, nutrición y su perfil personal.
+
+**User Goal: Actividades**  
+**User persona:** Usuarios interesados en fitness.  
+**Explicación del flujo:** Desde el dashboard, el usuario seleccionará la opción "Actividades" para acceder a su plan de ejercicios personalizado. Podrá ver las rutinas, marcarlas como completadas y recibir recomendaciones según su progreso.
+
+**User Goal: Dieta y nutrición**  
+**User persona:** Usuarios interesados en mejorar su alimentación.  
+**Explicación del flujo:** El usuario podrá acceder a la sección de "Dieta y Nutrición", donde encontrará su plan alimenticio personalizado. Además, podrá registrar sus comidas diarias, recibir alertas sobre sus hábitos alimenticios y hacer ajustes en base a sus necesidades nutricionales.
+
+**User Goal: Mi perfil**  
+**User persona:** Usuarios generales.  
+**Explicación del flujo:** El usuario puede acceder a su perfil a través de la barra superior de la app. Allí, podrá ver y modificar su información personal, sus preferencias y ajustar las configuraciones de notificaciones y objetivos de salud.
+
+<div id='5.3.2.'><h4> 5.3.2. Registro de Entrevistas.</h4></div>
+
+<table><thead>
+  <tr>
+    <th colspan="3">   <br>
+Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
+   </th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="3">   <br>Entrevista 1:   </td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Screenshot:&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Datos personales del entrevistado   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>URL del&nbsp;&nbsp;&nbsp;video en OneDrive: &nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+	<td> <img src="Img/imagen_2024-09-05_144516929.png"><br></td>
+    <td>Entrevistado N°1: Estrella Ticona<br>Sexo: Femenino<br>Edad: 19<br>Domicilio: Rimac </td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EW7gpaJaEipNigtWbEVgpQ0BUsGMjxfIn_FCWHVfe447vg?e=sZUs8O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;&nbsp;&nbsp;<br>Resumen&nbsp;&nbsp;&nbsp;de la entrevista:&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3">La joven Estrella solía seguir dietas blandas, incluso llegó a bajar 3 kg en una semana pero <br>sumamente difícil para ella, fue una dieta muy estricta pero si está dispuesta a volver a intentarlo, <br>incluso con incentivos de limitandose temporalmente para conseguir ese premio, un gusto que <br>se pueda llegar a dar, le agrada la idea de una app que le exija y apoye en su dieta.</td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Entrevista 2:    </td>
+  </tr>
+  <tr>
+    <td>   <br>Screenshot:   </td>
+    <td>   <br>Datos personales del entrevistado   </td>
+    <td>   <br>URL del   video en OneDrive:    </td>
+  </tr>
+  <tr>
+    <td> <img src="Img/imagen_2024-09-05_144514031.png"> </td>
+    <td>Entrevistado N°2: Diego Bastidas<br>Sexo: Masculino<br>Edad: 22<br>Domicilio: Comas</td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EetHhN1mEgVJr8N3DmPcLn0BnCYK1kMQmRnpW3sou3N2dQ?e=sYqgsV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #2</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Resumen   de la entrevista:   </td>
+  </tr>
+  <tr>
+    <td colspan="3">El joven Diego temporalmente hizo dieta y ejercicio, sin embargo, tenía muchas tentaciones a <br>su alrededor como comidas chatarras que caían muy fácilmente. Le incomoda la idea de <br>notificaciones de apoyo, pero le gustaría seguir la dieta en otros ámbitos o guías específicas.<br></td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Entrevista 3:    </td>
+  </tr>
+  <tr>
+    <td>   <br>Screenshot:   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Datos&nbsp;&nbsp;&nbsp;personales del entrevistado&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>URL del   video en OneDrive:    </td>
+  </tr>
+  <tr>
+    <td> <img src="Img/imagen_2024-09-05_144510281.png"> </td>
+    <td>Entrevistado N°3: Elmer Riva<br>Sexo: Masculino<br>Edad: 20<br>Domicilio: Santa Anita </td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Eegk2qvEx_NBo-WcFwOMhtIBKFoSW45hLcg2sNZWQlnPcQ?e=82ssH5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Resumen   de la entrevista:   </td>
+  </tr>
+  <tr>
+    <td colspan="3">El joven Elmer intentó una dieta llegando a mantenerla por varias semanas pero llegaron <br>eventos festivos lo cuál le impidió seguir limitándose. Le gustaría que la aplicación tuviera <br>recordatorios y cómo alentarlo a seguir progresando. Incluso saber cuantas calorías de <br>cada alimento o producto y que sería ideal para ciertos días para evitar romper la dieta.</td>
+  </tr>
+</tbody></table>
+
+
+
+<table><thead>
+  <tr>
+    <th colspan="3">Segmento objetivo: Hacer ejercicio, rutinas.</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="3">   <br>Entrevista 1:   </td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Screenshot:&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Datos personales del entrevistado   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>URL del&nbsp;&nbsp;&nbsp;video en OneDrive: &nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td> <img src="Img/imagen_2024-09-05_144505757.png"><br></td>
+    <td>Entrevistado N°1: Camila Sanchez<br>Sexo: Femenino<br>Edad: 19<br>Domicilio: Surco, Lima, Perú.</td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EReBiEY_-aBIodz51qCCW1gBDSeozVthDf-lS10uharn7Q?e=DhOC3p&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;&nbsp;&nbsp;<br>Resumen&nbsp;&nbsp;&nbsp;de la entrevista:&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3">La joven Camila suele hacer ejercicios por semana de vez en cuando, no frecuentemente y <br>suele usar su smartwatch para hacer un seguimiento de actividad física. Le gustaría que haya <br>planes para entrenar cada parte del cuerpo y esa frecuencia para no perder la rutina que suele <br>hacer y proponerse objetivos.</td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Entrevista 2:    </td>
+  </tr>
+  <tr>
+    <td>   <br>Screenshot:   </td>
+    <td>   <br>Datos personales del entrevistado   </td>
+    <td>   <br>URL del   video en OneDrive:    </td>
+  </tr>
+  <tr>
+    <td> <img src="Img/imagen_2024-09-05_144501791.png"></td>
+    <td>Entrevistado N°2: Marcelo Ávalos<br>Sexo: Masculino<br>Edad: 20<br>Domicilio: San Luis, Lima, Perú.</td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EW9Ev2daNSBIrdTjVlg6VE4B6Ws54RB2ktXKlZCP8-DWyw?e=AGbGAd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #2</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Resumen   de la entrevista:   </td>
+  </tr>
+  <tr>
+    <td colspan="3">El joven Marcelo hace frecuentemente rutinas en el gimnasio apuntado en un block de notas <br>y con rutinas ya creadas, aún así le gustaría un seguimiento y no tanto sugerencias de nuevos <br>ejercicios, sino promedios y estadísticas de lo que ya suele hacer. También indicaciones <br>específicas de lo que se debe sentir con cada ejercicio para saber si lo está haciendo bien.</td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Entrevista 3:    </td>
+  </tr>
+  <tr>
+    <td>   <br>Screenshot:   </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Datos&nbsp;&nbsp;&nbsp;personales del entrevistado&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>URL del   video en OneDrive:    </td>
+  </tr>
+  <tr>
+    <td> <img src="Img/imagen_2024-09-05_144601015.png"></td>
+    <td>Entrevistado N°3: Marcia Rea<br>Sexo:  Femenino<br>Edad: 20<br>Domicilio: San Martín de Porres.</td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Ea0Wg14Q_R1IkBM0Fsn5T9gBZtadxHe_iWyxKCWtHRa6rw?e=xG4NiC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">   <br>Resumen   de la entrevista:   </td>
+  </tr>
+  <tr>
+    <td colspan="3">La joven Marcia de vez en cuando entrena en su casa, no siempre puede por tiempos que <br>está en el trabajo o haciendo pendientes de su casa, por lo que no sigue una rutina constante <br>sino casual. Le gustaría volver a empezar y seguir consecutivamente, haciendo posible micro <br>ejercicios en el día sin perjudicar tiempo en otras actividades. Le agrada la idea de tener <br>recordatorios y que le impidan hacer otras actividades salvo que sea del ejercicio.</td>
+  </tr>
+</tbody></table>
+
+<div id='5.3.3.'><h4> 5.3.3. Evaluaciones según heurísticas.</h4></div>
+
+<h4>SITE o APP A EVALUAR:</h4>
+
+NutriMove
+
+Objetivo: El objetivo principal de esta evaluación es identificar los problemas presentes en la aplicación web NutriMove.
+
+Método: Los hallazgos en la aplicación se obtendrán utilizando la Lista de Heurísticas de Nielsen, inicialmente investigada y desarrollada por Jakob Nielsen.
+
+<h4>TAREAS A EVALUAR:</h4>
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un usuario nuevo
+2. Busqueda de Rutinas
+3. Acceso rutinas de ejercicio
+4. Cambio de idioma
+5. API para rutina de ejercicios personalizada 
+6. Visualizacion y Analisis de Progreso
+7. Registro de ingesta de alimentos (Silva)
+8. API para obtener información nutricional de un alimento (Silva)
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Exportar datos
+2. Alerta de precaución
+3. Calendario de actividades
+4. Historial
+
+<h4>ESCALA DE SEVERIDAD:</h4>
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Nivel</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Descripción</th></tr></thead>
+<tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Problema superficial: puede ser fácilmente superador por el usuario ó&nbsp;&nbsp;&nbsp;ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista&nbsp;&nbsp;&nbsp;disponibilidad de tiempo</td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más&nbsp;&nbsp;&nbsp;difícil de superar para el usuario. Se le debería asignar una prioridad baja&nbsp;&nbsp;&nbsp;resolverlo de cara al siguiente reléase</td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de&nbsp;&nbsp;&nbsp;resolverlos. Es importante que sean corregidos y se les debe asignar una&nbsp;&nbsp;&nbsp;prioridad alta.</td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Problema muy grave: un error de gran impacto que impide al usuario&nbsp;&nbsp;&nbsp;continuar con el uso de la herramienta. Es imperativo que sea corregido antes&nbsp;&nbsp;&nbsp;del lanzamiento.</td></tr></tbody></table>
+
+<h4>TABLA RESUMEN:</h4>
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
+<tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">#</span></th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Problema</span></th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Escala de severidad </span></th>
+<th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Heurística/Principio violada(o)</span></th></tr>
+</thead>
+<tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Falta de confirmación visual para el registro exitoso de compra</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Visability: Del estado del sistema</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">No hay opción de búsqueda avanzada para las rutinas</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Efficiency: El sistema debe permitir personalización y atajos que agilicen el uso, especialmente para usuarios avanzados.</td>
+</tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">No hay confirmacion de ingreso</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Visibilidad del estado del sistema</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Cambio de idioma parcial</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Consistencia y estándares</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">API de rutinas basica</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Flexibilidad y eficiencia de uso</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">La visualizacion del progreso no es clara y evidente</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">7</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Registro de ingesta de alimentos</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Visibilidad del estado del sistema</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">API para obtener información nutricional de un alimento</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Flexibilidad y eficiencia de uso</td></tr></tbody></table>
+
+<h4>DESCRIPCIÓN DE PROBLEMAS:</h4>
+ 
+* PROBLEMA #1:  Falta de confirmación visual para el registro exitoso
+- Severidad: 2
+Heurística violada: Visibilidad del estado del sistema
+- Problema:
+Al momento de completar el registro de un nuevo usuario, no se muestra un mensaje o indicación visual de éxito o error. Esto puede generar confusión en el usuario al no saber si el registro se ha realizado correctamente o si necesita hacer alguna corrección en los datos ingresados.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Incorporar un mensaje de confirmación visual claramente visible, indicando si el registro fue exitoso o si hubo algún error. Esto puede incluir una alerta emergente, un cambio de pantalla o un mensaje en el mismo formulario.
+
+---
+
+* PROBLEMA #2:  No hay opción de búsqueda avanzada para las rutinas
+- Severidad: 3
+Heurística violada: Flexibilidad y eficiencia de uso
+- Problema:
+Actualmente, la parte de rutinas en la aplicación no ofrece opciones avanzadas de filtro. Los usuarios no pueden personalizar su búsqueda para especificar criterios como el nivel de dificultad o el tipo de rutina, lo cual limita la capacidad de encontrar rutinas específicas según sus necesidades.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Añadir una opción de búsqueda avanzada que permita filtrar las rutinas por criterios relevantes, como nivel de dificultad, duración o tipo de entrenamiento (cardio, fuerza, etc.). Esto mejorará la experiencia de usuario al permitir búsquedas más precisas y personalizadas.
+
+
+---
+
+* PROBLEMA #3: No hay confirmacion de ingreso
+* Severidad: 2
+Heurística violada: Visibilidad del estado del sistema
+- Problema:
+Al acceder a la sección de rutinas de ejercicio, los usuarios no reciben confirmación visual que indique si han ingresado correctamente o si hay un error en la carga. Esto puede causar confusión, especialmente si el acceso es lento o la carga falla sin notificación.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Incorporar una animación o mensaje de carga mientras se accede a las rutinas. En caso de error, mostrar un mensaje claro que indique el problema y sugiera acciones, como volver a intentar o contactar soporte.
+
+---
+
+* PROBLEMA #4: Cambio de idioma parcial
+
+- Severidad: 3
+Heurística violada: Consistencia y estándares
+- Problema:
+El cambio de idioma en la aplicación no se aplica inmediatamente a todas las secciones, o algunas secciones quedan parcialmente traducidas. Esto genera una experiencia inconsistente para usuarios que dependen del cambio de idioma para comprender el contenido.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Garantizar que al cambiar el idioma, todas las secciones se actualicen inmediatamente y de manera coherente. Implementar pruebas para verificar que todos los textos se carguen en el idioma correcto al realizar el cambio.
+ 
+---
+ 
+ * PROBLEMA #5: API de rutinas  basica
+- Severidad: 3
+Heurística violada: Flexibilidad y eficiencia de uso
+- Problema:
+La API no ofrece suficiente personalización para los usuarios avanzados que desean rutinas específicas según criterios como nivel de dificultad, duración, o tipo de entrenamiento. Esto limita la experiencia de usuarios que buscan adaptar las rutinas a sus necesidades individuales.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Agregar opciones de filtrado avanzadas en la API para que los usuarios puedan solicitar rutinas personalizadas según criterios específicos. Esto permitiría a los usuarios encontrar rutinas más adecuadas y aumentaría la relevancia de las recomendaciones.
+ 
+---
+ 
+ * PROBLEMA #6: La visualizacion del progreso no es clara y evidente
+- Severidad: 4
+Heurística violada: Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores
+- Problema:
+La funcionalidad de visualización y análisis de progreso no permite a los usuarios comprender fácilmente sus avances, ya que carece de indicadores visuales claros (gráficos, comparativas de semanas previas, etc.) y opciones de interpretación de datos. Esto puede frustrar al usuario y hacer que abandone el seguimiento de su progreso.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Incorporar gráficos claros y fáciles de interpretar, junto con indicadores y comparativas que resuman el progreso de manera visual. Incluir recomendaciones o análisis automáticos que sugieran próximas metas o evaluaciones basadas en los datos obtenidos.
+ 
+---
+ 
+ * PROBLEMA #7: No se ve los nombres al registrar nuevos alimentos y tampoco la suma de cada valor del alimento.
+- Severidad: 2
+Heurística violada: Visibilidad del estado del sistema
+- Problema:
+La aplicación debería mostrar que es cada item en cada recuadro para que el usuario sepa mejor que colocar en cada uno y poder agregar el alimento, a la vez que se sume en cada columna y llevar mejor control.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Para mejorar la experiencia de usuario sería actualizar o agregar un titulo encima para saber que se refiere cada item y al final de la tabla colocar la suma total de lo agregado hasta el momento.
+ 
+---
+ 
+ * PROBLEMA #8: No se visualiza bien para el usuario el API para obtener información nutricional de un alimento
+
+- Severidad: 1
+Heurística violada: Flexibilidad y eficiencia de uso
+- Problema:
+Si los usuarios necesitan frecuentemente verificar la información nutricional de alimentos, la API debe responder de manera rápida y mejor visualmente, no solamente texto donde el usuario se puede perder.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Para mejorar la experiencia de usuario se agregaría estilos o algo característico en cada card para hacerlo más intuitivo.
+
+<div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
+
+A continuación, se muestra el video "About the product", que destaca el propósito, los beneficios y las características clave de la aplicación. Además, incluye testimonios de los principales usuarios, quienes validan la calidad del software desarrollado.
+
+Enlace para visualizar el video About the product:
+Enlace del video subido a Stream: 
+
 # 6. Conclusiones
 <a name="conclusiones"></a>
 
@@ -1843,3 +2548,6 @@ Recuperado de: https://cdn.www.gob.pe/uploads/document/file/5277829/4742711-anua
 |Diapositivas TP1: | https://www.canva.com/design/DAGP6trFurc/pn4cYCiEMuXqh1UNgfjkiQ/edit?utm_content=DAGP6trFurc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton | 
 |Url Figma NutriMove| https://www.figma.com/design/8mXQy6OqvddLIzoc5O7Q17/Untitled?node-id=0-1&t=2hhP7dX3Dbz8CFci-1| 
 |Url Trello| https://trello.com/invite/accept-board| 
+|About The Product: | (Enlace)  |
+|About The Team: | (Enlace)  | 
+|Video Exposicion TB2: | (Enlace) |
