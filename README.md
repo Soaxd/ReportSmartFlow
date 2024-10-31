@@ -2261,7 +2261,8 @@ Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
 
 <table><thead>
   <tr>
-    <th colspan="3">Segmento objetivo: Hacer ejercicio, rutinas.</th>
+    <th colspan="3">Segmento objetivo negocios: Monitoreo materiales, productividad.
+</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -2273,15 +2274,16 @@ Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
     <td>&nbsp;&nbsp;&nbsp;<br>URL del&nbsp;&nbsp;&nbsp;video en OneDrive: &nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td> <img src="Img/imagen_2024-09-05_144505757.png"><br></td>
-    <td>Entrevistado N°1: Camila Sanchez<br>Sexo: Femenino<br>Edad: 19<br>Domicilio: Surco, Lima, Perú.</td>
-    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EReBiEY_-aBIodz51qCCW1gBDSeozVthDf-lS10uharn7Q?e=DhOC3p&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
+    <td> <img 
+src=https://hackmd.io/_uploads/BJpLvqe-1l.png) ><br></td>
+    <td>Entrevistado N°1: Anthoanet Osores<br>Sexo: Femenino <br>Edad: 19<br>Domicilio: Lince </td>
+    <td>Link: <a href= "https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c576_upc_edu_pe/EUlXwo9oOTdIl22btgPCtLMBszSvcWWvDqSm7AmpJ7Pm_Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wWaR06" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
   </tr>
   <tr>
     <td colspan="3">&nbsp;&nbsp;&nbsp;<br>Resumen&nbsp;&nbsp;&nbsp;de la entrevista:&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="3">La joven Camila suele hacer ejercicios por semana de vez en cuando, no frecuentemente y <br>suele usar su smartwatch para hacer un seguimiento de actividad física. Le gustaría que haya <br>planes para entrenar cada parte del cuerpo y esa frecuencia para no perder la rutina que suele <br>hacer y proponerse objetivos.</td>
+    <td colspan="3">La señorita Anthoanet expresó su interés en la plataforma por sus opciones de control y monitoreo del uso de luz y agua. Le parece útil poder ver el historial de consumo y establecer fechas para revisar promedios, además de contar con límites que permitan gestionar el consumo de luz y aplicar apagados automáticos si se supera el límite. Recomienda que esta función de control también esté disponible para el agua, ya que actualmente se aplica solo al consumo de luz.</td>
   </tr>
   <tr>
     <td colspan="3">   <br>Entrevista 2:    </td>
@@ -2292,15 +2294,15 @@ Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
     <td>   <br>URL del   video en OneDrive:    </td>
   </tr>
   <tr>
-    <td> <img src="Img/imagen_2024-09-05_144501791.png"></td>
-    <td>Entrevistado N°2: Marcelo Ávalos<br>Sexo: Masculino<br>Edad: 20<br>Domicilio: San Luis, Lima, Perú.</td>
-    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EW9Ev2daNSBIrdTjVlg6VE4B6Ws54RB2ktXKlZCP8-DWyw?e=AGbGAd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #2</a></td>
+    <td> <img src="https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/entrevista1.png"></td>
+    <td>Entrevistado N°2: Luis Espiritu<br>Sexo: Masculino<br>Edad: 27<br>Domicilio: Ate</td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c186_upc_edu_pe/EcLgtMcAJaxJvKueUQvXNmEBFdoOU_h35J2ueHNExa4eRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zDyH7F" target="_blank" rel="noopener noreferrer">Entrevista #2</a></td>
   </tr>
   <tr>
     <td colspan="3">   <br>Resumen   de la entrevista:   </td>
   </tr>
   <tr>
-    <td colspan="3">El joven Marcelo hace frecuentemente rutinas en el gimnasio apuntado en un block de notas <br>y con rutinas ya creadas, aún así le gustaría un seguimiento y no tanto sugerencias de nuevos <br>ejercicios, sino promedios y estadísticas de lo que ya suele hacer. También indicaciones <br>específicas de lo que se debe sentir con cada ejercicio para saber si lo está haciendo bien.</td>
+    <td colspan="3">Luis, un economista de 27 años, enfrenta el desafío de no poder controlar eficazmente el consumo y costo de sus recursos hídricos y eléctricos. Le resulta frustrante descubrir los ajustes en su presupuesto solo al recibir la factura al termino del mes. Por ello, desea una aplicación que le permita monitorear y gestionar su consumo en tiempo real. Además, considera esencial recibir alertas cuando el consumo exceda los límites establecidos, para poder actuar de manera preventiva y evitar sobrecostos inesperados.</td>
   </tr>
   <tr>
     <td colspan="3">   <br>Entrevista 3:    </td>
@@ -2312,14 +2314,14 @@ Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
   </tr>
   <tr>
     <td> <img src="Img/imagen_2024-09-05_144601015.png"></td>
-    <td>Entrevistado N°3: Marcia Rea<br>Sexo:  Femenino<br>Edad: 20<br>Domicilio: San Martín de Porres.</td>
-    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Ea0Wg14Q_R1IkBM0Fsn5T9gBZtadxHe_iWyxKCWtHRa6rw?e=xG4NiC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
+    <td>Entrevistado N°3: Sebastian Escobar<br>Sexo:  Masculino<br>Edad: 20<br>Domicilio: Santa Anita</td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/ETwGMP5dnbFLilrDYOlHPk4BYFE2MYcn4d5hkpHQBPgUKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AlrD7X" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
   </tr>
   <tr>
     <td colspan="3">   <br>Resumen   de la entrevista:   </td>
   </tr>
   <tr>
-    <td colspan="3">La joven Marcia de vez en cuando entrena en su casa, no siempre puede por tiempos que <br>está en el trabajo o haciendo pendientes de su casa, por lo que no sigue una rutina constante <br>sino casual. Le gustaría volver a empezar y seguir consecutivamente, haciendo posible micro <br>ejercicios en el día sin perjudicar tiempo en otras actividades. Le agrada la idea de tener <br>recordatorios y que le impidan hacer otras actividades salvo que sea del ejercicio.</td>
+    <td colspan="3">El joven Sebastian le gustó la innovación un poco fuera de lo normal al poder ver los consumos de servicios y la producción al recibir una alerta cuando se llegue al mínimo establecido previamente. Recomienda actualizar con promedio de agua y un poco más de diseño.</td>
   </tr>
 </tbody></table>
 
@@ -2327,31 +2329,30 @@ Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
 
 <h4>SITE o APP A EVALUAR:</h4>
 
-NutriMove
+SmartFlow
 
-Objetivo: El objetivo principal de esta evaluación es identificar los problemas presentes en la aplicación web NutriMove.
+Objetivo: Verificar que la aplicación SmartFlow esté alineada con los objetivos estratégicos, proporcionando las herramientas y funcionalidades necesarias para optimizar la producción y el control de la energía. Esta evaluación permitirá identificar áreas de mejora y garantizar que SmartFlow sea una solución eficaz y eficiente para nuestros clientes.
 
-Método: Los hallazgos en la aplicación se obtendrán utilizando la Lista de Heurísticas de Nielsen, inicialmente investigada y desarrollada por Jakob Nielsen.
+Método: Se llevará a cabo un análisis detallado de la aplicación SmartFlow utilizando el método de evaluación heurística de Nielsen, con el fin de identificar cualquier desviación de los estándares de usabilidad y garantizar que la plataforma cumpla con las expectativas de nuestros clientes.
 
 <h4>TAREAS A EVALUAR:</h4>
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
 1. Registro de un usuario nuevo
-2. Busqueda de Rutinas
-3. Acceso rutinas de ejercicio
-4. Cambio de idioma
-5. API para rutina de ejercicios personalizada 
-6. Visualizacion y Analisis de Progreso
-7. Registro de ingesta de alimentos (Silva)
-8. API para obtener información nutricional de un alimento (Silva)
+2. Home
+3. Producción 
+4. Agregar registros
+5. Mínimo de controles
+6. Límite de consumos
+7. Historial alarmas
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
 
-1. Exportar datos
-2. Alerta de precaución
-3. Calendario de actividades
-4. Historial
+1. Cambio de idioma
+2. Actualización en producción con consumo
+3. Historial de consumos
+4. Perfil
 
 <h4>ESCALA DE SEVERIDAD:</h4>
 
@@ -2369,126 +2370,110 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
 <tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">#</span></th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Problema</span></th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Escala de severidad </span></th>
 <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Heurística/Principio violada(o)</span></th></tr>
 </thead>
-<tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Falta de confirmación visual para el registro exitoso de compra</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Visability: Del estado del sistema</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">No hay opción de búsqueda avanzada para las rutinas</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Efficiency: El sistema debe permitir personalización y atajos que agilicen el uso, especialmente para usuarios avanzados.</td>
-</tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">No hay confirmacion de ingreso</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Visibilidad del estado del sistema</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Cambio de idioma parcial</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Consistencia y estándares</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">API de rutinas basica</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Flexibilidad y eficiencia de uso</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">La visualizacion del progreso no es clara y evidente</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">7</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Registro de ingesta de alimentos</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Visibilidad del estado del sistema</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">API para obtener información nutricional de un alimento</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Flexibilidad y eficiencia de uso</td></tr></tbody></table>
+<tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Falta de diseño y guardar la información al registrar un nuevo usuario</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Visibilidad del estado del sistema</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Pestañas homes simples</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Flexibilidad y eficiencia de uso</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Falta de agregar dispositivos en pestaña producción</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Visibilidad del estado del sistema</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Falta promedio de consumos en la pestaña registros</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Flexibilidad y eficiencia de uso</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Función adicional en pestaña controles</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Estética y diseño minimalista</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Función adicional en pestaña consumos</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Flexibilidad y eficiencia de uso</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">7</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">No se guarda el historial de alarmas o alertas.</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Visibilidad del estado del sistema</td></tr></tbody></table>
 
 <h4>DESCRIPCIÓN DE PROBLEMAS:</h4>
  
-* PROBLEMA #1:  Falta de confirmación visual para el registro exitoso
-- Severidad: 2
+* PROBLEMA #1:  Falta de diseño y guardar la información al registrar un nuevo usuario
+- Severidad: 1
 Heurística violada: Visibilidad del estado del sistema
 - Problema:
-Al momento de completar el registro de un nuevo usuario, no se muestra un mensaje o indicación visual de éxito o error. Esto puede generar confusión en el usuario al no saber si el registro se ha realizado correctamente o si necesita hacer alguna corrección en los datos ingresados.
+Al registrar a un nuevo usuario se guarda en el sistema pero no en el programa, no en la API, solo se llega a guardar momentaneamente.
 
 (Incluir además una captura de pantalla ilustrando el problema).
 
 - Recomendación:
-Incorporar un mensaje de confirmación visual claramente visible, indicando si el registro fue exitoso o si hubo algún error. Esto puede incluir una alerta emergente, un cambio de pantalla o un mensaje en el mismo formulario.
+Actualiar el aparatado de register y login para que use la API y almacene la información previamente registrada. Adicionando estilos y se vea mejor estéticamente.
 
 ---
 
-* PROBLEMA #2:  No hay opción de búsqueda avanzada para las rutinas
-- Severidad: 3
-Heurística violada: Flexibilidad y eficiencia de uso
-- Problema:
-Actualmente, la parte de rutinas en la aplicación no ofrece opciones avanzadas de filtro. Los usuarios no pueden personalizar su búsqueda para especificar criterios como el nivel de dificultad o el tipo de rutina, lo cual limita la capacidad de encontrar rutinas específicas según sus necesidades.
-
-(Incluir además una captura de pantalla ilustrando el problema).
-
-- Recomendación:
-Añadir una opción de búsqueda avanzada que permita filtrar las rutinas por criterios relevantes, como nivel de dificultad, duración o tipo de entrenamiento (cardio, fuerza, etc.). Esto mejorará la experiencia de usuario al permitir búsquedas más precisas y personalizadas.
-
-
----
-
-* PROBLEMA #3: No hay confirmacion de ingreso
-* Severidad: 2
-Heurística violada: Visibilidad del estado del sistema
-- Problema:
-Al acceder a la sección de rutinas de ejercicio, los usuarios no reciben confirmación visual que indique si han ingresado correctamente o si hay un error en la carga. Esto puede causar confusión, especialmente si el acceso es lento o la carga falla sin notificación.
-
-(Incluir además una captura de pantalla ilustrando el problema).
-
-- Recomendación:
-Incorporar una animación o mensaje de carga mientras se accede a las rutinas. En caso de error, mostrar un mensaje claro que indique el problema y sugiera acciones, como volver a intentar o contactar soporte.
-
----
-
-* PROBLEMA #4: Cambio de idioma parcial
-
-- Severidad: 3
-Heurística violada: Consistencia y estándares
-- Problema:
-El cambio de idioma en la aplicación no se aplica inmediatamente a todas las secciones, o algunas secciones quedan parcialmente traducidas. Esto genera una experiencia inconsistente para usuarios que dependen del cambio de idioma para comprender el contenido.
-
-(Incluir además una captura de pantalla ilustrando el problema).
-
-- Recomendación:
-Garantizar que al cambiar el idioma, todas las secciones se actualicen inmediatamente y de manera coherente. Implementar pruebas para verificar que todos los textos se carguen en el idioma correcto al realizar el cambio.
- 
----
- 
- * PROBLEMA #5: API de rutinas  basica
-- Severidad: 3
-Heurística violada: Flexibilidad y eficiencia de uso
-- Problema:
-La API no ofrece suficiente personalización para los usuarios avanzados que desean rutinas específicas según criterios como nivel de dificultad, duración, o tipo de entrenamiento. Esto limita la experiencia de usuarios que buscan adaptar las rutinas a sus necesidades individuales.
-
-(Incluir además una captura de pantalla ilustrando el problema).
-
-- Recomendación:
-Agregar opciones de filtrado avanzadas en la API para que los usuarios puedan solicitar rutinas personalizadas según criterios específicos. Esto permitiría a los usuarios encontrar rutinas más adecuadas y aumentaría la relevancia de las recomendaciones.
- 
----
- 
- * PROBLEMA #6: La visualizacion del progreso no es clara y evidente
-- Severidad: 4
-Heurística violada: Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores
-- Problema:
-La funcionalidad de visualización y análisis de progreso no permite a los usuarios comprender fácilmente sus avances, ya que carece de indicadores visuales claros (gráficos, comparativas de semanas previas, etc.) y opciones de interpretación de datos. Esto puede frustrar al usuario y hacer que abandone el seguimiento de su progreso.
-
-(Incluir además una captura de pantalla ilustrando el problema).
-
-- Recomendación:
-Incorporar gráficos claros y fáciles de interpretar, junto con indicadores y comparativas que resuman el progreso de manera visual. Incluir recomendaciones o análisis automáticos que sugieran próximas metas o evaluaciones basadas en los datos obtenidos.
- 
----
- 
- * PROBLEMA #7: No se ve los nombres al registrar nuevos alimentos y tampoco la suma de cada valor del alimento.
-- Severidad: 2
-Heurística violada: Visibilidad del estado del sistema
-- Problema:
-La aplicación debería mostrar que es cada item en cada recuadro para que el usuario sepa mejor que colocar en cada uno y poder agregar el alimento, a la vez que se sume en cada columna y llevar mejor control.
-
-(Incluir además una captura de pantalla ilustrando el problema).
-
-- Recomendación:
-Para mejorar la experiencia de usuario sería actualizar o agregar un titulo encima para saber que se refiere cada item y al final de la tabla colocar la suma total de lo agregado hasta el momento.
- 
----
- 
- * PROBLEMA #8: No se visualiza bien para el usuario el API para obtener información nutricional de un alimento
-
+* PROBLEMA #2: Pestañas homes simples
 - Severidad: 1
 Heurística violada: Flexibilidad y eficiencia de uso
 - Problema:
-Si los usuarios necesitan frecuentemente verificar la información nutricional de alimentos, la API debe responder de manera rápida y mejor visualmente, no solamente texto donde el usuario se puede perder.
+Al entrar al programa aparece varias pestañas acerca de la aplicación, en algunos casos es redundante o no del todo efectivo.
 
 (Incluir además una captura de pantalla ilustrando el problema).
 
 - Recomendación:
-Para mejorar la experiencia de usuario se agregaría estilos o algo característico en cada card para hacerlo más intuitivo.
+Reemplazar esas pestañas o actualizandolas con alguna función adicional y tenga más relevancia.
+
+---
+
+* PROBLEMA #3: Falta de agregar dispositivos en pestaña producción
+* Severidad: 3
+Heurística violada: Visibilidad del estado del sistema
+- Problema:
+Se llega a hacer el filtro de consumos prestablecidos de agua y luz, mas no se puede agregar dispostivios par que se actualice el filtro.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Agregar un botón con la funcionalidad de agregas dispositvos o se agreguen de la siguiente pestaña que cumple esa funcionalidad, acoplarlo.
+
+---
+
+* PROBLEMA #4: Falta promedio de consumos en la pestaña registros
+
+- Severidad: 3
+Heurística violada: Flexibilidad y eficiencia de uso
+- Problema:
+Hace falta una funcionalidad adicional en registros, ya que solo registra los consumos por meses.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Implementar un promedio total o suma para la pestaña y sea más relevante.
+ 
+---
+ 
+ * PROBLEMA #5: Función adicional en pestaña controles
+- Severidad: 2
+Heurística violada: Estética y diseño minimalista
+- Problema:
+Se cruza la función mínimo con la producción y aparece la alerta cuando se actualiza la pestaña, no instantaneo.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Convalidar el botón mínimo con el API para que llegue a guardarse y no tenga que recargarse para que se active la alerta.
+ 
+---
+ 
+ * PROBLEMA #6: Función adicional en pestaña consumos
+- Severidad: 2
+Heurística violada: Flexibilidad y eficiencia de uso
+- Problema:
+Surge cuando se establece el límite pero se guarda momentaneamente, mas no en el sistema porque al cambiar de pestaña se restablece y al actualizar aparece muchas notificaciones.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Enlazar el API con el botón límite y se guarde en el programa para que no se reestablezca.
+ 
+---
+ 
+ * PROBLEMA #7: No se guarda el historial de alarmas o alertas.
+- Severidad: 3
+Heurística violada: Visibilidad del estado del sistema
+- Problema:
+Por cada alerta o notificación que aparece no se actualiza en la pestaña de alarmas.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Actualizar el programa para que por cada alerta se guarde automaticamente en la pestaña y sea más efectivo.
+ 
 
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
 
-A continuación, se muestra el video "About the product", que destaca el propósito, los beneficios y las características clave de la aplicación. Además, incluye testimonios de los principales usuarios, quienes validan la calidad del software desarrollado.
+A continuación, te presentamos el video 'Acerca del producto', donde podrás conocer a fondo el propósito, las ventajas y las principales características de nuestra aplicación. Además, incluimos testimonios reales de nuestros usuarios que respaldan la calidad de nuestro software.
 
 Enlace para visualizar el video About the product:
 Enlace del video subido a Stream: 
