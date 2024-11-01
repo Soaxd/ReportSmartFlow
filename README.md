@@ -1895,13 +1895,26 @@ En el tercer sprint backlog, el equipo siguió avanzando en la actualización de
 En el sprint 3, se completó el desarrollo de la implementación de la aplicación web, la cual incluye varias secciones a las que el usuario puede acceder como consumo, control, producción, entre otros. Al mismo tiempo, se avanzó parcialmente en el desarrollo del backend, permitiendo su conexión con la base de datos. A continuación, se muestran algunas evidencias.
 
 * Control:
-
-
+<img src="img/img_controles.jpeg" /><br>
 
 * Consumos:
-
+<img src="img/img_consumos.jpeg" /><br>
 
 * Back-end:
+<img src="img/img_back-end.jpeg" /><br>
+
+<img src="img/img_consumos_api.jpeg" /><br>
+
+<img src="img/img_controles_api.jpeg" /><br>
+
+<img src="img/img_registro_api.jpeg" /><br>
+
+<img src="img/img_user_api.jpeg" /><br>
+
+<img src="img/img_put.jpeg" /><br>
+
+<img src="img/img_schemas.jpeg" /><br>
+
 
 
 <div id='5.2.3.6.'><h5> 5.2.3.6.Services Documentation Evidence for Sprint Review.</h5></div>
@@ -1933,17 +1946,20 @@ En el sprint 3, se planificó concentrarse exclusivamente en el backend y, en pa
 En la entrega del tercer sprint, se implementó una aplicación web completamente funcional, cumpliendo con las user stories correspondientes a este entregable. Además, se lanzó una versión parcial del backend.
 
 Web Application:
+<img src="img/im_web_app.jpeg" /><br>
 
 Back-end:
+<img src="img/img_back-end.jpeg" /><br>
 
 <div id='5.2.3.8.'><h5> 5.2.3.8.Team Collaboration Insights during Sprint.</h5></div>
 
-| Alumno  | Actividad |
-| Jhunior De la Cruz | Sprint Backlog 3 - Execution Evidence for Sprint Review - Registro de Entrevistas |
-| Roy Hernan | Sprint Planning 3 - Development Evidence for Sprint Review - Team Collaboration Insights during Sprint.|
-| Jhon Guerrero | Sprint Backlog 3 - Services Documentation Evidence for Sprint Review - Evaluaciones según heurísticas|
-| Silva Tirado, Sebastian Valentino | Development Evidence for Sprint Review - Software Deployment Evidence for Sprint Review. - Video About-the-Product.|
-| Williams Góngora | Sprint Planning 3 - Testing Suite Evidence for Sprint Review - Diseño de Entrevistas|
+| Alumno                            | Actividad                                                                                                         |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Jhunior De la Cruz                | Sprint Backlog 3  Execution Evidence for Sprint Review  Registro de Entrevistas                                   |
+| Roy Hernan                        | Sprint Planning 3  Development Evidence for Sprint Review  Team Collaboration Insights during Sprint.             |
+| Jhon Guerrero                     | Sprint Backlog 3  Services Documentation Evidence for Sprint Review  Evaluaciones según heurísticas               |
+| Silva Tirado  Sebastian Valentino | Development Evidence for Sprint Review  Software Deployment Evidence for Sprint Review.  Video About the Product. |
+| Williams Góngora                  | Sprint Planning 3  Testing Suite Evidence for Sprint Review  Diseño de Entrevistas                                |
 
 <div id='5.3.'><h3> 5.3. Validation Interviews.</h3></div>
 
@@ -1977,8 +1993,7 @@ En esta sección se especifican los objetivos de usuario que guiarán nuestras e
 
 <table><thead>
   <tr>
-    <th colspan="3">   <br>
-Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
+    <th colspan="3">Segmento objetivo hogares: Monitoreo de agua y luz .
    </th>
   </tr></thead>
 <tbody>
@@ -1991,15 +2006,16 @@ Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
     <td>&nbsp;&nbsp;&nbsp;<br>URL del&nbsp;&nbsp;&nbsp;video en OneDrive: &nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-	<td> <img src="Img/imagen_2024-09-05_144516929.png"><br></td>
-    <td>Entrevistado N°1: Estrella Ticona<br>Sexo: Femenino<br>Edad: 19<br>Domicilio: Rimac </td>
-    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EW7gpaJaEipNigtWbEVgpQ0BUsGMjxfIn_FCWHVfe447vg?e=sZUs8O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
+	<td> <img src=https://hackmd.io/_uploads/SkhBxPlWkg.jpg
+><br></td>
+    <td>Entrevistado N°1: Rony Frank Colos Alarcon <br>Sexo: Masculino<br>Edad: 19<br>Domicilio: Cieneguilla </td>
+    <td>Link: <a href="https://drive.google.com/file/d/1tu1CtYfO2JTbbFmf9GPllq-ccyaH_PBs/view?usp=sharing" target="_blank" rel="noopener noreferrer">Entrevista #1</a></td>
   </tr>
   <tr>
     <td colspan="3">&nbsp;&nbsp;&nbsp;<br>Resumen&nbsp;&nbsp;&nbsp;de la entrevista:&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="3">La joven Estrella solía seguir dietas blandas, incluso llegó a bajar 3 kg en una semana pero <br>sumamente difícil para ella, fue una dieta muy estricta pero si está dispuesta a volver a intentarlo, <br>incluso con incentivos de limitandose temporalmente para conseguir ese premio, un gusto que <br>se pueda llegar a dar, le agrada la idea de una app que le exija y apoye en su dieta.</td>
+    <td colspan="3">En una entrevista con el estudiante Rony Frank Colos Alarcón, nos comentó que no tiene observaciones importantes para mejorar la aplicación, salvo en el aspecto relacionado con la posibilidad de apagar dispositivos de manera remota. Aunque esta función podría ser útil en entornos personales, considera que no sería muy práctica en un entorno empresarial, ya que podría ocasionar daños si se apagan equipos de forma inesperada
   </tr>
   <tr>
     <td colspan="3">   <br>Entrevista 2:    </td>
@@ -2029,16 +2045,15 @@ Segmento objetivo: Dieta saludable, comer bien, bajar de peso.
     <td>   <br>URL del   video en OneDrive:    </td>
   </tr>
   <tr>
-    <td> <img src="Img/imagen_2024-09-05_144510281.png"> </td>
-    <td>Entrevistado N°3: Elmer Riva<br>Sexo: Masculino<br>Edad: 20<br>Domicilio: Santa Anita </td>
-    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/Eegk2qvEx_NBo-WcFwOMhtIBKFoSW45hLcg2sNZWQlnPcQ?e=82ssH5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
+    <td> <img src="img/img_entrevista_Diego.jpeg"> </td>
+    <td>Entrevistado N°3: Diego Bastidas<br>Sexo: Masculino<br>Edad: 22<br>Domicilio: Comas </td>
+    <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EYVfBXVsZSpBv65-mq2tu0oB5SQfymZWFaBPBybt5PHYcA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6R1b5P" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
   </tr>
   <tr>
     <td colspan="3">   <br>Resumen   de la entrevista:   </td>
   </tr>
   <tr>
-    <td colspan="3">El joven Elmer intentó una dieta llegando a mantenerla por varias semanas pero llegaron <br>eventos festivos lo cuál le impidió seguir limitándose. Le gustaría que la aplicación tuviera <br>recordatorios y cómo alentarlo a seguir progresando. Incluso saber cuantas calorías de <br>cada alimento o producto y que sería ideal para ciertos días para evitar romper la dieta.</td>
-  </tr>
+    <td colspan="3">El joven Diego le interesó la página web por sus funcionalidades de control de luz y agua, al poder promediarlo y tener un recuento de las fechas establecidas, de poder colocar límites y en dado el caso se llegue a apgar si es que se excede y recomienda agregar uno para el agua ya que solo hay para luz hasta el momento.</td>
 </tbody></table>
 
 
@@ -2097,7 +2112,7 @@ src=https://hackmd.io/_uploads/BJpLvqe-1l.png) ><br></td>
     <td>   <br>URL del   video en OneDrive:    </td>
   </tr>
   <tr>
-    <td> <img src="Img/imagen_2024-09-05_144601015.png"></td>
+    <td> <img src="img/img_entrevista_Sebas.jpeg"></td>
     <td>Entrevistado N°3: Sebastian Escobar<br>Sexo:  Masculino<br>Edad: 20<br>Domicilio: Santa Anita</td>
     <td>Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/ETwGMP5dnbFLilrDYOlHPk4BYFE2MYcn4d5hkpHQBPgUKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AlrD7X" target="_blank" rel="noopener noreferrer">Entrevista #3</a></td>
   </tr>
