@@ -2332,6 +2332,6 @@ Recuperado de: https://cdn.www.gob.pe/uploads/document/file/5277829/4742711-anua
 |Diapositivas TP1: | https://www.canva.com/design/DAGP6trFurc/pn4cYCiEMuXqh1UNgfjkiQ/edit?utm_content=DAGP6trFurc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton | 
 |Url Figma NutriMove| https://www.figma.com/design/8mXQy6OqvddLIzoc5O7Q17/Untitled?node-id=0-1&t=2hhP7dX3Dbz8CFci-1| 
 |Url Trello| https://trello.com/invite/accept-board| 
-|About The Product: | (Enlace)  |
+|About The Product: | https://drive.google.com/file/d/1tHZagLXcFnvC15zvZJ6UwhaxFId6Rr71/view?usp=sharing |
 |About The Team: | (Enlace)  | 
 |Video Exposicion TB2: | (Enlace) |
