@@ -1963,7 +1963,7 @@ Back-end:
 
 | Alumno                            | Actividad                                                                                                         |
 |-----------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Jhunior De la Cruz                | Sprint Backlog 3  Execution Evidence for Sprint Review  Registro de Entrevistas                                   |
+| Jhunior Taquiri                | Sprint Backlog 3  Execution Evidence for Sprint Review  Registro de Entrevistas                                   |
 | Roy Hernan                        | Sprint Planning 3  Development Evidence for Sprint Review  Team Collaboration Insights during Sprint.             |
 | Jhon Guerrero                     | Sprint Backlog 3  Services Documentation Evidence for Sprint Review  Evaluaciones según heurísticas               |
 | Silva Tirado  Sebastian Valentino | Development Evidence for Sprint Review  Software Deployment Evidence for Sprint Review.  Video About the Product. |
