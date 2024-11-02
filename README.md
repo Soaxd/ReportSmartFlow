@@ -1832,6 +1832,10 @@ Web Application:
 <div id='5.2.3.2.'><h5> 5.2.3.2.Sprint Backlog 3.</h5></div>
 
 En el tercer sprint backlog, el equipo siguió avanzando en la actualización de las aplicaciones web frontend, integradas con el backend y la base de datos. Para asegurar una distribución equilibrada de las tareas, empleamos el sprint board, dividiendo las user stories y asignándolas a los integrantes del equipo.
+![TRELLO 3](https://hackmd.io/_uploads/Hk_ob-7Wkl.png)
+Link del Trello: 
+https://trello.com/invite/b/66d73edb5618b3cd0f39f482/ATTI2dec547061f12a9931506a87c6191b64E25EC3F3/sprint-backlog-3
+
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">   </span><br><span style="font-weight:normal"># Sprint   </span></th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="7"><span style="font-weight:normal">Sprint 3</span></th></tr></thead>
 <tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">   <br>User Story   </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="6">Work Item/Task</td></tr>
@@ -1850,7 +1854,7 @@ En el tercer sprint backlog, el equipo siguió avanzando en la actualización de
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">US032</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Conectar nuevos dispositivos IoT</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">EP007</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Integración y Conectividad</td>
 <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Como técnico de mantenimiento, quiero conectar nuevos dispositivos IoT al sistema de monitoreo.</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Jhunior Taquiri </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Done   </td></tr>
 </tbody></table>
-<img src=https://hackmd.io/_uploads/HJHQOgXZJl.png>
+
 
 
 
