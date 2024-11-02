@@ -2279,13 +2279,15 @@ Por cada alerta o notificación que aparece no se actualiza en la pestaña de al
 - Recomendación:
 Actualizar el programa para que por cada alerta se guarde automaticamente en la pestaña y sea más efectivo.
  
-
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
 
 A continuación, te presentamos el video 'Acerca del producto', donde podrás conocer a fondo el propósito, las ventajas y las principales características de nuestra aplicación. Además, incluimos testimonios reales de nuestros usuarios que respaldan la calidad de nuestro software.
 
-Enlace para visualizar el video About the product:
-Enlace del video subido a Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EeRmsA6AfMFEjd78WjqkV68BEWrXIpJVIfswG5Sp4lNchA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kVAznC
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sección</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Características del video</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sobre el contenido</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Integración y entrega</th></tr></thead>
+<tbody>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">About The Product</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">       Cantidad de videos: 1<br>       Nomenclatura: upc-pre-202402-si730-sw51-pesoftware-about-the-product-sprint-3<br>       Formato: .mp4<br>       Duración: 9:21 min     </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">       Video relacionado acerca de las funcionalidades y descripciones del producto.     </td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">       Screenshot: <br>       <img src="img/img_aboutTheProduct.jpg" alt="ATT" height="220"/><br>       Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EeRmsA6AfMFEjd78WjqkV68BEWrXIpJVIfswG5Sp4lNchA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;e=kVAznC</td></tr>
+</tbody></table>
 
 # 6. Conclusiones
 <a name="conclusiones"></a>
