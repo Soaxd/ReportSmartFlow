@@ -2082,24 +2082,132 @@ En este Sprint #4, hemos culminado el desarrollo del backend, estableciendo una 
 
 En este Sprint #4, hemos finalizado la integración completa del backend con la aplicación web. Tras conectar la base de datos y optimizar el rendimiento, hemos desplegado la aplicación en un entorno de producción. Ahora se puede acceder a todas las funcionalidades de la aplicación.
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">Endpoint </th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="4">Details</th></tr></thead>
-<tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">Alarmas</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="4">Guardar la información de las alarmas como tipo, valor, umbral, fecha.</td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">Consumos</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="4">Guardar la información para aparato, cantidad, watts.</td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">Control</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="4">Guardar la información para producto, cantidad, peso ,precio.</td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">Registros</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="4">Guardar la información para titulo, descripción, estado.</td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">User</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="4">Guardar la información para nombre, correo, contraseña.</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Repository</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Branch</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Commit Id</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Commit message</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Commit message body</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Commited on (Date)</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" rowspan="5">https://github.com/SmartFlow-UPC/SmartFlow-platform</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">feature-alarmas</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">e46f660</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">commit alarmas</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">commit alarmas</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">01/11/224</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">feature-control</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">47039f1</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">commit control</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">commit control</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">01/11/224</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">feature-registro</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">60cddce</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">commit registro</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">commit registro</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">01/11/224</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">feature-extras</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">08eb1df</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">commit extras</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">commit extras</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">01/11/224</td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">main</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">56f0bde</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Merge pull request #3 from SmartFlow-UPC/feature-extras</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Merge pull request #3 from SmartFlow-UPC/feature-extras</td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">01/11/224</td></tr>
+<table><thead>
+  <tr>
+    <th colspan="2">Endpoint </th>
+    <th colspan="4">Details</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Alarmas</td>
+    <td colspan="4">Guardar la información de las alarmas como tipo, valor, umbral, fecha.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Consumos</td>
+    <td colspan="4">Guardar la información para aparato, cantidad, watts.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Control</td>
+    <td colspan="4">Guardar la información para producto, cantidad, peso ,precio.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Registros</td>
+    <td colspan="4">Guardar la información para titulo, descripción, estado.</td>
+  </tr>
+  <tr>
+    <td colspan="2">User</td>
+    <td colspan="4">Guardar la información para nombre, correo, contraseña.</td>
+  </tr>
+  <tr>
+    <td>Repository</td>
+    <td>Branch</td>
+    <td>Commit Id</td>
+    <td>Commit message</td>
+    <td>Commit message body</td>
+    <td>Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td rowspan="13"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>https://github.com/SmartFlow-UPC/SmartFlow-platform</td>
+    <td>hotfix-alarmas</td>
+    <td>de024f1</td>
+    <td>commit Alarmasv2</td>
+    <td>commit Alarmasv2</td>
+    <td>18/11/2024</td>
+  </tr>
+  <tr>
+    <td>hotfix-control</td>
+    <td>ecffabc</td>
+    <td>commit Controlv2</td>
+    <td>commit Controlv2</td>
+    <td>18/11/2024</td>
+  </tr>
+  <tr>
+    <td>hotfix-registro</td>
+    <td>ff9d417</td>
+    <td>commit RegistrosV2</td>
+    <td>commit RegistrosV2</td>
+    <td>18/11/2024</td>
+  </tr>
+  <tr>
+    <td>hotfix-consumos</td>
+    <td>c99c912</td>
+    <td>commit ConsumosV2</td>
+    <td>commit ConsumosV2</td>
+    <td>18/11/2024</td>
+  </tr>
+  <tr>
+    <td>develop2</td>
+    <td>bdc6394</td>
+    <td>Merge pull request #1 from SmartFlow-UPC/feature-control</td>
+    <td>Merge pull request #1 from SmartFlow-UPC/feature-control</td>
+    <td>18/11/2024</td>
+  </tr>
+  <tr>
+    <td>develop2</td>
+    <td>0027f88</td>
+    <td>Merge pull request #2 from SmartFlow-UPC/feature-registro</td>
+    <td>Merge pull request #2 from SmartFlow-UPC/feature-registro</td>
+    <td>18/11/2024</td>
+  </tr>
+  <tr>
+    <td>develop2</td>
+    <td>56f0bde</td>
+    <td>Merge pull request #3 from SmartFlow-UPC/feature-extras</td>
+    <td>Merge pull request #3 from SmartFlow-UPC/feature-extras</td>
+    <td>18/11/2024</td>
+  </tr>
+  <tr>
+    <td>develop2</td>
+    <td>1e4d7f8</td>
+    <td>Merge pull request #5 from SmartFlow-UPC/hotfix-alarmas</td>
+    <td>Merge pull request #5 from SmartFlow-UPC/hotfix-alarmas</td>
+    <td>18/11/2024</td>
+  </tr>
+  <tr>
+    <td>develop2</td>
+    <td>24e3f66</td>
+    <td>commit errores</td>
+    <td>commit errores</td>
+    <td>18/11/2024</td>
+  </tr>
+  <tr>
+    <td>develop2</td>
+    <td>c69a4a8</td>
+    <td>commit consumos</td>
+    <td>commit errores</td>
+    <td>18/11/2024</td>
+  </tr>
+  <tr>
+    <td>develop2</td>
+    <td>7d826ac</td>
+    <td>Commit control</td>
+    <td>Commit control</td>
+    <td>18/11/2024</td>
+  </tr>
+  <tr>
+    <td>develop2</td>
+    <td>7722604</td>
+    <td>commit Registro</td>
+    <td>commit Registro</td>
+    <td>18/11/2024</td>
+  </tr>
+  <tr>
+    <td>main</td>
+    <td>ef82015</td>
+    <td>Merge pull request #8 from SmartFlow-UPC/develop2</td>
+    <td>Merge pull request #8 from SmartFlow-UPC/develop2</td>
+    <td>18/11/2024</td>
+  </tr>
 </tbody></table>
 
 <div id='5.2.4.7.'><h5> 5.2.4.7.Software Deployment Evidence for Sprint Review.</h5></div>
