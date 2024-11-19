@@ -2112,7 +2112,6 @@ En el cuarto sprint backlog, el equipo persistió avanzando con este último spr
 
 
 <div id='5.2.4.4.'><h5> 5.2.4.4.Testing Suite Evidence for Sprint Review.</h5></div>
-   <h6>Repositorio: <a href="https://github.com/SmartFlow-UPC/SmartFlow-platform" target="_blank" rel="noopener noreferrer">SmartFlow-UPC/SmartFlow-platform</a></h6>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
   <thead>
@@ -2165,14 +2164,6 @@ En el cuarto sprint backlog, el equipo persistió avanzando con este último spr
   </tbody>
 </table>
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
-<tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Repository   </th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Branch   </th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Commit ID   </th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Commit<br>   <br>Message   </th>
-<th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Commit<br>   <br>Message Body   </th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Committed on (Date)   </th></tr>
-</thead>
-<tbody>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br><a href="https://github.com/SmartFlow-UPC/SmartFlow-platform">https://github.com/SmartFlow-UPC/SmartFlow-platform</a><br>   <br>    </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">main</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">02cf82b</td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Merge pull request #5 from SmartFlow-UPC/featrue-control</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Merge pull request #5 from SmartFlow-UPC/featrue-control</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>29/10/2024   </td></tr>
-</tbody></table>
 
 <div id='5.2.4.5.'><h5> 5.2.4.5.Execution Evidence for Sprint Review.</h5></div>
 
