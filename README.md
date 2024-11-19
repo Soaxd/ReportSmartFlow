@@ -2035,6 +2035,82 @@ En el cuarto sprint backlog, el equipo persistió avanzando con este último spr
 <div id='5.2.4.3.'><h5> 5.2.4.3.Development Evidence for Sprint Review.</h5></div>
 
 <h6>Repositorio: <a href="https://github.com/SmartFlow-UPC/SmartFlow-platform" target="_blank" rel="noopener noreferrer">SmartFlow-UPC/SmartFlow-platform</a></h6>
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+  <thead>
+    <tr>
+     <th style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px; text-align: left;">Repository</th>
+      <th style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px; text-align: left;">Branch</th>
+      <th style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px; text-align: left;">Commit ID</th>
+      <th style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px; text-align: left;">Commit Message</th>
+      <th style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px; text-align: left;">Commit Message Body</th>
+      <th style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px; text-align: left;">Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;" rowspan="12"><a href="https://github.com/SmartFlow-UPC/SmartFlow-platform" target="_blank" rel="noopener noreferrer">https://github.com/SmartFlow-UPC/SmartFlow-platform</a></td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">main</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">295063a</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Merge branch 'main' into feature-control</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Merged main branch into feature-control to align recent changes</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">28/10/2024</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">revisión-consumo</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">c69a4a8</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">commit consumos</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Improved data consumption tracking</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">18/11/2024</td>
+    </tr>
+    <tr> <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">hotfix-alarmas</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">de024f1</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">commit Alarmasv2</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Updated alarms module</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">18/11/2024</td>
+    </tr>
+    <tr> <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">hotfix-registros</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">ff9d417</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">commit RegistrosV2</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Enhanced registration workflows</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">18/11/2024</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">control de revisión</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">ecffabc</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">commit Controlv2</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Refined control functions</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">18/11/2024</td>
+    </tr>
+    <tr> <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">develop2</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">bdc6394</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Merge pull request #1 from feature-control</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Integrated new control features</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">18/11/2024</td>
+    </tr>
+    <tr> <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">develop2</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">0027f88</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Merge pull request #2 from feature-registro</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Incorporated user registration updates</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">18/11/2024</td>
+    </tr>
+    <tr> <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">develop2</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">56f0bde</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Merge pull request #3 from feature-extras</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Added extra features for performance</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">01/11/2024</td>
+    </tr>
+    <tr> <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">develop2</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">1e4d7f8</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Merge pull request #5 from hotfix-alarmas</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Fixed alarm issues</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">18/11/2024</td>
+    </tr>
+    <tr> <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">main</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">ef82015</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Merge pull request #8 from develop2</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Finalized latest development changes</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">18/11/2024</td>
+    </tr> </tbody> </table>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
 <tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Repository   </th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Branch   </th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Commit ID   </th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Commit<br>   <br>Message   </th>
