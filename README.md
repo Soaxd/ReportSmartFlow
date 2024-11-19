@@ -2029,7 +2029,7 @@ En el cuarto sprint backlog, el equipo persistió avanzando con este último spr
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
 <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Roy Hernan</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Done   </td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td>
-<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Jhunior De la Cruz</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Done   </td></tr>
+<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> Giussepe Taquiri</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Done   </td></tr>
 </tbody></table>
 
 <div id='5.2.4.3.'><h5> 5.2.4.3.Development Evidence for Sprint Review.</h5></div>
@@ -2112,7 +2112,59 @@ En el cuarto sprint backlog, el equipo persistió avanzando con este último spr
 
 
 <div id='5.2.4.4.'><h5> 5.2.4.4.Testing Suite Evidence for Sprint Review.</h5></div>
-   
+   <h6>Repositorio: <a href="https://github.com/SmartFlow-UPC/SmartFlow-platform" target="_blank" rel="noopener noreferrer">SmartFlow-UPC/SmartFlow-platform</a></h6>
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px; text-align: left;">Repository</th>
+      <th style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px; text-align: left;">Branch</th>
+      <th style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px; text-align: left;">Commit ID</th>
+      <th style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px; text-align: left;">Commit Message</th>
+      <th style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px; text-align: left;">Commit Message Body</th>
+      <th style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px; text-align: left;">Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;" rowspan="5"><a href="https://github.com/SmartFlow-UPC/SmartFlow-platform" target="_blank" rel="noopener noreferrer">https://github.com/SmartFlow-UPC/SmartFlow-platform</a></td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">main</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">02cf82b</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Merge pull request #5 from SmartFlow-UPC/feature-control</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Merged feature-control branch into main to incorporate recent testing updates</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">29/10/2024</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">develop2</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">56f0bde</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Merge pull request #3 from feature-extras</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Added additional testing features for enhanced performance validation</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">01/11/2024</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">main</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">295063a</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Merge branch 'main' into feature-control</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Ensured alignment between main and feature-control branches for consistent testing</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">28/10/2024</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">hotfix-alarmas</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">de024f1</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">commit Alarmasv2</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Updated alarms module to refine test scenarios</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">18/11/2024</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">develop2</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">ef82015</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Merge pull request #8 from develop2</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">Completed final testing updates in the develop2 branch and merged to main</td>
+      <td style="border: 1px solid black; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px;">18/11/2024</td>
+    </tr>
+  </tbody>
+</table>
+
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
 <tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Repository   </th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Branch   </th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Commit ID   </th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Commit<br>   <br>Message   </th>
 <th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Commit<br>   <br>Message Body   </th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Committed on (Date)   </th></tr>
