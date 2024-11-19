@@ -42,11 +42,11 @@ width=30%"/>
 ## Team members:
 | Nombre |Código|
 |:-------:|:----------:|
-|Góngora Castillejos, Williams Jesus |U20221C186|
-|Taquir Calderon , Jhunior Giussepe |U20221C576|
 |De La Cruz Moreno, Roy Hernan |U202218634|
+|Góngora Castillejos, Williams Jesus |U20221C186|
 |Guerrero Vasquez, Jhon Danny |U202116246|
 |Silva Tirado, Sebastian Valentino |U20211G296|
+|Taquir Calderon , Jhunior Giussepe |U20221C576|
 
 </br>
 </br>
@@ -2314,11 +2314,11 @@ Back-end:
 
 | Alumno | Actividad |
 |-----------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Jhunior De la Cruz | Sprint Backlog 4 - Execution Evidence for Sprint Review |
-| Roy Hernan | Sprint Planning 4 - Development Evidence for Sprint Review - Team Collaboration Insights during Sprint.             |
-| Jhon Guerrero | Sprint Backlog 4 - Services Documentation Evidence for Sprint Review |
+| De La Cruz Moreno, Roy Hernan | Sprint Planning 4 - Development Evidence for Sprint Review - Team Collaboration Insights during Sprint.             |
+| Góngora Castillejos, Williams Jesus | Sprint Planning 4 - Testing Suite Evidence for Sprint Review |
+| Guerrero Vasquez, Jhon Danny | Sprint Backlog 4 - Services Documentation Evidence for Sprint Review |
 | Silva Tirado, Sebastian Valentino | Development Evidence for Sprint Review - Software Deployment Evidence for Sprint Review. - Video About-the-Product. |
-| Williams Góngora | Sprint Planning 4 - Testing Suite Evidence for Sprint Review |
+| Taquir Calderon , Jhunior Giussepe | Sprint Backlog 4 - Execution Evidence for Sprint Review |
 
 <div id='5.3.'><h3> 5.3. Validation Interviews.</h3></div>
 
