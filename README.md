@@ -2012,6 +2012,9 @@ Back-end:
 
 <div id='5.2.4.2.'><h5> 5.2.4.2.Sprint Backlog 4.</h5></div>
 
+Link del Trello: https://trello.com/invite/b/673bf92a011e6ba27a9c49cc/ATTIbcca0a56f0cd4613fae82a6d25436edc29B2F0FD/spring-backlog-4 
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcExLyse3FgfjEpWKftWRvA4b7qR7HTGbMzx_yrBQoQ9x5dx5Mm9MCkpPtCArgWeg7sRWUD8rw4H4lnW4FmWHN2wIw47TF36eEvXmgl2geyTExkVw57-48O-bfEQz8cGLZ7XFEl?key=YoYPpLYi4hagT1I-o4NYmbxt">
+
 En el cuarto sprint backlog, el equipo persistió avanzando con este último sprint finalizando el back end y conexión con el front end. Para asegurar la distribución de los user stories, se empleó un sprint board. A continuación la distribución.
 
 |     # Sprint      | Sprint 4                                                         |                |                                                                 |                                                                                                                                                                                                                                                                          |                           |                            |                                                    |
